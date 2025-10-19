@@ -1,0 +1,3001 @@
+ID_empleado;Nombre_empleado;Cargo;Planta;Turno;Sueldo_CLP
+1;Empleado_1;Operario;Chinquihue;Mañana;1207541
+2;Empleado_2;Técnico;Chinquihue;Tarde;675757
+3;Empleado_3;Operario;Quellón;Noche;1064207
+4;Empleado_4;Operario;Puerto Montt;Tarde;735537
+5;Empleado_5;Técnico;Puerto Montt;Tarde;1840460
+6;Empleado_6;Supervisor;Chinquihue;Tarde;1039318
+7;Empleado_7;Técnico;Calbuco;Mañana;758121
+8;Empleado_8;Técnico;Chinquihue;Tarde;834270
+9;Empleado_9;Supervisor;Quellón;Tarde;1791883
+10;Empleado_10;Supervisor;Quellón;Mañana;1462846
+11;Empleado_11;Supervisor;Hornopirén;Mañana;1416432
+12;Empleado_12;Técnico;Hornopirén;Noche;990410
+13;Empleado_13;Supervisor;Hornopirén;Mañana;1610820
+14;Empleado_14;Administrativo;Calbuco;Noche;1456021
+15;Empleado_15;Técnico;Puerto Montt;Noche;1461979
+16;Empleado_16;Técnico;Puerto Montt;Mañana;1565754
+17;Empleado_17;Supervisor;Chinquihue;Tarde;1698346
+18;Empleado_18;Supervisor;Quellón;Tarde;1769356
+19;Empleado_19;Administrativo;Chinquihue;Tarde;1871734
+20;Empleado_20;Supervisor;Quellón;Tarde;1821524
+21;Empleado_21;Técnico;Puerto Montt;Noche;1864755
+22;Empleado_22;Operario;Hornopirén;Noche;508843
+23;Empleado_23;Administrativo;Quellón;Mañana;1567677
+24;Empleado_24;Supervisor;Hornopirén;Mañana;1226010
+25;Empleado_25;Administrativo;Quellón;Noche;1427145
+26;Empleado_26;Administrativo;Quellón;Noche;1581479
+27;Empleado_27;Operario;Chinquihue;Noche;1988271
+28;Empleado_28;Supervisor;Chinquihue;Tarde;1188085
+29;Empleado_29;Técnico;Quellón;Mañana;746191
+30;Empleado_30;Operario;Hornopirén;Noche;1068919
+31;Empleado_31;Administrativo;Chinquihue;Noche;1953394
+32;Empleado_32;Operario;Calbuco;Tarde;970739
+33;Empleado_33;Administrativo;Quellón;Tarde;1682268
+34;Empleado_34;Administrativo;Calbuco;Noche;1236612
+35;Empleado_35;Operario;Hornopirén;Tarde;900713
+36;Empleado_36;Operario;Puerto Montt;Mañana;1188391
+37;Empleado_37;Administrativo;Quellón;Mañana;1116656
+38;Empleado_38;Operario;Hornopirén;Mañana;1658559
+39;Empleado_39;Técnico;Calbuco;Mañana;1812341
+40;Empleado_40;Operario;Puerto Montt;Mañana;1884672
+41;Empleado_41;Técnico;Hornopirén;Tarde;773110
+42;Empleado_42;Administrativo;Quellón;Noche;1276682
+43;Empleado_43;Supervisor;Quellón;Noche;622553
+44;Empleado_44;Supervisor;Quellón;Tarde;1918913
+45;Empleado_45;Supervisor;Chinquihue;Mañana;581175
+46;Empleado_46;Administrativo;Quellón;Mañana;1248976
+47;Empleado_47;Supervisor;Quellón;Noche;1695367
+48;Empleado_48;Administrativo;Calbuco;Noche;1322046
+49;Empleado_49;Operario;Puerto Montt;Mañana;1255151
+50;Empleado_50;Técnico;Calbuco;Noche;1203743
+51;Empleado_51;Supervisor;Puerto Montt;Noche;1423685
+52;Empleado_52;Administrativo;Chinquihue;Mañana;1372839
+53;Empleado_53;Técnico;Puerto Montt;Mañana;602769
+54;Empleado_54;Administrativo;Chinquihue;Mañana;1452557
+55;Empleado_55;Operario;Quellón;Mañana;1511273
+56;Empleado_56;Operario;Calbuco;Noche;1366478
+57;Empleado_57;Técnico;Calbuco;Noche;937628
+58;Empleado_58;Operario;Chinquihue;Noche;1348911
+59;Empleado_59;Técnico;Calbuco;Tarde;576833
+60;Empleado_60;Supervisor;Calbuco;Tarde;509946
+61;Empleado_61;Operario;Calbuco;Mañana;1135830
+62;Empleado_62;Operario;Calbuco;Mañana;1743677
+63;Empleado_63;Técnico;Quellón;Tarde;1438865
+64;Empleado_64;Supervisor;Chinquihue;Tarde;1147239
+65;Empleado_65;Supervisor;Calbuco;Noche;805839
+66;Empleado_66;Operario;Quellón;Mañana;1063041
+67;Empleado_67;Administrativo;Calbuco;Tarde;1214518
+68;Empleado_68;Técnico;Puerto Montt;Mañana;924613
+69;Empleado_69;Operario;Chinquihue;Tarde;853539
+70;Empleado_70;Supervisor;Hornopirén;Noche;1866267
+71;Empleado_71;Técnico;Calbuco;Noche;1049397
+72;Empleado_72;Supervisor;Chinquihue;Noche;1801123
+73;Empleado_73;Técnico;Chinquihue;Noche;538842
+74;Empleado_74;Operario;Chinquihue;Mañana;1849606
+75;Empleado_75;Supervisor;Calbuco;Mañana;835561
+76;Empleado_76;Supervisor;Hornopirén;Noche;777661
+77;Empleado_77;Administrativo;Chinquihue;Tarde;1682981
+78;Empleado_78;Operario;Chinquihue;Mañana;831282
+79;Empleado_79;Técnico;Calbuco;Noche;1943237
+80;Empleado_80;Administrativo;Calbuco;Noche;1982140
+81;Empleado_81;Supervisor;Calbuco;Tarde;1093273
+82;Empleado_82;Operario;Quellón;Noche;1702430
+83;Empleado_83;Operario;Hornopirén;Tarde;804371
+84;Empleado_84;Operario;Hornopirén;Tarde;1613085
+85;Empleado_85;Supervisor;Puerto Montt;Tarde;1116140
+86;Empleado_86;Operario;Hornopirén;Noche;564749
+87;Empleado_87;Técnico;Chinquihue;Tarde;1409520
+88;Empleado_88;Técnico;Hornopirén;Noche;1220495
+89;Empleado_89;Operario;Puerto Montt;Tarde;1106966
+90;Empleado_90;Administrativo;Chinquihue;Mañana;944077
+91;Empleado_91;Supervisor;Calbuco;Tarde;1168300
+92;Empleado_92;Supervisor;Quellón;Tarde;1739474
+93;Empleado_93;Administrativo;Hornopirén;Tarde;1025402
+94;Empleado_94;Técnico;Puerto Montt;Mañana;1609651
+95;Empleado_95;Supervisor;Hornopirén;Noche;1800666
+96;Empleado_96;Supervisor;Puerto Montt;Mañana;1749255
+97;Empleado_97;Técnico;Hornopirén;Tarde;605225
+98;Empleado_98;Operario;Quellón;Mañana;1662589
+99;Empleado_99;Administrativo;Quellón;Noche;1247092
+100;Empleado_100;Administrativo;Puerto Montt;Tarde;1243505
+101;Empleado_101;Operario;Chinquihue;Noche;1086595
+102;Empleado_102;Técnico;Chinquihue;Tarde;595082
+103;Empleado_103;Técnico;Quellón;Tarde;752420
+104;Empleado_104;Administrativo;Quellón;Noche;1085974
+105;Empleado_105;Operario;Calbuco;Noche;535040
+106;Empleado_106;Técnico;Chinquihue;Tarde;1019959
+107;Empleado_107;Técnico;Hornopirén;Mañana;806076
+108;Empleado_108;Administrativo;Quellón;Mañana;1475449
+109;Empleado_109;Técnico;Chinquihue;Tarde;581147
+110;Empleado_110;Supervisor;Chinquihue;Mañana;1359927
+111;Empleado_111;Administrativo;Calbuco;Mañana;601868
+112;Empleado_112;Técnico;Chinquihue;Noche;964425
+113;Empleado_113;Operario;Puerto Montt;Mañana;1014011
+114;Empleado_114;Supervisor;Hornopirén;Noche;1705256
+115;Empleado_115;Operario;Calbuco;Noche;1204440
+116;Empleado_116;Administrativo;Puerto Montt;Tarde;1966831
+117;Empleado_117;Operario;Hornopirén;Noche;1564660
+118;Empleado_118;Operario;Hornopirén;Mañana;511068
+119;Empleado_119;Administrativo;Quellón;Noche;1951521
+120;Empleado_120;Supervisor;Chinquihue;Noche;1980083
+121;Empleado_121;Administrativo;Quellón;Tarde;1402162
+122;Empleado_122;Supervisor;Quellón;Noche;1504128
+123;Empleado_123;Administrativo;Chinquihue;Mañana;1758329
+124;Empleado_124;Supervisor;Quellón;Noche;1314987
+125;Empleado_125;Supervisor;Puerto Montt;Mañana;1296639
+126;Empleado_126;Supervisor;Calbuco;Tarde;984531
+127;Empleado_127;Técnico;Quellón;Mañana;1387420
+128;Empleado_128;Técnico;Quellón;Tarde;792043
+129;Empleado_129;Supervisor;Puerto Montt;Mañana;1865638
+130;Empleado_130;Técnico;Puerto Montt;Noche;1113289
+131;Empleado_131;Operario;Quellón;Noche;1483600
+132;Empleado_132;Operario;Puerto Montt;Mañana;1569775
+133;Empleado_133;Técnico;Chinquihue;Tarde;1652592
+134;Empleado_134;Administrativo;Quellón;Tarde;1983134
+135;Empleado_135;Administrativo;Calbuco;Noche;571517
+136;Empleado_136;Supervisor;Quellón;Mañana;1736458
+137;Empleado_137;Técnico;Hornopirén;Tarde;655918
+138;Empleado_138;Administrativo;Puerto Montt;Mañana;1928906
+139;Empleado_139;Operario;Hornopirén;Noche;509017
+140;Empleado_140;Supervisor;Chinquihue;Tarde;868959
+141;Empleado_141;Administrativo;Chinquihue;Mañana;625178
+142;Empleado_142;Administrativo;Calbuco;Tarde;1460215
+143;Empleado_143;Operario;Quellón;Noche;1342902
+144;Empleado_144;Supervisor;Chinquihue;Noche;951904
+145;Empleado_145;Administrativo;Hornopirén;Mañana;1255306
+146;Empleado_146;Técnico;Quellón;Mañana;948215
+147;Empleado_147;Supervisor;Calbuco;Noche;1827436
+148;Empleado_148;Supervisor;Puerto Montt;Noche;883555
+149;Empleado_149;Operario;Puerto Montt;Tarde;1494756
+150;Empleado_150;Técnico;Hornopirén;Noche;1355402
+151;Empleado_151;Operario;Calbuco;Mañana;1002681
+152;Empleado_152;Administrativo;Calbuco;Mañana;1149336
+153;Empleado_153;Operario;Quellón;Tarde;584484
+154;Empleado_154;Supervisor;Quellón;Noche;1879883
+155;Empleado_155;Supervisor;Calbuco;Mañana;521600
+156;Empleado_156;Administrativo;Puerto Montt;Mañana;942732
+157;Empleado_157;Técnico;Hornopirén;Noche;1380640
+158;Empleado_158;Operario;Quellón;Noche;1998894
+159;Empleado_159;Administrativo;Quellón;Mañana;819313
+160;Empleado_160;Técnico;Puerto Montt;Noche;1818196
+161;Empleado_161;Técnico;Calbuco;Tarde;1657553
+162;Empleado_162;Supervisor;Hornopirén;Mañana;1633145
+163;Empleado_163;Administrativo;Calbuco;Noche;1321226
+164;Empleado_164;Técnico;Puerto Montt;Noche;1765172
+165;Empleado_165;Supervisor;Puerto Montt;Tarde;1983639
+166;Empleado_166;Técnico;Quellón;Mañana;958205
+167;Empleado_167;Técnico;Puerto Montt;Noche;1954139
+168;Empleado_168;Supervisor;Hornopirén;Mañana;720711
+169;Empleado_169;Técnico;Chinquihue;Noche;1519935
+170;Empleado_170;Operario;Quellón;Noche;1866649
+171;Empleado_171;Técnico;Hornopirén;Noche;1119578
+172;Empleado_172;Técnico;Quellón;Noche;1782863
+173;Empleado_173;Supervisor;Hornopirén;Noche;1488914
+174;Empleado_174;Técnico;Quellón;Tarde;1818240
+175;Empleado_175;Supervisor;Calbuco;Tarde;1011074
+176;Empleado_176;Técnico;Chinquihue;Mañana;1474115
+177;Empleado_177;Administrativo;Chinquihue;Tarde;898645
+178;Empleado_178;Operario;Hornopirén;Tarde;1707982
+179;Empleado_179;Operario;Quellón;Noche;637407
+180;Empleado_180;Operario;Puerto Montt;Mañana;1725962
+181;Empleado_181;Operario;Chinquihue;Mañana;1575154
+182;Empleado_182;Supervisor;Chinquihue;Noche;1986745
+183;Empleado_183;Operario;Quellón;Mañana;960602
+184;Empleado_184;Operario;Calbuco;Mañana;619154
+185;Empleado_185;Técnico;Hornopirén;Noche;1421948
+186;Empleado_186;Administrativo;Hornopirén;Tarde;1212716
+187;Empleado_187;Supervisor;Chinquihue;Mañana;1583215
+188;Empleado_188;Supervisor;Hornopirén;Mañana;912967
+189;Empleado_189;Supervisor;Calbuco;Mañana;1393430
+190;Empleado_190;Técnico;Hornopirén;Mañana;1576113
+191;Empleado_191;Supervisor;Chinquihue;Mañana;1587030
+192;Empleado_192;Administrativo;Calbuco;Mañana;1867443
+193;Empleado_193;Operario;Hornopirén;Noche;734998
+194;Empleado_194;Técnico;Quellón;Noche;960872
+195;Empleado_195;Operario;Quellón;Mañana;1684500
+196;Empleado_196;Administrativo;Quellón;Tarde;1164259
+197;Empleado_197;Supervisor;Hornopirén;Tarde;1087975
+198;Empleado_198;Técnico;Calbuco;Noche;619312
+199;Empleado_199;Operario;Quellón;Tarde;1763967
+200;Empleado_200;Supervisor;Puerto Montt;Tarde;962847
+201;Empleado_201;Técnico;Hornopirén;Noche;1795848
+202;Empleado_202;Administrativo;Puerto Montt;Mañana;810806
+203;Empleado_203;Operario;Chinquihue;Mañana;1779466
+204;Empleado_204;Operario;Chinquihue;Mañana;757955
+205;Empleado_205;Supervisor;Quellón;Tarde;587563
+206;Empleado_206;Supervisor;Calbuco;Mañana;871957
+207;Empleado_207;Administrativo;Quellón;Tarde;522768
+208;Empleado_208;Administrativo;Chinquihue;Noche;905212
+209;Empleado_209;Operario;Quellón;Noche;1258113
+210;Empleado_210;Operario;Hornopirén;Noche;622051
+211;Empleado_211;Supervisor;Puerto Montt;Tarde;669059
+212;Empleado_212;Supervisor;Chinquihue;Mañana;1936747
+213;Empleado_213;Operario;Puerto Montt;Tarde;1859416
+214;Empleado_214;Operario;Calbuco;Mañana;1373302
+215;Empleado_215;Técnico;Quellón;Noche;1195609
+216;Empleado_216;Técnico;Calbuco;Mañana;1262949
+217;Empleado_217;Técnico;Chinquihue;Noche;857571
+218;Empleado_218;Operario;Chinquihue;Mañana;1927241
+219;Empleado_219;Supervisor;Puerto Montt;Mañana;1961562
+220;Empleado_220;Administrativo;Quellón;Tarde;910623
+221;Empleado_221;Técnico;Calbuco;Mañana;1797856
+222;Empleado_222;Técnico;Chinquihue;Mañana;853491
+223;Empleado_223;Operario;Quellón;Mañana;1700220
+224;Empleado_224;Técnico;Calbuco;Tarde;1271578
+225;Empleado_225;Técnico;Quellón;Noche;521513
+226;Empleado_226;Administrativo;Chinquihue;Mañana;1758052
+227;Empleado_227;Operario;Hornopirén;Mañana;795644
+228;Empleado_228;Administrativo;Quellón;Tarde;1786654
+229;Empleado_229;Administrativo;Hornopirén;Tarde;682260
+230;Empleado_230;Operario;Puerto Montt;Noche;524971
+231;Empleado_231;Supervisor;Quellón;Noche;1710327
+232;Empleado_232;Operario;Chinquihue;Noche;1347653
+233;Empleado_233;Administrativo;Calbuco;Mañana;1906847
+234;Empleado_234;Supervisor;Hornopirén;Tarde;1623384
+235;Empleado_235;Administrativo;Quellón;Tarde;1409461
+236;Empleado_236;Operario;Quellón;Tarde;778072
+237;Empleado_237;Técnico;Puerto Montt;Tarde;1590452
+238;Empleado_238;Operario;Calbuco;Tarde;1927138
+239;Empleado_239;Técnico;Hornopirén;Noche;718924
+240;Empleado_240;Técnico;Chinquihue;Tarde;1872744
+241;Empleado_241;Administrativo;Calbuco;Tarde;533970
+242;Empleado_242;Técnico;Puerto Montt;Tarde;979742
+243;Empleado_243;Operario;Chinquihue;Mañana;1253134
+244;Empleado_244;Técnico;Chinquihue;Noche;939862
+245;Empleado_245;Administrativo;Puerto Montt;Mañana;1748600
+246;Empleado_246;Técnico;Chinquihue;Mañana;1783023
+247;Empleado_247;Supervisor;Puerto Montt;Mañana;1019624
+248;Empleado_248;Administrativo;Calbuco;Tarde;737918
+249;Empleado_249;Técnico;Quellón;Tarde;779422
+250;Empleado_250;Operario;Chinquihue;Noche;1927035
+251;Empleado_251;Administrativo;Puerto Montt;Noche;1204364
+252;Empleado_252;Administrativo;Chinquihue;Mañana;969274
+253;Empleado_253;Operario;Puerto Montt;Tarde;1414652
+254;Empleado_254;Administrativo;Calbuco;Mañana;1933998
+255;Empleado_255;Operario;Quellón;Mañana;1422693
+256;Empleado_256;Operario;Hornopirén;Noche;622233
+257;Empleado_257;Supervisor;Puerto Montt;Noche;1934439
+258;Empleado_258;Administrativo;Chinquihue;Noche;645894
+259;Empleado_259;Supervisor;Quellón;Tarde;1898333
+260;Empleado_260;Operario;Puerto Montt;Tarde;635033
+261;Empleado_261;Administrativo;Hornopirén;Tarde;774057
+262;Empleado_262;Técnico;Calbuco;Noche;1096507
+263;Empleado_263;Operario;Hornopirén;Mañana;1980881
+264;Empleado_264;Operario;Puerto Montt;Noche;1663216
+265;Empleado_265;Administrativo;Hornopirén;Tarde;1592773
+266;Empleado_266;Operario;Quellón;Mañana;1889063
+267;Empleado_267;Administrativo;Calbuco;Mañana;1995554
+268;Empleado_268;Técnico;Chinquihue;Noche;977369
+269;Empleado_269;Operario;Quellón;Noche;1254124
+270;Empleado_270;Operario;Calbuco;Tarde;1362470
+271;Empleado_271;Supervisor;Puerto Montt;Mañana;1068729
+272;Empleado_272;Supervisor;Hornopirén;Mañana;1904740
+273;Empleado_273;Técnico;Quellón;Mañana;1244122
+274;Empleado_274;Técnico;Calbuco;Tarde;978249
+275;Empleado_275;Operario;Puerto Montt;Mañana;1692999
+276;Empleado_276;Supervisor;Puerto Montt;Mañana;1220986
+277;Empleado_277;Supervisor;Hornopirén;Noche;1337393
+278;Empleado_278;Técnico;Hornopirén;Tarde;1069267
+279;Empleado_279;Operario;Calbuco;Tarde;1342437
+280;Empleado_280;Supervisor;Hornopirén;Noche;1764243
+281;Empleado_281;Operario;Calbuco;Mañana;889280
+282;Empleado_282;Administrativo;Puerto Montt;Noche;566616
+283;Empleado_283;Administrativo;Chinquihue;Noche;1950782
+284;Empleado_284;Operario;Hornopirén;Noche;1458416
+285;Empleado_285;Supervisor;Puerto Montt;Mañana;1594829
+286;Empleado_286;Supervisor;Chinquihue;Tarde;1172029
+287;Empleado_287;Técnico;Quellón;Noche;1431433
+288;Empleado_288;Supervisor;Chinquihue;Tarde;1563748
+289;Empleado_289;Operario;Puerto Montt;Noche;656757
+290;Empleado_290;Técnico;Calbuco;Tarde;905005
+291;Empleado_291;Operario;Quellón;Mañana;918147
+292;Empleado_292;Supervisor;Quellón;Noche;1025276
+293;Empleado_293;Técnico;Hornopirén;Tarde;826853
+294;Empleado_294;Operario;Quellón;Noche;1801844
+295;Empleado_295;Operario;Calbuco;Noche;1416330
+296;Empleado_296;Supervisor;Puerto Montt;Tarde;1470515
+297;Empleado_297;Técnico;Quellón;Mañana;839122
+298;Empleado_298;Operario;Quellón;Mañana;1863082
+299;Empleado_299;Operario;Quellón;Tarde;797295
+300;Empleado_300;Operario;Quellón;Tarde;1905028
+301;Empleado_301;Supervisor;Hornopirén;Tarde;808821
+302;Empleado_302;Administrativo;Calbuco;Tarde;782810
+303;Empleado_303;Operario;Hornopirén;Noche;518619
+304;Empleado_304;Operario;Quellón;Mañana;1128021
+305;Empleado_305;Técnico;Hornopirén;Mañana;1936599
+306;Empleado_306;Operario;Calbuco;Tarde;1730009
+307;Empleado_307;Supervisor;Chinquihue;Mañana;1999611
+308;Empleado_308;Técnico;Calbuco;Mañana;1222688
+309;Empleado_309;Supervisor;Calbuco;Tarde;1615048
+310;Empleado_310;Técnico;Quellón;Mañana;1054557
+311;Empleado_311;Técnico;Puerto Montt;Mañana;1979871
+312;Empleado_312;Técnico;Quellón;Noche;983197
+313;Empleado_313;Supervisor;Hornopirén;Tarde;1803376
+314;Empleado_314;Técnico;Quellón;Tarde;1083340
+315;Empleado_315;Supervisor;Puerto Montt;Noche;1806712
+316;Empleado_316;Operario;Hornopirén;Tarde;800275
+317;Empleado_317;Administrativo;Quellón;Tarde;1677709
+318;Empleado_318;Técnico;Quellón;Mañana;594502
+319;Empleado_319;Operario;Calbuco;Tarde;1525430
+320;Empleado_320;Administrativo;Chinquihue;Tarde;923669
+321;Empleado_321;Administrativo;Puerto Montt;Mañana;1098744
+322;Empleado_322;Técnico;Calbuco;Mañana;754560
+323;Empleado_323;Técnico;Quellón;Tarde;1244549
+324;Empleado_324;Supervisor;Hornopirén;Tarde;776501
+325;Empleado_325;Administrativo;Puerto Montt;Mañana;1566563
+326;Empleado_326;Administrativo;Calbuco;Noche;1642303
+327;Empleado_327;Administrativo;Calbuco;Mañana;1358508
+328;Empleado_328;Técnico;Chinquihue;Noche;590208
+329;Empleado_329;Administrativo;Chinquihue;Mañana;950396
+330;Empleado_330;Administrativo;Quellón;Tarde;1849789
+331;Empleado_331;Operario;Chinquihue;Mañana;1114765
+332;Empleado_332;Operario;Puerto Montt;Noche;680709
+333;Empleado_333;Operario;Hornopirén;Noche;1919925
+334;Empleado_334;Supervisor;Quellón;Noche;1686733
+335;Empleado_335;Operario;Quellón;Noche;614171
+336;Empleado_336;Administrativo;Quellón;Tarde;671208
+337;Empleado_337;Técnico;Hornopirén;Tarde;877240
+338;Empleado_338;Técnico;Calbuco;Noche;852239
+339;Empleado_339;Operario;Quellón;Noche;815224
+340;Empleado_340;Operario;Quellón;Mañana;651811
+341;Empleado_341;Supervisor;Chinquihue;Tarde;984616
+342;Empleado_342;Operario;Hornopirén;Tarde;1069540
+343;Empleado_343;Técnico;Chinquihue;Mañana;1561528
+344;Empleado_344;Técnico;Hornopirén;Mañana;861109
+345;Empleado_345;Técnico;Calbuco;Mañana;867271
+346;Empleado_346;Operario;Puerto Montt;Noche;894956
+347;Empleado_347;Operario;Hornopirén;Noche;754968
+348;Empleado_348;Técnico;Hornopirén;Tarde;1999990
+349;Empleado_349;Técnico;Calbuco;Tarde;1961359
+350;Empleado_350;Técnico;Hornopirén;Mañana;1747434
+351;Empleado_351;Supervisor;Calbuco;Noche;1729368
+352;Empleado_352;Operario;Hornopirén;Mañana;1382636
+353;Empleado_353;Operario;Chinquihue;Mañana;1425328
+354;Empleado_354;Administrativo;Chinquihue;Noche;1959417
+355;Empleado_355;Técnico;Chinquihue;Mañana;1519122
+356;Empleado_356;Técnico;Chinquihue;Mañana;560971
+357;Empleado_357;Técnico;Quellón;Tarde;1968965
+358;Empleado_358;Administrativo;Quellón;Tarde;946441
+359;Empleado_359;Supervisor;Hornopirén;Noche;1207982
+360;Empleado_360;Supervisor;Hornopirén;Mañana;1773487
+361;Empleado_361;Supervisor;Calbuco;Mañana;894410
+362;Empleado_362;Operario;Calbuco;Noche;1500191
+363;Empleado_363;Administrativo;Quellón;Noche;1286902
+364;Empleado_364;Supervisor;Chinquihue;Mañana;973193
+365;Empleado_365;Técnico;Puerto Montt;Mañana;619815
+366;Empleado_366;Técnico;Puerto Montt;Tarde;1839858
+367;Empleado_367;Supervisor;Quellón;Tarde;876402
+368;Empleado_368;Supervisor;Puerto Montt;Tarde;1396538
+369;Empleado_369;Administrativo;Puerto Montt;Mañana;1901175
+370;Empleado_370;Operario;Puerto Montt;Mañana;1222789
+371;Empleado_371;Técnico;Puerto Montt;Noche;1027142
+372;Empleado_372;Técnico;Quellón;Mañana;1399803
+373;Empleado_373;Supervisor;Calbuco;Mañana;752296
+374;Empleado_374;Administrativo;Puerto Montt;Noche;1079950
+375;Empleado_375;Supervisor;Puerto Montt;Noche;927629
+376;Empleado_376;Supervisor;Puerto Montt;Mañana;1841346
+377;Empleado_377;Administrativo;Puerto Montt;Mañana;1746771
+378;Empleado_378;Técnico;Chinquihue;Noche;846339
+379;Empleado_379;Administrativo;Calbuco;Noche;500021
+380;Empleado_380;Operario;Hornopirén;Tarde;1407276
+381;Empleado_381;Supervisor;Calbuco;Tarde;1774621
+382;Empleado_382;Administrativo;Hornopirén;Noche;1896164
+383;Empleado_383;Operario;Chinquihue;Tarde;564812
+384;Empleado_384;Técnico;Calbuco;Tarde;1120733
+385;Empleado_385;Técnico;Puerto Montt;Tarde;1955923
+386;Empleado_386;Operario;Calbuco;Noche;812475
+387;Empleado_387;Operario;Hornopirén;Mañana;889695
+388;Empleado_388;Administrativo;Hornopirén;Tarde;1435802
+389;Empleado_389;Técnico;Chinquihue;Mañana;1640846
+390;Empleado_390;Operario;Hornopirén;Tarde;1606292
+391;Empleado_391;Operario;Quellón;Tarde;1577506
+392;Empleado_392;Técnico;Puerto Montt;Mañana;736798
+393;Empleado_393;Operario;Hornopirén;Mañana;878035
+394;Empleado_394;Supervisor;Calbuco;Tarde;631393
+395;Empleado_395;Técnico;Quellón;Noche;1008372
+396;Empleado_396;Operario;Hornopirén;Mañana;1954787
+397;Empleado_397;Supervisor;Puerto Montt;Noche;1941702
+398;Empleado_398;Supervisor;Puerto Montt;Mañana;1222481
+399;Empleado_399;Técnico;Puerto Montt;Mañana;1890042
+400;Empleado_400;Administrativo;Calbuco;Tarde;1486408
+401;Empleado_401;Administrativo;Puerto Montt;Mañana;1956354
+402;Empleado_402;Supervisor;Quellón;Noche;702388
+403;Empleado_403;Técnico;Chinquihue;Noche;1259191
+404;Empleado_404;Operario;Hornopirén;Noche;1348868
+405;Empleado_405;Administrativo;Hornopirén;Mañana;942871
+406;Empleado_406;Administrativo;Puerto Montt;Noche;1028837
+407;Empleado_407;Operario;Calbuco;Tarde;904094
+408;Empleado_408;Supervisor;Hornopirén;Tarde;1679554
+409;Empleado_409;Administrativo;Calbuco;Tarde;1315982
+410;Empleado_410;Técnico;Puerto Montt;Mañana;782119
+411;Empleado_411;Administrativo;Quellón;Tarde;506491
+412;Empleado_412;Administrativo;Quellón;Tarde;961298
+413;Empleado_413;Administrativo;Calbuco;Mañana;848261
+414;Empleado_414;Administrativo;Chinquihue;Mañana;838701
+415;Empleado_415;Técnico;Quellón;Mañana;1765517
+416;Empleado_416;Supervisor;Hornopirén;Noche;1780204
+417;Empleado_417;Administrativo;Quellón;Mañana;696171
+418;Empleado_418;Supervisor;Puerto Montt;Mañana;1645342
+419;Empleado_419;Supervisor;Puerto Montt;Tarde;1244815
+420;Empleado_420;Supervisor;Hornopirén;Noche;1586273
+421;Empleado_421;Operario;Hornopirén;Mañana;612971
+422;Empleado_422;Supervisor;Calbuco;Mañana;572912
+423;Empleado_423;Técnico;Puerto Montt;Tarde;854317
+424;Empleado_424;Operario;Quellón;Tarde;1093858
+425;Empleado_425;Operario;Calbuco;Tarde;1736179
+426;Empleado_426;Técnico;Calbuco;Mañana;1700211
+427;Empleado_427;Administrativo;Puerto Montt;Noche;661789
+428;Empleado_428;Administrativo;Calbuco;Mañana;1497737
+429;Empleado_429;Administrativo;Puerto Montt;Noche;953927
+430;Empleado_430;Supervisor;Calbuco;Tarde;1212008
+431;Empleado_431;Técnico;Chinquihue;Mañana;1347765
+432;Empleado_432;Administrativo;Calbuco;Tarde;741357
+433;Empleado_433;Técnico;Chinquihue;Mañana;1811121
+434;Empleado_434;Operario;Puerto Montt;Tarde;1398443
+435;Empleado_435;Administrativo;Chinquihue;Mañana;1989849
+436;Empleado_436;Supervisor;Calbuco;Noche;1382322
+437;Empleado_437;Técnico;Quellón;Noche;1895620
+438;Empleado_438;Operario;Puerto Montt;Tarde;1694902
+439;Empleado_439;Técnico;Puerto Montt;Tarde;534610
+440;Empleado_440;Operario;Quellón;Noche;1320374
+441;Empleado_441;Supervisor;Puerto Montt;Tarde;804175
+442;Empleado_442;Operario;Quellón;Noche;1754266
+443;Empleado_443;Administrativo;Puerto Montt;Tarde;1838802
+444;Empleado_444;Operario;Calbuco;Mañana;1296546
+445;Empleado_445;Supervisor;Calbuco;Tarde;1089371
+446;Empleado_446;Operario;Puerto Montt;Tarde;1277549
+447;Empleado_447;Administrativo;Quellón;Noche;1941263
+448;Empleado_448;Supervisor;Chinquihue;Mañana;742038
+449;Empleado_449;Operario;Hornopirén;Tarde;1317840
+450;Empleado_450;Supervisor;Hornopirén;Tarde;805329
+451;Empleado_451;Técnico;Calbuco;Tarde;677332
+452;Empleado_452;Técnico;Quellón;Tarde;1773194
+453;Empleado_453;Administrativo;Chinquihue;Tarde;1482316
+454;Empleado_454;Administrativo;Hornopirén;Mañana;1022153
+455;Empleado_455;Administrativo;Quellón;Mañana;1419029
+456;Empleado_456;Administrativo;Calbuco;Mañana;820488
+457;Empleado_457;Supervisor;Calbuco;Mañana;556569
+458;Empleado_458;Administrativo;Chinquihue;Mañana;1386838
+459;Empleado_459;Supervisor;Quellón;Tarde;1963139
+460;Empleado_460;Técnico;Quellón;Noche;1746609
+461;Empleado_461;Operario;Puerto Montt;Noche;830718
+462;Empleado_462;Técnico;Quellón;Mañana;1968031
+463;Empleado_463;Administrativo;Quellón;Mañana;1139583
+464;Empleado_464;Administrativo;Hornopirén;Tarde;1331389
+465;Empleado_465;Operario;Quellón;Noche;1264689
+466;Empleado_466;Técnico;Calbuco;Tarde;785800
+467;Empleado_467;Administrativo;Puerto Montt;Noche;609799
+468;Empleado_468;Administrativo;Calbuco;Tarde;1299830
+469;Empleado_469;Técnico;Puerto Montt;Noche;1113207
+470;Empleado_470;Supervisor;Chinquihue;Mañana;966651
+471;Empleado_471;Operario;Quellón;Noche;1784983
+472;Empleado_472;Técnico;Hornopirén;Mañana;1590367
+473;Empleado_473;Supervisor;Hornopirén;Noche;1027336
+474;Empleado_474;Operario;Hornopirén;Tarde;1279554
+475;Empleado_475;Operario;Quellón;Tarde;1940947
+476;Empleado_476;Técnico;Puerto Montt;Mañana;1623381
+477;Empleado_477;Supervisor;Puerto Montt;Tarde;1841697
+478;Empleado_478;Administrativo;Chinquihue;Tarde;1832352
+479;Empleado_479;Administrativo;Hornopirén;Noche;580535
+480;Empleado_480;Administrativo;Puerto Montt;Tarde;1739126
+481;Empleado_481;Supervisor;Hornopirén;Tarde;994535
+482;Empleado_482;Administrativo;Chinquihue;Tarde;1254200
+483;Empleado_483;Técnico;Hornopirén;Noche;711912
+484;Empleado_484;Administrativo;Calbuco;Mañana;933815
+485;Empleado_485;Operario;Calbuco;Mañana;1008948
+486;Empleado_486;Administrativo;Quellón;Tarde;1727841
+487;Empleado_487;Técnico;Calbuco;Tarde;506670
+488;Empleado_488;Administrativo;Puerto Montt;Mañana;1377894
+489;Empleado_489;Operario;Puerto Montt;Noche;1940488
+490;Empleado_490;Supervisor;Puerto Montt;Noche;1188375
+491;Empleado_491;Técnico;Quellón;Noche;915988
+492;Empleado_492;Administrativo;Puerto Montt;Mañana;798564
+493;Empleado_493;Supervisor;Calbuco;Mañana;1182020
+494;Empleado_494;Operario;Quellón;Tarde;798477
+495;Empleado_495;Supervisor;Quellón;Noche;1152162
+496;Empleado_496;Técnico;Puerto Montt;Tarde;1548546
+497;Empleado_497;Administrativo;Puerto Montt;Mañana;1832440
+498;Empleado_498;Operario;Puerto Montt;Noche;1043245
+499;Empleado_499;Técnico;Puerto Montt;Noche;731810
+500;Empleado_500;Técnico;Hornopirén;Mañana;1803754
+501;Empleado_501;Técnico;Hornopirén;Tarde;1496994
+502;Empleado_502;Supervisor;Puerto Montt;Tarde;1173517
+503;Empleado_503;Técnico;Puerto Montt;Tarde;1978979
+504;Empleado_504;Administrativo;Puerto Montt;Tarde;812905
+505;Empleado_505;Técnico;Calbuco;Tarde;787688
+506;Empleado_506;Supervisor;Hornopirén;Tarde;560405
+507;Empleado_507;Técnico;Puerto Montt;Noche;1714144
+508;Empleado_508;Supervisor;Hornopirén;Mañana;1466431
+509;Empleado_509;Administrativo;Puerto Montt;Noche;1668564
+510;Empleado_510;Técnico;Puerto Montt;Mañana;1047881
+511;Empleado_511;Técnico;Chinquihue;Tarde;671401
+512;Empleado_512;Técnico;Calbuco;Mañana;1297177
+513;Empleado_513;Supervisor;Puerto Montt;Tarde;1834843
+514;Empleado_514;Administrativo;Quellón;Mañana;1183227
+515;Empleado_515;Operario;Quellón;Tarde;1759588
+516;Empleado_516;Supervisor;Puerto Montt;Mañana;1804904
+517;Empleado_517;Administrativo;Calbuco;Noche;1448739
+518;Empleado_518;Supervisor;Chinquihue;Mañana;836020
+519;Empleado_519;Supervisor;Puerto Montt;Noche;1480520
+520;Empleado_520;Operario;Hornopirén;Mañana;781734
+521;Empleado_521;Administrativo;Quellón;Tarde;748527
+522;Empleado_522;Administrativo;Calbuco;Noche;596338
+523;Empleado_523;Operario;Hornopirén;Tarde;767444
+524;Empleado_524;Administrativo;Calbuco;Tarde;781936
+525;Empleado_525;Administrativo;Hornopirén;Noche;1822236
+526;Empleado_526;Técnico;Puerto Montt;Mañana;1871330
+527;Empleado_527;Administrativo;Quellón;Noche;1633017
+528;Empleado_528;Técnico;Puerto Montt;Mañana;1381159
+529;Empleado_529;Administrativo;Chinquihue;Mañana;1970726
+530;Empleado_530;Técnico;Quellón;Noche;886550
+531;Empleado_531;Técnico;Hornopirén;Mañana;1718139
+532;Empleado_532;Operario;Hornopirén;Tarde;1435682
+533;Empleado_533;Técnico;Hornopirén;Mañana;1799590
+534;Empleado_534;Administrativo;Chinquihue;Noche;760166
+535;Empleado_535;Operario;Calbuco;Tarde;1347490
+536;Empleado_536;Administrativo;Hornopirén;Noche;1860956
+537;Empleado_537;Operario;Quellón;Mañana;731282
+538;Empleado_538;Administrativo;Puerto Montt;Mañana;707658
+539;Empleado_539;Técnico;Quellón;Noche;797355
+540;Empleado_540;Operario;Hornopirén;Noche;980340
+541;Empleado_541;Supervisor;Puerto Montt;Tarde;1985344
+542;Empleado_542;Técnico;Calbuco;Noche;812979
+543;Empleado_543;Operario;Puerto Montt;Tarde;672355
+544;Empleado_544;Técnico;Chinquihue;Noche;1296678
+545;Empleado_545;Administrativo;Chinquihue;Noche;1424644
+546;Empleado_546;Operario;Puerto Montt;Noche;844573
+547;Empleado_547;Supervisor;Puerto Montt;Mañana;1284237
+548;Empleado_548;Técnico;Calbuco;Mañana;1388126
+549;Empleado_549;Técnico;Calbuco;Tarde;1360808
+550;Empleado_550;Técnico;Chinquihue;Mañana;1598373
+551;Empleado_551;Técnico;Calbuco;Mañana;1773816
+552;Empleado_552;Operario;Hornopirén;Mañana;852645
+553;Empleado_553;Administrativo;Chinquihue;Tarde;584589
+554;Empleado_554;Administrativo;Calbuco;Tarde;1045380
+555;Empleado_555;Técnico;Puerto Montt;Tarde;992603
+556;Empleado_556;Operario;Chinquihue;Mañana;1326339
+557;Empleado_557;Administrativo;Chinquihue;Noche;1166751
+558;Empleado_558;Supervisor;Chinquihue;Mañana;1242260
+559;Empleado_559;Técnico;Chinquihue;Tarde;825052
+560;Empleado_560;Administrativo;Quellón;Noche;1314687
+561;Empleado_561;Operario;Hornopirén;Mañana;928208
+562;Empleado_562;Técnico;Quellón;Mañana;1866289
+563;Empleado_563;Técnico;Quellón;Mañana;1978892
+564;Empleado_564;Técnico;Quellón;Tarde;1817307
+565;Empleado_565;Administrativo;Puerto Montt;Mañana;1365672
+566;Empleado_566;Supervisor;Puerto Montt;Noche;1004549
+567;Empleado_567;Operario;Puerto Montt;Tarde;1436313
+568;Empleado_568;Administrativo;Hornopirén;Tarde;802911
+569;Empleado_569;Técnico;Hornopirén;Mañana;1700036
+570;Empleado_570;Operario;Calbuco;Tarde;1753335
+571;Empleado_571;Administrativo;Puerto Montt;Tarde;1930190
+572;Empleado_572;Técnico;Calbuco;Mañana;1938966
+573;Empleado_573;Operario;Hornopirén;Noche;570370
+574;Empleado_574;Supervisor;Chinquihue;Mañana;991375
+575;Empleado_575;Supervisor;Hornopirén;Noche;1371385
+576;Empleado_576;Administrativo;Quellón;Noche;1557698
+577;Empleado_577;Supervisor;Puerto Montt;Tarde;1326875
+578;Empleado_578;Operario;Puerto Montt;Tarde;947339
+579;Empleado_579;Operario;Calbuco;Noche;766903
+580;Empleado_580;Operario;Puerto Montt;Tarde;1772888
+581;Empleado_581;Administrativo;Puerto Montt;Tarde;886382
+582;Empleado_582;Operario;Hornopirén;Noche;969745
+583;Empleado_583;Técnico;Calbuco;Tarde;568899
+584;Empleado_584;Técnico;Puerto Montt;Mañana;919490
+585;Empleado_585;Administrativo;Quellón;Mañana;1292231
+586;Empleado_586;Técnico;Hornopirén;Tarde;1694007
+587;Empleado_587;Supervisor;Hornopirén;Noche;570544
+588;Empleado_588;Técnico;Calbuco;Tarde;1749328
+589;Empleado_589;Operario;Hornopirén;Tarde;652822
+590;Empleado_590;Operario;Puerto Montt;Noche;995549
+591;Empleado_591;Técnico;Quellón;Noche;704599
+592;Empleado_592;Operario;Puerto Montt;Tarde;1216208
+593;Empleado_593;Supervisor;Quellón;Tarde;1680250
+594;Empleado_594;Técnico;Calbuco;Tarde;1145264
+595;Empleado_595;Administrativo;Hornopirén;Tarde;1764033
+596;Empleado_596;Técnico;Quellón;Tarde;1482893
+597;Empleado_597;Administrativo;Calbuco;Noche;1411376
+598;Empleado_598;Técnico;Chinquihue;Noche;1320731
+599;Empleado_599;Supervisor;Puerto Montt;Noche;1439145
+600;Empleado_600;Operario;Chinquihue;Tarde;576545
+601;Empleado_601;Supervisor;Puerto Montt;Tarde;892837
+602;Empleado_602;Operario;Puerto Montt;Mañana;1300422
+603;Empleado_603;Operario;Calbuco;Noche;1589448
+604;Empleado_604;Técnico;Hornopirén;Tarde;1030969
+605;Empleado_605;Técnico;Hornopirén;Noche;927058
+606;Empleado_606;Supervisor;Puerto Montt;Mañana;1920928
+607;Empleado_607;Supervisor;Chinquihue;Noche;1810730
+608;Empleado_608;Operario;Quellón;Mañana;1329388
+609;Empleado_609;Supervisor;Puerto Montt;Mañana;842495
+610;Empleado_610;Operario;Puerto Montt;Tarde;678361
+611;Empleado_611;Supervisor;Calbuco;Mañana;634635
+612;Empleado_612;Técnico;Hornopirén;Tarde;1143315
+613;Empleado_613;Administrativo;Puerto Montt;Noche;1090672
+614;Empleado_614;Supervisor;Puerto Montt;Tarde;608988
+615;Empleado_615;Operario;Quellón;Tarde;845867
+616;Empleado_616;Administrativo;Puerto Montt;Noche;1384502
+617;Empleado_617;Administrativo;Quellón;Mañana;1863272
+618;Empleado_618;Técnico;Hornopirén;Mañana;1147987
+619;Empleado_619;Técnico;Calbuco;Mañana;820842
+620;Empleado_620;Técnico;Chinquihue;Noche;1957421
+621;Empleado_621;Administrativo;Puerto Montt;Tarde;1884794
+622;Empleado_622;Administrativo;Quellón;Tarde;1130733
+623;Empleado_623;Técnico;Hornopirén;Mañana;1033462
+624;Empleado_624;Operario;Hornopirén;Noche;1833188
+625;Empleado_625;Supervisor;Hornopirén;Noche;937554
+626;Empleado_626;Administrativo;Chinquihue;Tarde;961234
+627;Empleado_627;Técnico;Chinquihue;Tarde;1503956
+628;Empleado_628;Operario;Quellón;Tarde;1010337
+629;Empleado_629;Técnico;Chinquihue;Mañana;995456
+630;Empleado_630;Técnico;Calbuco;Noche;769956
+631;Empleado_631;Supervisor;Quellón;Noche;1541145
+632;Empleado_632;Supervisor;Calbuco;Noche;1737920
+633;Empleado_633;Técnico;Chinquihue;Mañana;1396835
+634;Empleado_634;Administrativo;Chinquihue;Tarde;1849986
+635;Empleado_635;Supervisor;Quellón;Noche;1611243
+636;Empleado_636;Supervisor;Puerto Montt;Mañana;824125
+637;Empleado_637;Supervisor;Hornopirén;Tarde;1047146
+638;Empleado_638;Supervisor;Puerto Montt;Mañana;867811
+639;Empleado_639;Técnico;Hornopirén;Noche;852960
+640;Empleado_640;Operario;Calbuco;Mañana;579749
+641;Empleado_641;Técnico;Quellón;Noche;896717
+642;Empleado_642;Supervisor;Quellón;Mañana;1473545
+643;Empleado_643;Administrativo;Hornopirén;Mañana;1981744
+644;Empleado_644;Operario;Chinquihue;Noche;622492
+645;Empleado_645;Administrativo;Calbuco;Mañana;1361796
+646;Empleado_646;Técnico;Quellón;Mañana;845156
+647;Empleado_647;Operario;Puerto Montt;Noche;1236746
+648;Empleado_648;Administrativo;Quellón;Noche;1901310
+649;Empleado_649;Operario;Hornopirén;Noche;744933
+650;Empleado_650;Operario;Calbuco;Mañana;1382591
+651;Empleado_651;Técnico;Calbuco;Tarde;703136
+652;Empleado_652;Administrativo;Puerto Montt;Mañana;1132413
+653;Empleado_653;Administrativo;Quellón;Noche;1581646
+654;Empleado_654;Supervisor;Quellón;Noche;1056778
+655;Empleado_655;Administrativo;Puerto Montt;Mañana;657184
+656;Empleado_656;Operario;Puerto Montt;Tarde;1225405
+657;Empleado_657;Operario;Quellón;Mañana;1646848
+658;Empleado_658;Supervisor;Chinquihue;Tarde;1592459
+659;Empleado_659;Administrativo;Quellón;Mañana;1710362
+660;Empleado_660;Administrativo;Quellón;Noche;1059216
+661;Empleado_661;Operario;Quellón;Tarde;1982578
+662;Empleado_662;Operario;Calbuco;Mañana;1291664
+663;Empleado_663;Administrativo;Calbuco;Noche;797877
+664;Empleado_664;Operario;Calbuco;Noche;1170201
+665;Empleado_665;Administrativo;Chinquihue;Noche;1253945
+666;Empleado_666;Supervisor;Calbuco;Noche;1241902
+667;Empleado_667;Técnico;Hornopirén;Tarde;649212
+668;Empleado_668;Administrativo;Chinquihue;Noche;1415819
+669;Empleado_669;Operario;Quellón;Tarde;741471
+670;Empleado_670;Administrativo;Hornopirén;Noche;1555860
+671;Empleado_671;Técnico;Puerto Montt;Mañana;1574013
+672;Empleado_672;Supervisor;Chinquihue;Mañana;937404
+673;Empleado_673;Supervisor;Hornopirén;Tarde;514445
+674;Empleado_674;Operario;Calbuco;Noche;1461772
+675;Empleado_675;Operario;Calbuco;Mañana;1912558
+676;Empleado_676;Técnico;Chinquihue;Mañana;1938152
+677;Empleado_677;Supervisor;Chinquihue;Noche;1868246
+678;Empleado_678;Técnico;Chinquihue;Tarde;1510528
+679;Empleado_679;Administrativo;Chinquihue;Mañana;1249209
+680;Empleado_680;Supervisor;Quellón;Noche;1926574
+681;Empleado_681;Técnico;Quellón;Noche;778228
+682;Empleado_682;Administrativo;Hornopirén;Mañana;624813
+683;Empleado_683;Administrativo;Hornopirén;Mañana;1482432
+684;Empleado_684;Operario;Quellón;Noche;896326
+685;Empleado_685;Técnico;Calbuco;Mañana;1814516
+686;Empleado_686;Supervisor;Puerto Montt;Tarde;671208
+687;Empleado_687;Supervisor;Quellón;Tarde;732258
+688;Empleado_688;Supervisor;Puerto Montt;Mañana;1212255
+689;Empleado_689;Técnico;Puerto Montt;Noche;1971387
+690;Empleado_690;Técnico;Quellón;Tarde;995789
+691;Empleado_691;Operario;Quellón;Tarde;1098767
+692;Empleado_692;Técnico;Hornopirén;Noche;1780713
+693;Empleado_693;Administrativo;Quellón;Tarde;666230
+694;Empleado_694;Operario;Chinquihue;Noche;704548
+695;Empleado_695;Administrativo;Hornopirén;Tarde;1844076
+696;Empleado_696;Técnico;Puerto Montt;Tarde;1097905
+697;Empleado_697;Administrativo;Calbuco;Mañana;1128344
+698;Empleado_698;Operario;Calbuco;Mañana;867589
+699;Empleado_699;Técnico;Calbuco;Mañana;1006682
+700;Empleado_700;Administrativo;Chinquihue;Mañana;618103
+701;Empleado_701;Administrativo;Chinquihue;Mañana;1550909
+702;Empleado_702;Supervisor;Hornopirén;Noche;906353
+703;Empleado_703;Técnico;Hornopirén;Mañana;1355411
+704;Empleado_704;Administrativo;Quellón;Mañana;1574603
+705;Empleado_705;Administrativo;Quellón;Tarde;955388
+706;Empleado_706;Administrativo;Hornopirén;Noche;653546
+707;Empleado_707;Supervisor;Quellón;Noche;636040
+708;Empleado_708;Operario;Hornopirén;Mañana;738829
+709;Empleado_709;Administrativo;Hornopirén;Tarde;1145912
+710;Empleado_710;Operario;Quellón;Mañana;1453469
+711;Empleado_711;Operario;Hornopirén;Mañana;831008
+712;Empleado_712;Operario;Hornopirén;Mañana;1682922
+713;Empleado_713;Administrativo;Hornopirén;Noche;824953
+714;Empleado_714;Supervisor;Hornopirén;Tarde;1692311
+715;Empleado_715;Supervisor;Chinquihue;Tarde;565525
+716;Empleado_716;Supervisor;Puerto Montt;Noche;1045582
+717;Empleado_717;Operario;Quellón;Tarde;1062664
+718;Empleado_718;Administrativo;Quellón;Noche;1041695
+719;Empleado_719;Supervisor;Quellón;Tarde;1665194
+720;Empleado_720;Supervisor;Calbuco;Noche;902759
+721;Empleado_721;Administrativo;Puerto Montt;Mañana;1283874
+722;Empleado_722;Administrativo;Puerto Montt;Noche;763521
+723;Empleado_723;Operario;Quellón;Noche;1933730
+724;Empleado_724;Administrativo;Chinquihue;Tarde;748277
+725;Empleado_725;Administrativo;Hornopirén;Noche;1223553
+726;Empleado_726;Administrativo;Chinquihue;Noche;540738
+727;Empleado_727;Técnico;Calbuco;Mañana;1048960
+728;Empleado_728;Operario;Hornopirén;Tarde;1075922
+729;Empleado_729;Supervisor;Chinquihue;Tarde;1337971
+730;Empleado_730;Supervisor;Puerto Montt;Noche;1703357
+731;Empleado_731;Administrativo;Calbuco;Noche;1263230
+732;Empleado_732;Técnico;Calbuco;Mañana;1145682
+733;Empleado_733;Operario;Chinquihue;Noche;1648042
+734;Empleado_734;Supervisor;Chinquihue;Tarde;1534761
+735;Empleado_735;Operario;Chinquihue;Mañana;1817661
+736;Empleado_736;Técnico;Puerto Montt;Tarde;804114
+737;Empleado_737;Técnico;Quellón;Noche;1880568
+738;Empleado_738;Operario;Calbuco;Mañana;1088528
+739;Empleado_739;Operario;Chinquihue;Noche;1813952
+740;Empleado_740;Operario;Chinquihue;Noche;1779099
+741;Empleado_741;Administrativo;Calbuco;Noche;731549
+742;Empleado_742;Operario;Hornopirén;Tarde;1154066
+743;Empleado_743;Operario;Calbuco;Mañana;844200
+744;Empleado_744;Administrativo;Calbuco;Tarde;1675025
+745;Empleado_745;Técnico;Calbuco;Tarde;567734
+746;Empleado_746;Técnico;Quellón;Noche;1684670
+747;Empleado_747;Operario;Chinquihue;Noche;983022
+748;Empleado_748;Supervisor;Hornopirén;Noche;1221418
+749;Empleado_749;Administrativo;Quellón;Noche;631704
+750;Empleado_750;Administrativo;Quellón;Mañana;1424290
+751;Empleado_751;Técnico;Chinquihue;Mañana;1736917
+752;Empleado_752;Técnico;Puerto Montt;Tarde;1096087
+753;Empleado_753;Técnico;Hornopirén;Noche;1596275
+754;Empleado_754;Administrativo;Puerto Montt;Tarde;907044
+755;Empleado_755;Supervisor;Calbuco;Mañana;1695900
+756;Empleado_756;Técnico;Calbuco;Tarde;1730108
+757;Empleado_757;Operario;Chinquihue;Noche;702679
+758;Empleado_758;Supervisor;Chinquihue;Mañana;1723275
+759;Empleado_759;Operario;Calbuco;Mañana;1592169
+760;Empleado_760;Técnico;Hornopirén;Tarde;1622954
+761;Empleado_761;Operario;Calbuco;Mañana;1483927
+762;Empleado_762;Operario;Hornopirén;Tarde;1274792
+763;Empleado_763;Administrativo;Chinquihue;Tarde;1220275
+764;Empleado_764;Operario;Calbuco;Tarde;1310690
+765;Empleado_765;Operario;Calbuco;Noche;1534163
+766;Empleado_766;Supervisor;Chinquihue;Noche;804005
+767;Empleado_767;Operario;Calbuco;Mañana;1955204
+768;Empleado_768;Administrativo;Chinquihue;Tarde;1804315
+769;Empleado_769;Operario;Chinquihue;Tarde;1570906
+770;Empleado_770;Operario;Puerto Montt;Tarde;1825581
+771;Empleado_771;Operario;Puerto Montt;Tarde;1444698
+772;Empleado_772;Técnico;Quellón;Noche;979555
+773;Empleado_773;Administrativo;Calbuco;Tarde;1120686
+774;Empleado_774;Operario;Puerto Montt;Mañana;959548
+775;Empleado_775;Supervisor;Quellón;Tarde;1747278
+776;Empleado_776;Técnico;Chinquihue;Noche;1744451
+777;Empleado_777;Supervisor;Chinquihue;Noche;1721789
+778;Empleado_778;Técnico;Calbuco;Mañana;1196514
+779;Empleado_779;Supervisor;Quellón;Mañana;1073632
+780;Empleado_780;Técnico;Quellón;Noche;1102225
+781;Empleado_781;Supervisor;Quellón;Tarde;691466
+782;Empleado_782;Técnico;Hornopirén;Mañana;1389780
+783;Empleado_783;Administrativo;Hornopirén;Tarde;888842
+784;Empleado_784;Operario;Quellón;Noche;1161167
+785;Empleado_785;Técnico;Chinquihue;Mañana;1292096
+786;Empleado_786;Administrativo;Chinquihue;Tarde;1046571
+787;Empleado_787;Operario;Quellón;Mañana;1776259
+788;Empleado_788;Administrativo;Puerto Montt;Noche;1553323
+789;Empleado_789;Técnico;Hornopirén;Noche;1107122
+790;Empleado_790;Técnico;Chinquihue;Mañana;1037274
+791;Empleado_791;Operario;Chinquihue;Tarde;946034
+792;Empleado_792;Administrativo;Hornopirén;Tarde;1964463
+793;Empleado_793;Técnico;Chinquihue;Noche;1856127
+794;Empleado_794;Operario;Quellón;Tarde;1791866
+795;Empleado_795;Técnico;Puerto Montt;Mañana;1831363
+796;Empleado_796;Administrativo;Chinquihue;Tarde;1711306
+797;Empleado_797;Técnico;Quellón;Tarde;1010593
+798;Empleado_798;Administrativo;Hornopirén;Tarde;1654229
+799;Empleado_799;Supervisor;Chinquihue;Mañana;1260708
+800;Empleado_800;Administrativo;Puerto Montt;Tarde;1769687
+801;Empleado_801;Supervisor;Chinquihue;Mañana;947526
+802;Empleado_802;Administrativo;Chinquihue;Tarde;1571414
+803;Empleado_803;Supervisor;Chinquihue;Mañana;1024194
+804;Empleado_804;Administrativo;Chinquihue;Noche;1872368
+805;Empleado_805;Administrativo;Hornopirén;Tarde;781560
+806;Empleado_806;Operario;Puerto Montt;Tarde;711138
+807;Empleado_807;Operario;Chinquihue;Mañana;1918254
+808;Empleado_808;Supervisor;Quellón;Noche;503356
+809;Empleado_809;Técnico;Quellón;Tarde;685858
+810;Empleado_810;Técnico;Puerto Montt;Tarde;895340
+811;Empleado_811;Administrativo;Chinquihue;Tarde;1134219
+812;Empleado_812;Técnico;Calbuco;Noche;1199713
+813;Empleado_813;Administrativo;Puerto Montt;Mañana;1828051
+814;Empleado_814;Administrativo;Puerto Montt;Tarde;1239259
+815;Empleado_815;Supervisor;Puerto Montt;Noche;1072266
+816;Empleado_816;Operario;Quellón;Tarde;825605
+817;Empleado_817;Supervisor;Quellón;Mañana;1829946
+818;Empleado_818;Supervisor;Puerto Montt;Tarde;1634793
+819;Empleado_819;Operario;Quellón;Mañana;1247614
+820;Empleado_820;Técnico;Quellón;Mañana;1660404
+821;Empleado_821;Operario;Hornopirén;Noche;1665471
+822;Empleado_822;Supervisor;Calbuco;Noche;664744
+823;Empleado_823;Supervisor;Quellón;Mañana;826419
+824;Empleado_824;Administrativo;Chinquihue;Tarde;1358241
+825;Empleado_825;Técnico;Chinquihue;Tarde;1353489
+826;Empleado_826;Administrativo;Quellón;Tarde;1951366
+827;Empleado_827;Técnico;Hornopirén;Tarde;1026269
+828;Empleado_828;Operario;Puerto Montt;Tarde;1157793
+829;Empleado_829;Técnico;Quellón;Mañana;1745945
+830;Empleado_830;Técnico;Chinquihue;Noche;1856518
+831;Empleado_831;Administrativo;Puerto Montt;Mañana;749189
+832;Empleado_832;Administrativo;Quellón;Mañana;604665
+833;Empleado_833;Supervisor;Hornopirén;Noche;721218
+834;Empleado_834;Administrativo;Puerto Montt;Noche;1597700
+835;Empleado_835;Técnico;Hornopirén;Mañana;1772475
+836;Empleado_836;Técnico;Chinquihue;Noche;1650847
+837;Empleado_837;Administrativo;Calbuco;Noche;720454
+838;Empleado_838;Supervisor;Quellón;Noche;1730739
+839;Empleado_839;Supervisor;Calbuco;Mañana;628405
+840;Empleado_840;Supervisor;Calbuco;Noche;607116
+841;Empleado_841;Operario;Calbuco;Tarde;575934
+842;Empleado_842;Operario;Puerto Montt;Tarde;1315026
+843;Empleado_843;Operario;Puerto Montt;Noche;810148
+844;Empleado_844;Operario;Quellón;Noche;833479
+845;Empleado_845;Operario;Puerto Montt;Mañana;947510
+846;Empleado_846;Administrativo;Hornopirén;Mañana;1649650
+847;Empleado_847;Supervisor;Puerto Montt;Noche;1851769
+848;Empleado_848;Operario;Chinquihue;Mañana;1442706
+849;Empleado_849;Supervisor;Calbuco;Noche;1390299
+850;Empleado_850;Administrativo;Hornopirén;Noche;1640962
+851;Empleado_851;Administrativo;Chinquihue;Noche;1063403
+852;Empleado_852;Supervisor;Chinquihue;Noche;1038166
+853;Empleado_853;Administrativo;Chinquihue;Mañana;1519453
+854;Empleado_854;Operario;Chinquihue;Mañana;1778234
+855;Empleado_855;Supervisor;Hornopirén;Tarde;1480892
+856;Empleado_856;Administrativo;Chinquihue;Tarde;1852953
+857;Empleado_857;Administrativo;Calbuco;Tarde;729391
+858;Empleado_858;Técnico;Quellón;Mañana;1877481
+859;Empleado_859;Supervisor;Quellón;Mañana;1946183
+860;Empleado_860;Técnico;Puerto Montt;Noche;1843252
+861;Empleado_861;Operario;Chinquihue;Noche;1017193
+862;Empleado_862;Supervisor;Puerto Montt;Noche;1480627
+863;Empleado_863;Operario;Chinquihue;Mañana;731557
+864;Empleado_864;Operario;Puerto Montt;Tarde;852186
+865;Empleado_865;Operario;Chinquihue;Noche;1779873
+866;Empleado_866;Supervisor;Calbuco;Tarde;1482342
+867;Empleado_867;Operario;Puerto Montt;Mañana;1823707
+868;Empleado_868;Supervisor;Chinquihue;Mañana;1797848
+869;Empleado_869;Administrativo;Chinquihue;Mañana;886771
+870;Empleado_870;Supervisor;Hornopirén;Tarde;874258
+871;Empleado_871;Supervisor;Quellón;Mañana;994015
+872;Empleado_872;Técnico;Calbuco;Noche;1231186
+873;Empleado_873;Supervisor;Puerto Montt;Tarde;1945657
+874;Empleado_874;Administrativo;Calbuco;Noche;1214574
+875;Empleado_875;Operario;Puerto Montt;Noche;1719555
+876;Empleado_876;Supervisor;Quellón;Noche;1943261
+877;Empleado_877;Técnico;Quellón;Noche;501107
+878;Empleado_878;Administrativo;Quellón;Noche;1004869
+879;Empleado_879;Operario;Puerto Montt;Noche;974500
+880;Empleado_880;Operario;Quellón;Tarde;1377535
+881;Empleado_881;Técnico;Puerto Montt;Noche;772463
+882;Empleado_882;Operario;Quellón;Tarde;1488185
+883;Empleado_883;Administrativo;Calbuco;Mañana;871866
+884;Empleado_884;Operario;Quellón;Mañana;678869
+885;Empleado_885;Administrativo;Puerto Montt;Noche;1569089
+886;Empleado_886;Supervisor;Quellón;Tarde;1985384
+887;Empleado_887;Técnico;Chinquihue;Tarde;1847896
+888;Empleado_888;Técnico;Calbuco;Mañana;1689408
+889;Empleado_889;Técnico;Quellón;Noche;860424
+890;Empleado_890;Operario;Quellón;Noche;1091247
+891;Empleado_891;Operario;Puerto Montt;Noche;1984879
+892;Empleado_892;Operario;Puerto Montt;Tarde;939455
+893;Empleado_893;Administrativo;Calbuco;Tarde;942344
+894;Empleado_894;Operario;Quellón;Mañana;1212658
+895;Empleado_895;Administrativo;Quellón;Tarde;1435919
+896;Empleado_896;Técnico;Chinquihue;Mañana;1188539
+897;Empleado_897;Técnico;Hornopirén;Tarde;1855000
+898;Empleado_898;Operario;Quellón;Tarde;784956
+899;Empleado_899;Supervisor;Chinquihue;Mañana;1825162
+900;Empleado_900;Operario;Puerto Montt;Mañana;755223
+901;Empleado_901;Administrativo;Chinquihue;Noche;1286213
+902;Empleado_902;Técnico;Chinquihue;Noche;1202067
+903;Empleado_903;Supervisor;Calbuco;Tarde;1984073
+904;Empleado_904;Administrativo;Chinquihue;Mañana;1237179
+905;Empleado_905;Técnico;Hornopirén;Noche;1274326
+906;Empleado_906;Técnico;Chinquihue;Noche;1285460
+907;Empleado_907;Supervisor;Quellón;Mañana;1431048
+908;Empleado_908;Técnico;Quellón;Noche;643058
+909;Empleado_909;Administrativo;Quellón;Tarde;1966694
+910;Empleado_910;Supervisor;Chinquihue;Noche;1050489
+911;Empleado_911;Operario;Hornopirén;Mañana;1925357
+912;Empleado_912;Técnico;Puerto Montt;Noche;820103
+913;Empleado_913;Operario;Hornopirén;Mañana;796662
+914;Empleado_914;Operario;Hornopirén;Tarde;1946018
+915;Empleado_915;Supervisor;Hornopirén;Noche;1852365
+916;Empleado_916;Supervisor;Puerto Montt;Mañana;1840311
+917;Empleado_917;Técnico;Hornopirén;Mañana;1017827
+918;Empleado_918;Operario;Puerto Montt;Noche;889838
+919;Empleado_919;Administrativo;Chinquihue;Tarde;1824292
+920;Empleado_920;Supervisor;Hornopirén;Noche;1561153
+921;Empleado_921;Operario;Calbuco;Mañana;1023125
+922;Empleado_922;Operario;Puerto Montt;Mañana;925010
+923;Empleado_923;Supervisor;Hornopirén;Tarde;1870852
+924;Empleado_924;Supervisor;Hornopirén;Mañana;1560511
+925;Empleado_925;Administrativo;Puerto Montt;Noche;752428
+926;Empleado_926;Técnico;Puerto Montt;Noche;1641823
+927;Empleado_927;Administrativo;Puerto Montt;Noche;1652193
+928;Empleado_928;Supervisor;Hornopirén;Mañana;1698917
+929;Empleado_929;Supervisor;Chinquihue;Tarde;1974674
+930;Empleado_930;Supervisor;Quellón;Noche;1381721
+931;Empleado_931;Técnico;Hornopirén;Noche;1940411
+932;Empleado_932;Técnico;Chinquihue;Noche;1518277
+933;Empleado_933;Administrativo;Calbuco;Mañana;691254
+934;Empleado_934;Técnico;Chinquihue;Noche;758528
+935;Empleado_935;Técnico;Puerto Montt;Noche;1741413
+936;Empleado_936;Técnico;Quellón;Tarde;1337166
+937;Empleado_937;Supervisor;Hornopirén;Mañana;1703414
+938;Empleado_938;Operario;Hornopirén;Mañana;1398033
+939;Empleado_939;Técnico;Hornopirén;Mañana;1466487
+940;Empleado_940;Técnico;Hornopirén;Noche;1529932
+941;Empleado_941;Operario;Chinquihue;Tarde;1113445
+942;Empleado_942;Supervisor;Hornopirén;Mañana;1442960
+943;Empleado_943;Operario;Quellón;Tarde;636125
+944;Empleado_944;Supervisor;Calbuco;Mañana;1671479
+945;Empleado_945;Operario;Chinquihue;Mañana;1869368
+946;Empleado_946;Técnico;Hornopirén;Mañana;1608729
+947;Empleado_947;Supervisor;Hornopirén;Mañana;769852
+948;Empleado_948;Técnico;Calbuco;Mañana;1719703
+949;Empleado_949;Administrativo;Quellón;Noche;1970284
+950;Empleado_950;Administrativo;Puerto Montt;Tarde;1287628
+951;Empleado_951;Administrativo;Quellón;Noche;1890127
+952;Empleado_952;Administrativo;Hornopirén;Mañana;1112339
+953;Empleado_953;Administrativo;Chinquihue;Tarde;1882885
+954;Empleado_954;Administrativo;Calbuco;Tarde;595537
+955;Empleado_955;Técnico;Calbuco;Noche;1091276
+956;Empleado_956;Técnico;Calbuco;Tarde;813711
+957;Empleado_957;Administrativo;Chinquihue;Tarde;1095465
+958;Empleado_958;Administrativo;Quellón;Tarde;1515215
+959;Empleado_959;Técnico;Quellón;Mañana;1959576
+960;Empleado_960;Operario;Puerto Montt;Tarde;1869701
+961;Empleado_961;Técnico;Quellón;Noche;1557095
+962;Empleado_962;Administrativo;Puerto Montt;Noche;1219200
+963;Empleado_963;Administrativo;Hornopirén;Mañana;1115033
+964;Empleado_964;Operario;Quellón;Noche;724278
+965;Empleado_965;Técnico;Quellón;Mañana;1576325
+966;Empleado_966;Técnico;Chinquihue;Tarde;700344
+967;Empleado_967;Administrativo;Puerto Montt;Noche;1935585
+968;Empleado_968;Supervisor;Chinquihue;Tarde;1088511
+969;Empleado_969;Supervisor;Chinquihue;Mañana;1201542
+970;Empleado_970;Operario;Puerto Montt;Noche;1782932
+971;Empleado_971;Técnico;Chinquihue;Noche;613833
+972;Empleado_972;Administrativo;Hornopirén;Mañana;1667145
+973;Empleado_973;Técnico;Quellón;Mañana;1164228
+974;Empleado_974;Técnico;Puerto Montt;Noche;1213713
+975;Empleado_975;Administrativo;Chinquihue;Noche;831081
+976;Empleado_976;Técnico;Hornopirén;Mañana;1129084
+977;Empleado_977;Técnico;Calbuco;Tarde;1808334
+978;Empleado_978;Supervisor;Quellón;Mañana;1509053
+979;Empleado_979;Operario;Quellón;Tarde;1505904
+980;Empleado_980;Supervisor;Puerto Montt;Noche;614721
+981;Empleado_981;Técnico;Hornopirén;Mañana;891701
+982;Empleado_982;Supervisor;Hornopirén;Tarde;1640217
+983;Empleado_983;Administrativo;Calbuco;Mañana;1024315
+984;Empleado_984;Técnico;Hornopirén;Mañana;1320399
+985;Empleado_985;Técnico;Puerto Montt;Noche;1991461
+986;Empleado_986;Administrativo;Puerto Montt;Noche;1143301
+987;Empleado_987;Técnico;Quellón;Tarde;1661485
+988;Empleado_988;Técnico;Chinquihue;Tarde;753092
+989;Empleado_989;Técnico;Hornopirén;Mañana;1694023
+990;Empleado_990;Supervisor;Hornopirén;Mañana;1784075
+991;Empleado_991;Supervisor;Hornopirén;Mañana;1317215
+992;Empleado_992;Administrativo;Chinquihue;Noche;1312255
+993;Empleado_993;Supervisor;Chinquihue;Mañana;1629711
+994;Empleado_994;Supervisor;Puerto Montt;Mañana;1558010
+995;Empleado_995;Técnico;Quellón;Noche;1375238
+996;Empleado_996;Supervisor;Quellón;Tarde;1564557
+997;Empleado_997;Administrativo;Chinquihue;Tarde;1267123
+998;Empleado_998;Técnico;Puerto Montt;Tarde;1361327
+999;Empleado_999;Operario;Hornopirén;Noche;1181888
+1000;Empleado_1000;Supervisor;Calbuco;Tarde;1451689
+1001;Empleado_1001;Operario;Quellón;Mañana;1090548
+1002;Empleado_1002;Supervisor;Hornopirén;Noche;1860778
+1003;Empleado_1003;Técnico;Chinquihue;Tarde;980862
+1004;Empleado_1004;Operario;Puerto Montt;Mañana;697909
+1005;Empleado_1005;Operario;Quellón;Noche;1690182
+1006;Empleado_1006;Técnico;Quellón;Noche;1550896
+1007;Empleado_1007;Técnico;Calbuco;Tarde;1063197
+1008;Empleado_1008;Supervisor;Quellón;Tarde;1485152
+1009;Empleado_1009;Supervisor;Calbuco;Mañana;1303807
+1010;Empleado_1010;Operario;Quellón;Tarde;1337606
+1011;Empleado_1011;Supervisor;Hornopirén;Mañana;1156527
+1012;Empleado_1012;Administrativo;Puerto Montt;Noche;661035
+1013;Empleado_1013;Operario;Chinquihue;Tarde;1586732
+1014;Empleado_1014;Técnico;Hornopirén;Mañana;842924
+1015;Empleado_1015;Administrativo;Puerto Montt;Noche;1802160
+1016;Empleado_1016;Supervisor;Hornopirén;Mañana;1304716
+1017;Empleado_1017;Supervisor;Quellón;Tarde;807705
+1018;Empleado_1018;Supervisor;Calbuco;Noche;1082007
+1019;Empleado_1019;Supervisor;Quellón;Mañana;774717
+1020;Empleado_1020;Supervisor;Calbuco;Mañana;802091
+1021;Empleado_1021;Operario;Chinquihue;Tarde;1847597
+1022;Empleado_1022;Supervisor;Chinquihue;Noche;1590811
+1023;Empleado_1023;Administrativo;Hornopirén;Mañana;1698145
+1024;Empleado_1024;Operario;Calbuco;Noche;1063400
+1025;Empleado_1025;Administrativo;Puerto Montt;Tarde;610786
+1026;Empleado_1026;Supervisor;Hornopirén;Noche;1881983
+1027;Empleado_1027;Técnico;Quellón;Mañana;925424
+1028;Empleado_1028;Supervisor;Calbuco;Mañana;1765210
+1029;Empleado_1029;Administrativo;Quellón;Noche;1114991
+1030;Empleado_1030;Técnico;Chinquihue;Mañana;556987
+1031;Empleado_1031;Administrativo;Puerto Montt;Tarde;512710
+1032;Empleado_1032;Técnico;Hornopirén;Tarde;520703
+1033;Empleado_1033;Operario;Hornopirén;Mañana;1377692
+1034;Empleado_1034;Supervisor;Quellón;Mañana;762708
+1035;Empleado_1035;Técnico;Chinquihue;Mañana;921676
+1036;Empleado_1036;Administrativo;Chinquihue;Mañana;1682149
+1037;Empleado_1037;Administrativo;Puerto Montt;Tarde;1739427
+1038;Empleado_1038;Técnico;Puerto Montt;Mañana;1817874
+1039;Empleado_1039;Operario;Calbuco;Noche;637069
+1040;Empleado_1040;Supervisor;Hornopirén;Tarde;1306635
+1041;Empleado_1041;Operario;Quellón;Tarde;1856045
+1042;Empleado_1042;Supervisor;Calbuco;Noche;1711898
+1043;Empleado_1043;Supervisor;Hornopirén;Mañana;1811229
+1044;Empleado_1044;Supervisor;Quellón;Tarde;1444085
+1045;Empleado_1045;Administrativo;Calbuco;Noche;1310341
+1046;Empleado_1046;Técnico;Quellón;Noche;1696347
+1047;Empleado_1047;Administrativo;Hornopirén;Tarde;1876592
+1048;Empleado_1048;Administrativo;Puerto Montt;Noche;1482630
+1049;Empleado_1049;Operario;Quellón;Tarde;1829501
+1050;Empleado_1050;Técnico;Puerto Montt;Noche;636963
+1051;Empleado_1051;Operario;Chinquihue;Tarde;1717325
+1052;Empleado_1052;Administrativo;Calbuco;Tarde;1345674
+1053;Empleado_1053;Administrativo;Hornopirén;Mañana;1286473
+1054;Empleado_1054;Supervisor;Chinquihue;Mañana;1890287
+1055;Empleado_1055;Administrativo;Chinquihue;Noche;1700519
+1056;Empleado_1056;Operario;Calbuco;Mañana;990953
+1057;Empleado_1057;Operario;Calbuco;Tarde;1239316
+1058;Empleado_1058;Administrativo;Quellón;Mañana;1707862
+1059;Empleado_1059;Administrativo;Chinquihue;Mañana;1078431
+1060;Empleado_1060;Supervisor;Quellón;Mañana;1974865
+1061;Empleado_1061;Operario;Puerto Montt;Mañana;887785
+1062;Empleado_1062;Técnico;Calbuco;Noche;1489207
+1063;Empleado_1063;Operario;Hornopirén;Noche;847494
+1064;Empleado_1064;Operario;Puerto Montt;Noche;1436857
+1065;Empleado_1065;Administrativo;Calbuco;Noche;1613647
+1066;Empleado_1066;Supervisor;Quellón;Noche;1594479
+1067;Empleado_1067;Supervisor;Hornopirén;Mañana;1713219
+1068;Empleado_1068;Supervisor;Calbuco;Tarde;778517
+1069;Empleado_1069;Técnico;Calbuco;Noche;745442
+1070;Empleado_1070;Administrativo;Quellón;Tarde;1458711
+1071;Empleado_1071;Operario;Hornopirén;Tarde;1356754
+1072;Empleado_1072;Supervisor;Calbuco;Tarde;1496166
+1073;Empleado_1073;Operario;Hornopirén;Mañana;1160839
+1074;Empleado_1074;Técnico;Calbuco;Mañana;645861
+1075;Empleado_1075;Operario;Quellón;Mañana;1720087
+1076;Empleado_1076;Operario;Hornopirén;Tarde;1283121
+1077;Empleado_1077;Administrativo;Calbuco;Mañana;1508868
+1078;Empleado_1078;Técnico;Puerto Montt;Noche;1534043
+1079;Empleado_1079;Operario;Calbuco;Mañana;836814
+1080;Empleado_1080;Supervisor;Puerto Montt;Tarde;1957592
+1081;Empleado_1081;Supervisor;Calbuco;Mañana;800266
+1082;Empleado_1082;Técnico;Hornopirén;Tarde;1524382
+1083;Empleado_1083;Operario;Puerto Montt;Tarde;650724
+1084;Empleado_1084;Supervisor;Hornopirén;Tarde;1706947
+1085;Empleado_1085;Técnico;Puerto Montt;Mañana;1897721
+1086;Empleado_1086;Técnico;Chinquihue;Noche;1208314
+1087;Empleado_1087;Técnico;Puerto Montt;Tarde;778590
+1088;Empleado_1088;Técnico;Puerto Montt;Noche;1730931
+1089;Empleado_1089;Técnico;Quellón;Mañana;1178930
+1090;Empleado_1090;Administrativo;Puerto Montt;Mañana;1967293
+1091;Empleado_1091;Técnico;Hornopirén;Tarde;1311141
+1092;Empleado_1092;Técnico;Hornopirén;Tarde;696682
+1093;Empleado_1093;Administrativo;Calbuco;Noche;1188988
+1094;Empleado_1094;Técnico;Chinquihue;Tarde;1604612
+1095;Empleado_1095;Técnico;Calbuco;Noche;1897515
+1096;Empleado_1096;Técnico;Calbuco;Tarde;896483
+1097;Empleado_1097;Técnico;Puerto Montt;Mañana;1091325
+1098;Empleado_1098;Operario;Chinquihue;Tarde;1208946
+1099;Empleado_1099;Administrativo;Chinquihue;Mañana;764375
+1100;Empleado_1100;Administrativo;Hornopirén;Mañana;981898
+1101;Empleado_1101;Administrativo;Chinquihue;Mañana;1419835
+1102;Empleado_1102;Supervisor;Chinquihue;Tarde;1781607
+1103;Empleado_1103;Administrativo;Puerto Montt;Mañana;568553
+1104;Empleado_1104;Operario;Hornopirén;Noche;1086312
+1105;Empleado_1105;Supervisor;Hornopirén;Tarde;1389053
+1106;Empleado_1106;Administrativo;Chinquihue;Noche;1697843
+1107;Empleado_1107;Operario;Calbuco;Tarde;720152
+1108;Empleado_1108;Administrativo;Quellón;Mañana;944468
+1109;Empleado_1109;Operario;Chinquihue;Noche;1933942
+1110;Empleado_1110;Administrativo;Quellón;Mañana;1506997
+1111;Empleado_1111;Administrativo;Hornopirén;Noche;1850225
+1112;Empleado_1112;Administrativo;Quellón;Mañana;819673
+1113;Empleado_1113;Administrativo;Chinquihue;Tarde;1333946
+1114;Empleado_1114;Técnico;Quellón;Mañana;1362846
+1115;Empleado_1115;Administrativo;Chinquihue;Tarde;1178874
+1116;Empleado_1116;Técnico;Quellón;Noche;1386318
+1117;Empleado_1117;Administrativo;Quellón;Noche;1789190
+1118;Empleado_1118;Operario;Chinquihue;Mañana;521645
+1119;Empleado_1119;Técnico;Hornopirén;Noche;1444471
+1120;Empleado_1120;Operario;Puerto Montt;Tarde;665479
+1121;Empleado_1121;Técnico;Quellón;Mañana;609980
+1122;Empleado_1122;Técnico;Puerto Montt;Mañana;587318
+1123;Empleado_1123;Operario;Quellón;Noche;640978
+1124;Empleado_1124;Operario;Hornopirén;Noche;1987286
+1125;Empleado_1125;Administrativo;Calbuco;Tarde;759119
+1126;Empleado_1126;Operario;Puerto Montt;Noche;749527
+1127;Empleado_1127;Técnico;Chinquihue;Noche;1157434
+1128;Empleado_1128;Operario;Puerto Montt;Mañana;1943357
+1129;Empleado_1129;Administrativo;Chinquihue;Mañana;1338051
+1130;Empleado_1130;Operario;Hornopirén;Tarde;501311
+1131;Empleado_1131;Técnico;Puerto Montt;Noche;1139259
+1132;Empleado_1132;Supervisor;Hornopirén;Noche;556470
+1133;Empleado_1133;Técnico;Chinquihue;Tarde;665472
+1134;Empleado_1134;Técnico;Quellón;Noche;1075488
+1135;Empleado_1135;Técnico;Puerto Montt;Tarde;630529
+1136;Empleado_1136;Supervisor;Hornopirén;Noche;1247598
+1137;Empleado_1137;Administrativo;Calbuco;Mañana;1438902
+1138;Empleado_1138;Supervisor;Chinquihue;Mañana;703048
+1139;Empleado_1139;Supervisor;Hornopirén;Noche;1707656
+1140;Empleado_1140;Técnico;Puerto Montt;Mañana;1309467
+1141;Empleado_1141;Operario;Chinquihue;Mañana;1270375
+1142;Empleado_1142;Supervisor;Hornopirén;Noche;1222112
+1143;Empleado_1143;Administrativo;Hornopirén;Tarde;1366196
+1144;Empleado_1144;Operario;Calbuco;Mañana;801989
+1145;Empleado_1145;Técnico;Puerto Montt;Tarde;1498363
+1146;Empleado_1146;Administrativo;Calbuco;Tarde;501308
+1147;Empleado_1147;Técnico;Hornopirén;Mañana;553340
+1148;Empleado_1148;Operario;Puerto Montt;Tarde;963383
+1149;Empleado_1149;Operario;Calbuco;Tarde;1745385
+1150;Empleado_1150;Operario;Hornopirén;Noche;871924
+1151;Empleado_1151;Técnico;Chinquihue;Mañana;700045
+1152;Empleado_1152;Supervisor;Quellón;Noche;1300664
+1153;Empleado_1153;Supervisor;Quellón;Mañana;1778265
+1154;Empleado_1154;Operario;Calbuco;Mañana;1380762
+1155;Empleado_1155;Operario;Calbuco;Noche;1762478
+1156;Empleado_1156;Técnico;Quellón;Noche;1671085
+1157;Empleado_1157;Supervisor;Calbuco;Tarde;1620750
+1158;Empleado_1158;Operario;Hornopirén;Tarde;1654311
+1159;Empleado_1159;Técnico;Quellón;Tarde;1502183
+1160;Empleado_1160;Supervisor;Quellón;Mañana;511185
+1161;Empleado_1161;Técnico;Quellón;Tarde;1436551
+1162;Empleado_1162;Técnico;Puerto Montt;Tarde;1541143
+1163;Empleado_1163;Supervisor;Calbuco;Tarde;868874
+1164;Empleado_1164;Administrativo;Quellón;Mañana;754999
+1165;Empleado_1165;Administrativo;Calbuco;Tarde;757004
+1166;Empleado_1166;Técnico;Quellón;Noche;1490050
+1167;Empleado_1167;Operario;Hornopirén;Noche;555584
+1168;Empleado_1168;Técnico;Hornopirén;Mañana;912242
+1169;Empleado_1169;Operario;Hornopirén;Noche;1577827
+1170;Empleado_1170;Operario;Hornopirén;Mañana;1917390
+1171;Empleado_1171;Técnico;Chinquihue;Mañana;566290
+1172;Empleado_1172;Operario;Chinquihue;Tarde;687008
+1173;Empleado_1173;Administrativo;Quellón;Noche;1983127
+1174;Empleado_1174;Administrativo;Hornopirén;Mañana;1374814
+1175;Empleado_1175;Supervisor;Quellón;Noche;1235282
+1176;Empleado_1176;Operario;Quellón;Mañana;1331707
+1177;Empleado_1177;Operario;Quellón;Noche;1021963
+1178;Empleado_1178;Técnico;Hornopirén;Tarde;1689450
+1179;Empleado_1179;Administrativo;Puerto Montt;Mañana;803762
+1180;Empleado_1180;Administrativo;Puerto Montt;Mañana;1873275
+1181;Empleado_1181;Administrativo;Calbuco;Noche;984941
+1182;Empleado_1182;Administrativo;Quellón;Mañana;939221
+1183;Empleado_1183;Operario;Hornopirén;Mañana;749321
+1184;Empleado_1184;Operario;Hornopirén;Mañana;1193847
+1185;Empleado_1185;Administrativo;Hornopirén;Mañana;837356
+1186;Empleado_1186;Operario;Puerto Montt;Mañana;1683990
+1187;Empleado_1187;Supervisor;Chinquihue;Mañana;767646
+1188;Empleado_1188;Técnico;Hornopirén;Mañana;1228519
+1189;Empleado_1189;Administrativo;Quellón;Tarde;1763990
+1190;Empleado_1190;Técnico;Quellón;Mañana;849056
+1191;Empleado_1191;Supervisor;Quellón;Noche;1953791
+1192;Empleado_1192;Técnico;Hornopirén;Noche;1648883
+1193;Empleado_1193;Técnico;Calbuco;Noche;777035
+1194;Empleado_1194;Operario;Quellón;Mañana;1665504
+1195;Empleado_1195;Operario;Hornopirén;Mañana;1055382
+1196;Empleado_1196;Operario;Calbuco;Tarde;1036197
+1197;Empleado_1197;Operario;Calbuco;Tarde;1662543
+1198;Empleado_1198;Técnico;Puerto Montt;Mañana;1840501
+1199;Empleado_1199;Técnico;Hornopirén;Noche;1111847
+1200;Empleado_1200;Supervisor;Quellón;Mañana;655153
+1201;Empleado_1201;Técnico;Calbuco;Tarde;624492
+1202;Empleado_1202;Técnico;Quellón;Mañana;1040689
+1203;Empleado_1203;Supervisor;Hornopirén;Tarde;1416182
+1204;Empleado_1204;Técnico;Chinquihue;Noche;1029207
+1205;Empleado_1205;Supervisor;Puerto Montt;Tarde;1646768
+1206;Empleado_1206;Técnico;Quellón;Noche;1001346
+1207;Empleado_1207;Supervisor;Chinquihue;Noche;674588
+1208;Empleado_1208;Operario;Hornopirén;Mañana;1769383
+1209;Empleado_1209;Operario;Chinquihue;Mañana;1719095
+1210;Empleado_1210;Técnico;Chinquihue;Tarde;840209
+1211;Empleado_1211;Administrativo;Calbuco;Mañana;1330303
+1212;Empleado_1212;Técnico;Puerto Montt;Mañana;1938030
+1213;Empleado_1213;Operario;Chinquihue;Mañana;1955913
+1214;Empleado_1214;Operario;Chinquihue;Tarde;761325
+1215;Empleado_1215;Técnico;Puerto Montt;Tarde;1534082
+1216;Empleado_1216;Administrativo;Quellón;Mañana;1884434
+1217;Empleado_1217;Operario;Chinquihue;Mañana;830063
+1218;Empleado_1218;Operario;Quellón;Noche;707202
+1219;Empleado_1219;Administrativo;Hornopirén;Noche;899351
+1220;Empleado_1220;Administrativo;Chinquihue;Noche;1924228
+1221;Empleado_1221;Supervisor;Hornopirén;Mañana;1066779
+1222;Empleado_1222;Operario;Quellón;Tarde;1871035
+1223;Empleado_1223;Supervisor;Quellón;Mañana;512659
+1224;Empleado_1224;Técnico;Calbuco;Noche;1058660
+1225;Empleado_1225;Administrativo;Quellón;Mañana;1381580
+1226;Empleado_1226;Supervisor;Calbuco;Mañana;1519746
+1227;Empleado_1227;Operario;Calbuco;Noche;1464088
+1228;Empleado_1228;Operario;Chinquihue;Mañana;866309
+1229;Empleado_1229;Operario;Calbuco;Tarde;1133664
+1230;Empleado_1230;Técnico;Quellón;Noche;1101145
+1231;Empleado_1231;Técnico;Chinquihue;Tarde;1732457
+1232;Empleado_1232;Supervisor;Hornopirén;Noche;894761
+1233;Empleado_1233;Administrativo;Calbuco;Mañana;1849481
+1234;Empleado_1234;Supervisor;Calbuco;Mañana;1539881
+1235;Empleado_1235;Técnico;Quellón;Tarde;1334999
+1236;Empleado_1236;Técnico;Puerto Montt;Tarde;1172658
+1237;Empleado_1237;Técnico;Puerto Montt;Noche;1474822
+1238;Empleado_1238;Operario;Hornopirén;Mañana;1793452
+1239;Empleado_1239;Operario;Calbuco;Mañana;1691890
+1240;Empleado_1240;Operario;Calbuco;Mañana;1466709
+1241;Empleado_1241;Operario;Hornopirén;Mañana;838127
+1242;Empleado_1242;Técnico;Calbuco;Tarde;924794
+1243;Empleado_1243;Operario;Puerto Montt;Noche;642485
+1244;Empleado_1244;Supervisor;Chinquihue;Noche;931617
+1245;Empleado_1245;Administrativo;Calbuco;Mañana;1115590
+1246;Empleado_1246;Administrativo;Calbuco;Tarde;1526456
+1247;Empleado_1247;Supervisor;Quellón;Tarde;664363
+1248;Empleado_1248;Técnico;Puerto Montt;Tarde;1678530
+1249;Empleado_1249;Operario;Chinquihue;Mañana;1777685
+1250;Empleado_1250;Operario;Quellón;Tarde;658225
+1251;Empleado_1251;Supervisor;Hornopirén;Tarde;1197754
+1252;Empleado_1252;Supervisor;Hornopirén;Noche;1453941
+1253;Empleado_1253;Operario;Puerto Montt;Mañana;1666605
+1254;Empleado_1254;Administrativo;Puerto Montt;Noche;799464
+1255;Empleado_1255;Técnico;Quellón;Mañana;1735933
+1256;Empleado_1256;Operario;Calbuco;Noche;865171
+1257;Empleado_1257;Administrativo;Puerto Montt;Tarde;1822431
+1258;Empleado_1258;Administrativo;Calbuco;Noche;1776002
+1259;Empleado_1259;Administrativo;Quellón;Noche;1566753
+1260;Empleado_1260;Supervisor;Hornopirén;Noche;1364098
+1261;Empleado_1261;Administrativo;Puerto Montt;Tarde;1519236
+1262;Empleado_1262;Supervisor;Calbuco;Tarde;1654999
+1263;Empleado_1263;Administrativo;Chinquihue;Tarde;1478031
+1264;Empleado_1264;Técnico;Hornopirén;Mañana;718114
+1265;Empleado_1265;Supervisor;Calbuco;Tarde;606858
+1266;Empleado_1266;Supervisor;Quellón;Tarde;1719436
+1267;Empleado_1267;Administrativo;Puerto Montt;Mañana;1778041
+1268;Empleado_1268;Administrativo;Chinquihue;Noche;835726
+1269;Empleado_1269;Operario;Puerto Montt;Noche;933824
+1270;Empleado_1270;Operario;Hornopirén;Mañana;1387335
+1271;Empleado_1271;Técnico;Quellón;Tarde;981844
+1272;Empleado_1272;Técnico;Hornopirén;Noche;1901462
+1273;Empleado_1273;Operario;Calbuco;Noche;919843
+1274;Empleado_1274;Administrativo;Hornopirén;Noche;1765734
+1275;Empleado_1275;Supervisor;Puerto Montt;Noche;1021711
+1276;Empleado_1276;Técnico;Hornopirén;Mañana;1733834
+1277;Empleado_1277;Técnico;Calbuco;Tarde;1103887
+1278;Empleado_1278;Operario;Calbuco;Tarde;1524486
+1279;Empleado_1279;Operario;Quellón;Noche;607798
+1280;Empleado_1280;Técnico;Quellón;Tarde;878366
+1281;Empleado_1281;Administrativo;Quellón;Tarde;635741
+1282;Empleado_1282;Administrativo;Hornopirén;Tarde;1741811
+1283;Empleado_1283;Técnico;Calbuco;Tarde;924421
+1284;Empleado_1284;Administrativo;Calbuco;Mañana;711752
+1285;Empleado_1285;Operario;Quellón;Tarde;836523
+1286;Empleado_1286;Administrativo;Calbuco;Mañana;1861510
+1287;Empleado_1287;Técnico;Hornopirén;Noche;1015049
+1288;Empleado_1288;Administrativo;Calbuco;Tarde;1247258
+1289;Empleado_1289;Supervisor;Puerto Montt;Tarde;1197091
+1290;Empleado_1290;Operario;Hornopirén;Tarde;1289412
+1291;Empleado_1291;Técnico;Calbuco;Noche;1629690
+1292;Empleado_1292;Supervisor;Chinquihue;Mañana;680636
+1293;Empleado_1293;Supervisor;Hornopirén;Mañana;561903
+1294;Empleado_1294;Administrativo;Chinquihue;Noche;1657957
+1295;Empleado_1295;Operario;Chinquihue;Noche;780958
+1296;Empleado_1296;Supervisor;Quellón;Mañana;928110
+1297;Empleado_1297;Técnico;Calbuco;Noche;1607572
+1298;Empleado_1298;Técnico;Calbuco;Tarde;1829000
+1299;Empleado_1299;Supervisor;Chinquihue;Tarde;1964655
+1300;Empleado_1300;Técnico;Puerto Montt;Noche;1107585
+1301;Empleado_1301;Técnico;Chinquihue;Tarde;1931904
+1302;Empleado_1302;Técnico;Hornopirén;Mañana;1628374
+1303;Empleado_1303;Administrativo;Hornopirén;Noche;1068392
+1304;Empleado_1304;Operario;Hornopirén;Noche;1769496
+1305;Empleado_1305;Técnico;Chinquihue;Mañana;1137031
+1306;Empleado_1306;Operario;Calbuco;Mañana;1585946
+1307;Empleado_1307;Técnico;Calbuco;Noche;1837922
+1308;Empleado_1308;Administrativo;Hornopirén;Mañana;1143793
+1309;Empleado_1309;Técnico;Quellón;Tarde;665163
+1310;Empleado_1310;Administrativo;Quellón;Tarde;947972
+1311;Empleado_1311;Técnico;Puerto Montt;Mañana;828368
+1312;Empleado_1312;Técnico;Calbuco;Tarde;1609106
+1313;Empleado_1313;Supervisor;Quellón;Mañana;1973133
+1314;Empleado_1314;Administrativo;Quellón;Noche;628669
+1315;Empleado_1315;Técnico;Calbuco;Mañana;1774761
+1316;Empleado_1316;Operario;Puerto Montt;Noche;1091203
+1317;Empleado_1317;Operario;Quellón;Mañana;1451450
+1318;Empleado_1318;Supervisor;Puerto Montt;Noche;1464908
+1319;Empleado_1319;Operario;Quellón;Mañana;1292140
+1320;Empleado_1320;Operario;Chinquihue;Tarde;924543
+1321;Empleado_1321;Operario;Chinquihue;Tarde;916517
+1322;Empleado_1322;Administrativo;Quellón;Noche;1082093
+1323;Empleado_1323;Técnico;Quellón;Tarde;1015858
+1324;Empleado_1324;Administrativo;Chinquihue;Tarde;1840149
+1325;Empleado_1325;Administrativo;Hornopirén;Noche;986028
+1326;Empleado_1326;Administrativo;Puerto Montt;Tarde;1790341
+1327;Empleado_1327;Operario;Puerto Montt;Mañana;1480115
+1328;Empleado_1328;Administrativo;Quellón;Tarde;854374
+1329;Empleado_1329;Supervisor;Calbuco;Tarde;1499042
+1330;Empleado_1330;Operario;Chinquihue;Noche;1858994
+1331;Empleado_1331;Supervisor;Chinquihue;Noche;1428477
+1332;Empleado_1332;Administrativo;Puerto Montt;Tarde;1184893
+1333;Empleado_1333;Técnico;Hornopirén;Tarde;1916889
+1334;Empleado_1334;Supervisor;Hornopirén;Noche;1556335
+1335;Empleado_1335;Técnico;Quellón;Tarde;1445052
+1336;Empleado_1336;Técnico;Chinquihue;Tarde;1965622
+1337;Empleado_1337;Administrativo;Chinquihue;Mañana;1857805
+1338;Empleado_1338;Supervisor;Chinquihue;Tarde;1364213
+1339;Empleado_1339;Supervisor;Chinquihue;Noche;901171
+1340;Empleado_1340;Supervisor;Puerto Montt;Tarde;1543442
+1341;Empleado_1341;Técnico;Calbuco;Tarde;906318
+1342;Empleado_1342;Supervisor;Quellón;Noche;1703979
+1343;Empleado_1343;Administrativo;Puerto Montt;Mañana;1240641
+1344;Empleado_1344;Administrativo;Hornopirén;Tarde;1948186
+1345;Empleado_1345;Administrativo;Chinquihue;Noche;1358282
+1346;Empleado_1346;Administrativo;Calbuco;Noche;1662532
+1347;Empleado_1347;Administrativo;Quellón;Mañana;1402002
+1348;Empleado_1348;Técnico;Calbuco;Mañana;581090
+1349;Empleado_1349;Administrativo;Puerto Montt;Tarde;1208703
+1350;Empleado_1350;Técnico;Quellón;Noche;1815095
+1351;Empleado_1351;Operario;Quellón;Mañana;1604678
+1352;Empleado_1352;Operario;Quellón;Tarde;897587
+1353;Empleado_1353;Administrativo;Puerto Montt;Mañana;707831
+1354;Empleado_1354;Administrativo;Calbuco;Tarde;793135
+1355;Empleado_1355;Administrativo;Puerto Montt;Tarde;1202517
+1356;Empleado_1356;Operario;Hornopirén;Noche;1182076
+1357;Empleado_1357;Supervisor;Puerto Montt;Noche;1894107
+1358;Empleado_1358;Operario;Hornopirén;Noche;1173038
+1359;Empleado_1359;Supervisor;Chinquihue;Tarde;673718
+1360;Empleado_1360;Operario;Puerto Montt;Tarde;1136664
+1361;Empleado_1361;Supervisor;Quellón;Mañana;836850
+1362;Empleado_1362;Técnico;Quellón;Tarde;1029759
+1363;Empleado_1363;Técnico;Quellón;Mañana;1865515
+1364;Empleado_1364;Operario;Puerto Montt;Noche;1463704
+1365;Empleado_1365;Supervisor;Calbuco;Tarde;1404726
+1366;Empleado_1366;Operario;Hornopirén;Noche;1732700
+1367;Empleado_1367;Operario;Calbuco;Mañana;1891527
+1368;Empleado_1368;Supervisor;Puerto Montt;Noche;1004923
+1369;Empleado_1369;Operario;Quellón;Mañana;1802577
+1370;Empleado_1370;Operario;Chinquihue;Tarde;786121
+1371;Empleado_1371;Administrativo;Chinquihue;Mañana;749287
+1372;Empleado_1372;Supervisor;Hornopirén;Mañana;541385
+1373;Empleado_1373;Supervisor;Chinquihue;Tarde;1491705
+1374;Empleado_1374;Técnico;Calbuco;Tarde;631191
+1375;Empleado_1375;Operario;Calbuco;Mañana;1007578
+1376;Empleado_1376;Técnico;Chinquihue;Mañana;1061165
+1377;Empleado_1377;Operario;Quellón;Mañana;1857269
+1378;Empleado_1378;Operario;Hornopirén;Tarde;1012389
+1379;Empleado_1379;Técnico;Hornopirén;Mañana;1823413
+1380;Empleado_1380;Supervisor;Calbuco;Mañana;1186129
+1381;Empleado_1381;Administrativo;Puerto Montt;Tarde;579688
+1382;Empleado_1382;Supervisor;Hornopirén;Tarde;719980
+1383;Empleado_1383;Técnico;Quellón;Mañana;1162871
+1384;Empleado_1384;Supervisor;Hornopirén;Tarde;1806522
+1385;Empleado_1385;Operario;Chinquihue;Mañana;1209180
+1386;Empleado_1386;Supervisor;Calbuco;Mañana;749669
+1387;Empleado_1387;Operario;Quellón;Mañana;1799669
+1388;Empleado_1388;Administrativo;Hornopirén;Mañana;1761610
+1389;Empleado_1389;Técnico;Hornopirén;Mañana;1726883
+1390;Empleado_1390;Administrativo;Quellón;Mañana;1927056
+1391;Empleado_1391;Técnico;Chinquihue;Noche;1867476
+1392;Empleado_1392;Administrativo;Calbuco;Mañana;1067631
+1393;Empleado_1393;Administrativo;Quellón;Noche;1728995
+1394;Empleado_1394;Administrativo;Quellón;Noche;1607178
+1395;Empleado_1395;Supervisor;Calbuco;Noche;542090
+1396;Empleado_1396;Operario;Hornopirén;Mañana;1799177
+1397;Empleado_1397;Administrativo;Calbuco;Mañana;1921875
+1398;Empleado_1398;Administrativo;Calbuco;Mañana;1231678
+1399;Empleado_1399;Operario;Calbuco;Tarde;1563337
+1400;Empleado_1400;Supervisor;Calbuco;Mañana;747612
+1401;Empleado_1401;Operario;Chinquihue;Mañana;1442561
+1402;Empleado_1402;Operario;Chinquihue;Tarde;1339034
+1403;Empleado_1403;Supervisor;Chinquihue;Tarde;1517537
+1404;Empleado_1404;Operario;Hornopirén;Tarde;750236
+1405;Empleado_1405;Supervisor;Chinquihue;Tarde;1244565
+1406;Empleado_1406;Operario;Calbuco;Noche;1794987
+1407;Empleado_1407;Operario;Calbuco;Noche;672125
+1408;Empleado_1408;Supervisor;Puerto Montt;Tarde;734275
+1409;Empleado_1409;Supervisor;Calbuco;Noche;689515
+1410;Empleado_1410;Supervisor;Chinquihue;Noche;1438441
+1411;Empleado_1411;Técnico;Quellón;Mañana;858928
+1412;Empleado_1412;Operario;Puerto Montt;Tarde;1686678
+1413;Empleado_1413;Técnico;Chinquihue;Noche;619557
+1414;Empleado_1414;Operario;Quellón;Mañana;1155097
+1415;Empleado_1415;Administrativo;Chinquihue;Tarde;1955792
+1416;Empleado_1416;Administrativo;Puerto Montt;Noche;1604868
+1417;Empleado_1417;Administrativo;Quellón;Tarde;760648
+1418;Empleado_1418;Supervisor;Puerto Montt;Noche;586672
+1419;Empleado_1419;Administrativo;Quellón;Noche;1691522
+1420;Empleado_1420;Administrativo;Hornopirén;Noche;1305535
+1421;Empleado_1421;Administrativo;Chinquihue;Noche;528076
+1422;Empleado_1422;Técnico;Hornopirén;Tarde;959060
+1423;Empleado_1423;Operario;Chinquihue;Noche;1910631
+1424;Empleado_1424;Operario;Quellón;Mañana;1639113
+1425;Empleado_1425;Operario;Hornopirén;Tarde;1336073
+1426;Empleado_1426;Supervisor;Calbuco;Tarde;528974
+1427;Empleado_1427;Técnico;Puerto Montt;Mañana;1197715
+1428;Empleado_1428;Operario;Puerto Montt;Mañana;1734208
+1429;Empleado_1429;Administrativo;Quellón;Mañana;754181
+1430;Empleado_1430;Operario;Chinquihue;Noche;940000
+1431;Empleado_1431;Supervisor;Hornopirén;Mañana;1618472
+1432;Empleado_1432;Supervisor;Chinquihue;Tarde;1609055
+1433;Empleado_1433;Técnico;Chinquihue;Mañana;1285473
+1434;Empleado_1434;Supervisor;Hornopirén;Noche;1886433
+1435;Empleado_1435;Técnico;Quellón;Noche;1072449
+1436;Empleado_1436;Técnico;Chinquihue;Tarde;1046735
+1437;Empleado_1437;Técnico;Chinquihue;Noche;1113121
+1438;Empleado_1438;Supervisor;Chinquihue;Mañana;1232868
+1439;Empleado_1439;Técnico;Quellón;Mañana;1056537
+1440;Empleado_1440;Supervisor;Quellón;Tarde;1594513
+1441;Empleado_1441;Administrativo;Puerto Montt;Mañana;728778
+1442;Empleado_1442;Supervisor;Hornopirén;Noche;1448421
+1443;Empleado_1443;Técnico;Quellón;Noche;1843022
+1444;Empleado_1444;Administrativo;Chinquihue;Tarde;580842
+1445;Empleado_1445;Operario;Hornopirén;Noche;1948067
+1446;Empleado_1446;Operario;Calbuco;Noche;1680680
+1447;Empleado_1447;Administrativo;Chinquihue;Mañana;1414224
+1448;Empleado_1448;Supervisor;Chinquihue;Tarde;1493877
+1449;Empleado_1449;Operario;Hornopirén;Noche;858536
+1450;Empleado_1450;Técnico;Puerto Montt;Tarde;1095541
+1451;Empleado_1451;Técnico;Puerto Montt;Tarde;666026
+1452;Empleado_1452;Operario;Chinquihue;Noche;1735909
+1453;Empleado_1453;Administrativo;Calbuco;Mañana;550332
+1454;Empleado_1454;Supervisor;Chinquihue;Noche;967708
+1455;Empleado_1455;Administrativo;Chinquihue;Mañana;1188621
+1456;Empleado_1456;Técnico;Chinquihue;Tarde;1078193
+1457;Empleado_1457;Operario;Hornopirén;Noche;1726376
+1458;Empleado_1458;Técnico;Hornopirén;Noche;1211884
+1459;Empleado_1459;Operario;Chinquihue;Tarde;1701010
+1460;Empleado_1460;Operario;Puerto Montt;Mañana;913720
+1461;Empleado_1461;Operario;Hornopirén;Tarde;1613981
+1462;Empleado_1462;Administrativo;Hornopirén;Noche;1580479
+1463;Empleado_1463;Supervisor;Hornopirén;Noche;1536698
+1464;Empleado_1464;Administrativo;Quellón;Noche;914381
+1465;Empleado_1465;Técnico;Puerto Montt;Tarde;731500
+1466;Empleado_1466;Técnico;Hornopirén;Mañana;897038
+1467;Empleado_1467;Supervisor;Calbuco;Tarde;1546795
+1468;Empleado_1468;Supervisor;Quellón;Tarde;1011999
+1469;Empleado_1469;Técnico;Quellón;Noche;1486220
+1470;Empleado_1470;Operario;Hornopirén;Noche;1992464
+1471;Empleado_1471;Administrativo;Chinquihue;Tarde;715272
+1472;Empleado_1472;Operario;Chinquihue;Tarde;1266006
+1473;Empleado_1473;Supervisor;Chinquihue;Noche;1134240
+1474;Empleado_1474;Técnico;Calbuco;Mañana;1607572
+1475;Empleado_1475;Operario;Hornopirén;Mañana;994811
+1476;Empleado_1476;Supervisor;Calbuco;Tarde;1983643
+1477;Empleado_1477;Supervisor;Chinquihue;Mañana;747829
+1478;Empleado_1478;Supervisor;Hornopirén;Noche;1403645
+1479;Empleado_1479;Administrativo;Hornopirén;Tarde;795639
+1480;Empleado_1480;Supervisor;Hornopirén;Tarde;1869273
+1481;Empleado_1481;Administrativo;Puerto Montt;Mañana;1515624
+1482;Empleado_1482;Supervisor;Hornopirén;Mañana;974281
+1483;Empleado_1483;Técnico;Chinquihue;Tarde;1356441
+1484;Empleado_1484;Supervisor;Puerto Montt;Mañana;1261612
+1485;Empleado_1485;Técnico;Chinquihue;Noche;667280
+1486;Empleado_1486;Técnico;Puerto Montt;Tarde;1329221
+1487;Empleado_1487;Operario;Calbuco;Tarde;1220376
+1488;Empleado_1488;Supervisor;Quellón;Tarde;1935902
+1489;Empleado_1489;Administrativo;Hornopirén;Tarde;1583979
+1490;Empleado_1490;Administrativo;Calbuco;Mañana;575173
+1491;Empleado_1491;Técnico;Calbuco;Mañana;1924182
+1492;Empleado_1492;Administrativo;Calbuco;Noche;1761121
+1493;Empleado_1493;Administrativo;Chinquihue;Mañana;888852
+1494;Empleado_1494;Administrativo;Calbuco;Noche;1212507
+1495;Empleado_1495;Supervisor;Hornopirén;Tarde;768451
+1496;Empleado_1496;Operario;Hornopirén;Noche;1709457
+1497;Empleado_1497;Operario;Calbuco;Noche;885045
+1498;Empleado_1498;Administrativo;Puerto Montt;Tarde;840625
+1499;Empleado_1499;Administrativo;Calbuco;Noche;1127886
+1500;Empleado_1500;Administrativo;Chinquihue;Noche;935187
+1501;Empleado_1501;Técnico;Quellón;Tarde;741011
+1502;Empleado_1502;Operario;Puerto Montt;Noche;1772605
+1503;Empleado_1503;Administrativo;Calbuco;Mañana;746773
+1504;Empleado_1504;Administrativo;Calbuco;Tarde;1507701
+1505;Empleado_1505;Técnico;Puerto Montt;Tarde;769468
+1506;Empleado_1506;Administrativo;Chinquihue;Tarde;1201975
+1507;Empleado_1507;Técnico;Puerto Montt;Noche;1354799
+1508;Empleado_1508;Administrativo;Chinquihue;Noche;1946985
+1509;Empleado_1509;Operario;Puerto Montt;Noche;1253732
+1510;Empleado_1510;Operario;Hornopirén;Tarde;1740450
+1511;Empleado_1511;Administrativo;Quellón;Tarde;666749
+1512;Empleado_1512;Administrativo;Quellón;Mañana;1865265
+1513;Empleado_1513;Operario;Quellón;Noche;1754245
+1514;Empleado_1514;Operario;Quellón;Noche;703077
+1515;Empleado_1515;Supervisor;Puerto Montt;Mañana;1699902
+1516;Empleado_1516;Operario;Chinquihue;Noche;1732179
+1517;Empleado_1517;Supervisor;Quellón;Mañana;758950
+1518;Empleado_1518;Operario;Puerto Montt;Mañana;1054770
+1519;Empleado_1519;Supervisor;Hornopirén;Tarde;706431
+1520;Empleado_1520;Operario;Quellón;Noche;938109
+1521;Empleado_1521;Supervisor;Quellón;Mañana;737777
+1522;Empleado_1522;Administrativo;Chinquihue;Mañana;1408773
+1523;Empleado_1523;Operario;Calbuco;Tarde;1043526
+1524;Empleado_1524;Técnico;Chinquihue;Noche;1222552
+1525;Empleado_1525;Operario;Calbuco;Tarde;1157033
+1526;Empleado_1526;Supervisor;Hornopirén;Mañana;1678700
+1527;Empleado_1527;Administrativo;Quellón;Mañana;1958060
+1528;Empleado_1528;Supervisor;Chinquihue;Mañana;1914726
+1529;Empleado_1529;Operario;Hornopirén;Tarde;1528688
+1530;Empleado_1530;Supervisor;Calbuco;Tarde;840767
+1531;Empleado_1531;Supervisor;Hornopirén;Noche;1922006
+1532;Empleado_1532;Técnico;Puerto Montt;Noche;1672003
+1533;Empleado_1533;Administrativo;Quellón;Mañana;820158
+1534;Empleado_1534;Operario;Hornopirén;Mañana;812054
+1535;Empleado_1535;Operario;Chinquihue;Tarde;1839311
+1536;Empleado_1536;Operario;Calbuco;Mañana;1273101
+1537;Empleado_1537;Administrativo;Calbuco;Mañana;1494652
+1538;Empleado_1538;Técnico;Calbuco;Noche;1363397
+1539;Empleado_1539;Operario;Puerto Montt;Tarde;512899
+1540;Empleado_1540;Operario;Calbuco;Noche;1035582
+1541;Empleado_1541;Administrativo;Quellón;Mañana;1699561
+1542;Empleado_1542;Administrativo;Puerto Montt;Mañana;1910928
+1543;Empleado_1543;Administrativo;Calbuco;Noche;663624
+1544;Empleado_1544;Supervisor;Chinquihue;Noche;1504122
+1545;Empleado_1545;Técnico;Hornopirén;Tarde;1519035
+1546;Empleado_1546;Supervisor;Chinquihue;Tarde;810181
+1547;Empleado_1547;Técnico;Calbuco;Noche;1052901
+1548;Empleado_1548;Administrativo;Calbuco;Mañana;1740932
+1549;Empleado_1549;Administrativo;Puerto Montt;Mañana;1987490
+1550;Empleado_1550;Operario;Hornopirén;Noche;1890011
+1551;Empleado_1551;Técnico;Chinquihue;Tarde;1770912
+1552;Empleado_1552;Operario;Hornopirén;Tarde;1788775
+1553;Empleado_1553;Administrativo;Hornopirén;Noche;1553910
+1554;Empleado_1554;Operario;Calbuco;Noche;676802
+1555;Empleado_1555;Supervisor;Chinquihue;Noche;1513352
+1556;Empleado_1556;Supervisor;Puerto Montt;Mañana;1596043
+1557;Empleado_1557;Supervisor;Chinquihue;Tarde;1183682
+1558;Empleado_1558;Administrativo;Puerto Montt;Mañana;771276
+1559;Empleado_1559;Operario;Quellón;Tarde;1684615
+1560;Empleado_1560;Administrativo;Puerto Montt;Tarde;1669788
+1561;Empleado_1561;Supervisor;Quellón;Mañana;572423
+1562;Empleado_1562;Operario;Quellón;Mañana;1702795
+1563;Empleado_1563;Operario;Hornopirén;Mañana;1072483
+1564;Empleado_1564;Operario;Puerto Montt;Mañana;1494877
+1565;Empleado_1565;Administrativo;Quellón;Noche;746966
+1566;Empleado_1566;Supervisor;Puerto Montt;Tarde;1941726
+1567;Empleado_1567;Operario;Calbuco;Mañana;1566098
+1568;Empleado_1568;Administrativo;Calbuco;Mañana;1040518
+1569;Empleado_1569;Técnico;Chinquihue;Noche;1841469
+1570;Empleado_1570;Operario;Chinquihue;Noche;1545011
+1571;Empleado_1571;Operario;Hornopirén;Tarde;922898
+1572;Empleado_1572;Operario;Calbuco;Mañana;641871
+1573;Empleado_1573;Supervisor;Quellón;Noche;1356318
+1574;Empleado_1574;Técnico;Calbuco;Tarde;540527
+1575;Empleado_1575;Supervisor;Chinquihue;Tarde;1488143
+1576;Empleado_1576;Administrativo;Calbuco;Tarde;1111016
+1577;Empleado_1577;Administrativo;Quellón;Tarde;720168
+1578;Empleado_1578;Administrativo;Chinquihue;Noche;1600763
+1579;Empleado_1579;Operario;Calbuco;Noche;795800
+1580;Empleado_1580;Técnico;Hornopirén;Tarde;1347914
+1581;Empleado_1581;Supervisor;Chinquihue;Tarde;1575910
+1582;Empleado_1582;Supervisor;Hornopirén;Tarde;1756888
+1583;Empleado_1583;Técnico;Quellón;Tarde;572663
+1584;Empleado_1584;Administrativo;Quellón;Noche;1269187
+1585;Empleado_1585;Supervisor;Calbuco;Tarde;1991603
+1586;Empleado_1586;Técnico;Puerto Montt;Mañana;528855
+1587;Empleado_1587;Administrativo;Chinquihue;Tarde;609496
+1588;Empleado_1588;Operario;Quellón;Noche;1810922
+1589;Empleado_1589;Administrativo;Quellón;Noche;1561132
+1590;Empleado_1590;Administrativo;Calbuco;Tarde;1815513
+1591;Empleado_1591;Operario;Quellón;Mañana;1916661
+1592;Empleado_1592;Operario;Hornopirén;Noche;1200795
+1593;Empleado_1593;Supervisor;Chinquihue;Mañana;1107700
+1594;Empleado_1594;Administrativo;Calbuco;Noche;935014
+1595;Empleado_1595;Operario;Quellón;Tarde;755616
+1596;Empleado_1596;Administrativo;Hornopirén;Tarde;1790514
+1597;Empleado_1597;Supervisor;Calbuco;Mañana;1541469
+1598;Empleado_1598;Técnico;Hornopirén;Noche;1903988
+1599;Empleado_1599;Operario;Chinquihue;Noche;866186
+1600;Empleado_1600;Técnico;Chinquihue;Noche;970655
+1601;Empleado_1601;Operario;Chinquihue;Mañana;1207183
+1602;Empleado_1602;Administrativo;Quellón;Noche;535768
+1603;Empleado_1603;Técnico;Puerto Montt;Noche;1245060
+1604;Empleado_1604;Operario;Calbuco;Noche;1207044
+1605;Empleado_1605;Operario;Calbuco;Mañana;1923910
+1606;Empleado_1606;Supervisor;Chinquihue;Mañana;1867403
+1607;Empleado_1607;Administrativo;Puerto Montt;Noche;555540
+1608;Empleado_1608;Administrativo;Chinquihue;Tarde;1993564
+1609;Empleado_1609;Administrativo;Puerto Montt;Mañana;1814054
+1610;Empleado_1610;Operario;Hornopirén;Mañana;938561
+1611;Empleado_1611;Operario;Hornopirén;Mañana;1212734
+1612;Empleado_1612;Técnico;Chinquihue;Tarde;1959930
+1613;Empleado_1613;Técnico;Puerto Montt;Mañana;1972048
+1614;Empleado_1614;Técnico;Chinquihue;Noche;1417354
+1615;Empleado_1615;Supervisor;Chinquihue;Tarde;707507
+1616;Empleado_1616;Técnico;Chinquihue;Mañana;1507623
+1617;Empleado_1617;Administrativo;Calbuco;Noche;1101032
+1618;Empleado_1618;Supervisor;Calbuco;Mañana;1556408
+1619;Empleado_1619;Supervisor;Quellón;Noche;1249359
+1620;Empleado_1620;Administrativo;Puerto Montt;Tarde;1232321
+1621;Empleado_1621;Operario;Quellón;Tarde;1510980
+1622;Empleado_1622;Operario;Hornopirén;Mañana;1681132
+1623;Empleado_1623;Administrativo;Quellón;Noche;1831932
+1624;Empleado_1624;Técnico;Quellón;Noche;1485454
+1625;Empleado_1625;Supervisor;Chinquihue;Mañana;1863769
+1626;Empleado_1626;Técnico;Chinquihue;Tarde;1357934
+1627;Empleado_1627;Supervisor;Quellón;Noche;1822265
+1628;Empleado_1628;Operario;Quellón;Tarde;1052548
+1629;Empleado_1629;Administrativo;Quellón;Noche;881474
+1630;Empleado_1630;Técnico;Quellón;Noche;1730780
+1631;Empleado_1631;Técnico;Calbuco;Tarde;1971611
+1632;Empleado_1632;Operario;Hornopirén;Mañana;1242922
+1633;Empleado_1633;Operario;Chinquihue;Tarde;1270811
+1634;Empleado_1634;Administrativo;Puerto Montt;Noche;982713
+1635;Empleado_1635;Operario;Hornopirén;Mañana;672835
+1636;Empleado_1636;Técnico;Quellón;Noche;1405196
+1637;Empleado_1637;Técnico;Chinquihue;Tarde;1850098
+1638;Empleado_1638;Operario;Hornopirén;Noche;644784
+1639;Empleado_1639;Operario;Hornopirén;Noche;1137081
+1640;Empleado_1640;Operario;Calbuco;Mañana;1961251
+1641;Empleado_1641;Administrativo;Calbuco;Tarde;1195231
+1642;Empleado_1642;Operario;Hornopirén;Mañana;1103788
+1643;Empleado_1643;Administrativo;Chinquihue;Noche;880138
+1644;Empleado_1644;Administrativo;Puerto Montt;Mañana;1867006
+1645;Empleado_1645;Administrativo;Puerto Montt;Tarde;606915
+1646;Empleado_1646;Operario;Puerto Montt;Mañana;1069241
+1647;Empleado_1647;Administrativo;Puerto Montt;Mañana;518091
+1648;Empleado_1648;Supervisor;Puerto Montt;Noche;1263202
+1649;Empleado_1649;Supervisor;Chinquihue;Mañana;1308521
+1650;Empleado_1650;Supervisor;Chinquihue;Mañana;1816470
+1651;Empleado_1651;Operario;Calbuco;Mañana;1521634
+1652;Empleado_1652;Administrativo;Puerto Montt;Noche;1172698
+1653;Empleado_1653;Administrativo;Hornopirén;Noche;1700839
+1654;Empleado_1654;Operario;Puerto Montt;Tarde;1009771
+1655;Empleado_1655;Administrativo;Puerto Montt;Tarde;1586163
+1656;Empleado_1656;Administrativo;Puerto Montt;Tarde;1347392
+1657;Empleado_1657;Administrativo;Quellón;Noche;965344
+1658;Empleado_1658;Operario;Calbuco;Noche;589916
+1659;Empleado_1659;Técnico;Hornopirén;Noche;1405516
+1660;Empleado_1660;Supervisor;Chinquihue;Tarde;1089158
+1661;Empleado_1661;Administrativo;Calbuco;Tarde;1427622
+1662;Empleado_1662;Técnico;Calbuco;Tarde;1505590
+1663;Empleado_1663;Operario;Quellón;Mañana;1666324
+1664;Empleado_1664;Administrativo;Calbuco;Noche;1946796
+1665;Empleado_1665;Supervisor;Quellón;Noche;1517194
+1666;Empleado_1666;Técnico;Quellón;Mañana;804688
+1667;Empleado_1667;Técnico;Puerto Montt;Noche;966026
+1668;Empleado_1668;Administrativo;Puerto Montt;Mañana;1366638
+1669;Empleado_1669;Administrativo;Puerto Montt;Noche;1070148
+1670;Empleado_1670;Operario;Calbuco;Tarde;1453164
+1671;Empleado_1671;Supervisor;Quellón;Mañana;1735137
+1672;Empleado_1672;Administrativo;Puerto Montt;Tarde;1071413
+1673;Empleado_1673;Administrativo;Quellón;Noche;790049
+1674;Empleado_1674;Operario;Calbuco;Noche;717863
+1675;Empleado_1675;Técnico;Puerto Montt;Tarde;1835049
+1676;Empleado_1676;Administrativo;Quellón;Tarde;1635097
+1677;Empleado_1677;Administrativo;Puerto Montt;Noche;1958045
+1678;Empleado_1678;Administrativo;Puerto Montt;Mañana;1198184
+1679;Empleado_1679;Técnico;Calbuco;Tarde;646758
+1680;Empleado_1680;Supervisor;Puerto Montt;Noche;1109933
+1681;Empleado_1681;Administrativo;Puerto Montt;Mañana;1050880
+1682;Empleado_1682;Técnico;Chinquihue;Tarde;719773
+1683;Empleado_1683;Administrativo;Calbuco;Noche;1482175
+1684;Empleado_1684;Administrativo;Puerto Montt;Tarde;1692155
+1685;Empleado_1685;Operario;Calbuco;Noche;1812869
+1686;Empleado_1686;Administrativo;Hornopirén;Mañana;1067141
+1687;Empleado_1687;Administrativo;Puerto Montt;Mañana;516553
+1688;Empleado_1688;Técnico;Quellón;Mañana;958704
+1689;Empleado_1689;Supervisor;Hornopirén;Mañana;1001144
+1690;Empleado_1690;Administrativo;Calbuco;Tarde;1965717
+1691;Empleado_1691;Operario;Quellón;Tarde;1202948
+1692;Empleado_1692;Supervisor;Chinquihue;Mañana;821952
+1693;Empleado_1693;Administrativo;Calbuco;Noche;857307
+1694;Empleado_1694;Administrativo;Chinquihue;Tarde;1515611
+1695;Empleado_1695;Técnico;Chinquihue;Noche;1850026
+1696;Empleado_1696;Operario;Chinquihue;Tarde;1378503
+1697;Empleado_1697;Supervisor;Chinquihue;Mañana;844868
+1698;Empleado_1698;Administrativo;Calbuco;Tarde;1665495
+1699;Empleado_1699;Supervisor;Calbuco;Tarde;1469628
+1700;Empleado_1700;Operario;Hornopirén;Mañana;822509
+1701;Empleado_1701;Administrativo;Calbuco;Noche;1122047
+1702;Empleado_1702;Operario;Puerto Montt;Tarde;1225174
+1703;Empleado_1703;Supervisor;Puerto Montt;Noche;1555933
+1704;Empleado_1704;Administrativo;Chinquihue;Noche;1735853
+1705;Empleado_1705;Administrativo;Chinquihue;Tarde;600687
+1706;Empleado_1706;Técnico;Quellón;Mañana;1357989
+1707;Empleado_1707;Técnico;Chinquihue;Mañana;1217331
+1708;Empleado_1708;Administrativo;Chinquihue;Tarde;1222856
+1709;Empleado_1709;Técnico;Quellón;Tarde;720028
+1710;Empleado_1710;Operario;Puerto Montt;Noche;1234788
+1711;Empleado_1711;Supervisor;Hornopirén;Tarde;673594
+1712;Empleado_1712;Administrativo;Hornopirén;Mañana;1283137
+1713;Empleado_1713;Operario;Quellón;Noche;1072050
+1714;Empleado_1714;Operario;Chinquihue;Tarde;1610285
+1715;Empleado_1715;Técnico;Puerto Montt;Tarde;1739924
+1716;Empleado_1716;Supervisor;Calbuco;Mañana;1919615
+1717;Empleado_1717;Supervisor;Hornopirén;Tarde;1059621
+1718;Empleado_1718;Supervisor;Calbuco;Mañana;1247640
+1719;Empleado_1719;Técnico;Hornopirén;Mañana;759882
+1720;Empleado_1720;Administrativo;Quellón;Noche;1147714
+1721;Empleado_1721;Administrativo;Puerto Montt;Noche;1031405
+1722;Empleado_1722;Operario;Hornopirén;Noche;1883061
+1723;Empleado_1723;Administrativo;Puerto Montt;Mañana;1872784
+1724;Empleado_1724;Administrativo;Calbuco;Tarde;1107678
+1725;Empleado_1725;Supervisor;Quellón;Noche;1011871
+1726;Empleado_1726;Técnico;Puerto Montt;Noche;1747545
+1727;Empleado_1727;Administrativo;Calbuco;Noche;1510565
+1728;Empleado_1728;Técnico;Puerto Montt;Tarde;1810602
+1729;Empleado_1729;Técnico;Hornopirén;Tarde;1733790
+1730;Empleado_1730;Supervisor;Puerto Montt;Noche;1732569
+1731;Empleado_1731;Operario;Quellón;Mañana;1899517
+1732;Empleado_1732;Técnico;Calbuco;Tarde;1416292
+1733;Empleado_1733;Técnico;Chinquihue;Tarde;1745531
+1734;Empleado_1734;Operario;Chinquihue;Tarde;1641866
+1735;Empleado_1735;Técnico;Puerto Montt;Tarde;1382576
+1736;Empleado_1736;Supervisor;Calbuco;Noche;1791484
+1737;Empleado_1737;Operario;Calbuco;Noche;1139262
+1738;Empleado_1738;Técnico;Hornopirén;Mañana;884549
+1739;Empleado_1739;Técnico;Calbuco;Mañana;1293594
+1740;Empleado_1740;Supervisor;Chinquihue;Noche;1275374
+1741;Empleado_1741;Técnico;Chinquihue;Tarde;1343164
+1742;Empleado_1742;Supervisor;Quellón;Noche;671278
+1743;Empleado_1743;Técnico;Hornopirén;Tarde;1345312
+1744;Empleado_1744;Administrativo;Chinquihue;Noche;631684
+1745;Empleado_1745;Administrativo;Chinquihue;Tarde;1292096
+1746;Empleado_1746;Administrativo;Quellón;Tarde;616849
+1747;Empleado_1747;Técnico;Puerto Montt;Mañana;1723295
+1748;Empleado_1748;Administrativo;Calbuco;Mañana;1628805
+1749;Empleado_1749;Administrativo;Puerto Montt;Mañana;736402
+1750;Empleado_1750;Administrativo;Puerto Montt;Noche;1613251
+1751;Empleado_1751;Operario;Calbuco;Noche;1865592
+1752;Empleado_1752;Supervisor;Calbuco;Mañana;965237
+1753;Empleado_1753;Administrativo;Hornopirén;Noche;1412432
+1754;Empleado_1754;Técnico;Quellón;Mañana;1669664
+1755;Empleado_1755;Supervisor;Quellón;Tarde;1965518
+1756;Empleado_1756;Supervisor;Puerto Montt;Mañana;1071884
+1757;Empleado_1757;Operario;Calbuco;Tarde;1902697
+1758;Empleado_1758;Administrativo;Quellón;Noche;590372
+1759;Empleado_1759;Administrativo;Chinquihue;Mañana;1712624
+1760;Empleado_1760;Técnico;Quellón;Mañana;698198
+1761;Empleado_1761;Supervisor;Quellón;Tarde;1449681
+1762;Empleado_1762;Supervisor;Calbuco;Tarde;1048492
+1763;Empleado_1763;Técnico;Hornopirén;Mañana;1367288
+1764;Empleado_1764;Administrativo;Calbuco;Noche;1309410
+1765;Empleado_1765;Supervisor;Chinquihue;Noche;1487398
+1766;Empleado_1766;Supervisor;Quellón;Noche;1337835
+1767;Empleado_1767;Administrativo;Hornopirén;Tarde;1427766
+1768;Empleado_1768;Supervisor;Quellón;Tarde;1919286
+1769;Empleado_1769;Supervisor;Chinquihue;Tarde;779031
+1770;Empleado_1770;Técnico;Chinquihue;Tarde;694296
+1771;Empleado_1771;Supervisor;Quellón;Mañana;1240687
+1772;Empleado_1772;Administrativo;Calbuco;Tarde;781656
+1773;Empleado_1773;Administrativo;Chinquihue;Mañana;1733668
+1774;Empleado_1774;Operario;Calbuco;Noche;1191799
+1775;Empleado_1775;Operario;Chinquihue;Mañana;1166770
+1776;Empleado_1776;Supervisor;Quellón;Mañana;891109
+1777;Empleado_1777;Supervisor;Calbuco;Mañana;641408
+1778;Empleado_1778;Supervisor;Chinquihue;Tarde;1116964
+1779;Empleado_1779;Supervisor;Chinquihue;Mañana;1253941
+1780;Empleado_1780;Administrativo;Hornopirén;Noche;568642
+1781;Empleado_1781;Administrativo;Hornopirén;Noche;1468872
+1782;Empleado_1782;Operario;Quellón;Tarde;1820727
+1783;Empleado_1783;Técnico;Hornopirén;Tarde;1083766
+1784;Empleado_1784;Administrativo;Chinquihue;Noche;1372253
+1785;Empleado_1785;Operario;Calbuco;Noche;601597
+1786;Empleado_1786;Administrativo;Chinquihue;Noche;1910965
+1787;Empleado_1787;Operario;Quellón;Noche;1440080
+1788;Empleado_1788;Supervisor;Chinquihue;Noche;1665265
+1789;Empleado_1789;Administrativo;Puerto Montt;Tarde;959592
+1790;Empleado_1790;Operario;Chinquihue;Tarde;542424
+1791;Empleado_1791;Supervisor;Quellón;Noche;1251048
+1792;Empleado_1792;Supervisor;Puerto Montt;Mañana;1529846
+1793;Empleado_1793;Operario;Hornopirén;Noche;1491093
+1794;Empleado_1794;Supervisor;Hornopirén;Noche;1316004
+1795;Empleado_1795;Operario;Puerto Montt;Tarde;1962476
+1796;Empleado_1796;Técnico;Hornopirén;Mañana;1788705
+1797;Empleado_1797;Técnico;Puerto Montt;Mañana;628107
+1798;Empleado_1798;Supervisor;Puerto Montt;Noche;1466953
+1799;Empleado_1799;Supervisor;Puerto Montt;Mañana;1025821
+1800;Empleado_1800;Administrativo;Quellón;Mañana;739952
+1801;Empleado_1801;Supervisor;Hornopirén;Mañana;1673829
+1802;Empleado_1802;Administrativo;Quellón;Mañana;841616
+1803;Empleado_1803;Operario;Chinquihue;Noche;1496336
+1804;Empleado_1804;Supervisor;Calbuco;Tarde;1176325
+1805;Empleado_1805;Supervisor;Puerto Montt;Noche;1475772
+1806;Empleado_1806;Operario;Puerto Montt;Tarde;746892
+1807;Empleado_1807;Administrativo;Chinquihue;Noche;658751
+1808;Empleado_1808;Supervisor;Quellón;Tarde;1580602
+1809;Empleado_1809;Administrativo;Quellón;Mañana;1596500
+1810;Empleado_1810;Operario;Puerto Montt;Mañana;785554
+1811;Empleado_1811;Operario;Quellón;Tarde;1929971
+1812;Empleado_1812;Operario;Hornopirén;Mañana;1723979
+1813;Empleado_1813;Supervisor;Calbuco;Mañana;1687952
+1814;Empleado_1814;Operario;Calbuco;Tarde;1118336
+1815;Empleado_1815;Operario;Calbuco;Mañana;1693494
+1816;Empleado_1816;Administrativo;Quellón;Tarde;1901699
+1817;Empleado_1817;Operario;Quellón;Noche;1251840
+1818;Empleado_1818;Administrativo;Puerto Montt;Noche;865495
+1819;Empleado_1819;Técnico;Calbuco;Mañana;1565890
+1820;Empleado_1820;Supervisor;Quellón;Tarde;1073518
+1821;Empleado_1821;Operario;Hornopirén;Noche;1340115
+1822;Empleado_1822;Técnico;Quellón;Tarde;1947322
+1823;Empleado_1823;Técnico;Quellón;Noche;1305976
+1824;Empleado_1824;Operario;Quellón;Noche;1719226
+1825;Empleado_1825;Supervisor;Chinquihue;Mañana;1676866
+1826;Empleado_1826;Administrativo;Calbuco;Mañana;951214
+1827;Empleado_1827;Administrativo;Quellón;Tarde;860829
+1828;Empleado_1828;Supervisor;Calbuco;Noche;1327618
+1829;Empleado_1829;Operario;Quellón;Noche;1159985
+1830;Empleado_1830;Técnico;Chinquihue;Noche;802835
+1831;Empleado_1831;Administrativo;Hornopirén;Noche;979780
+1832;Empleado_1832;Supervisor;Hornopirén;Mañana;1469606
+1833;Empleado_1833;Operario;Quellón;Mañana;1503547
+1834;Empleado_1834;Supervisor;Hornopirén;Noche;1414015
+1835;Empleado_1835;Operario;Hornopirén;Tarde;1186466
+1836;Empleado_1836;Supervisor;Puerto Montt;Tarde;1187577
+1837;Empleado_1837;Operario;Chinquihue;Mañana;1945031
+1838;Empleado_1838;Técnico;Hornopirén;Mañana;1685630
+1839;Empleado_1839;Supervisor;Hornopirén;Mañana;1743654
+1840;Empleado_1840;Operario;Hornopirén;Mañana;679380
+1841;Empleado_1841;Administrativo;Quellón;Tarde;946799
+1842;Empleado_1842;Administrativo;Chinquihue;Tarde;1265574
+1843;Empleado_1843;Operario;Puerto Montt;Noche;1510369
+1844;Empleado_1844;Operario;Puerto Montt;Mañana;1914922
+1845;Empleado_1845;Técnico;Quellón;Tarde;875327
+1846;Empleado_1846;Técnico;Quellón;Noche;1336438
+1847;Empleado_1847;Supervisor;Hornopirén;Mañana;1271632
+1848;Empleado_1848;Supervisor;Puerto Montt;Tarde;1132824
+1849;Empleado_1849;Técnico;Hornopirén;Tarde;914823
+1850;Empleado_1850;Operario;Calbuco;Noche;1560765
+1851;Empleado_1851;Operario;Puerto Montt;Tarde;976652
+1852;Empleado_1852;Técnico;Hornopirén;Tarde;1350515
+1853;Empleado_1853;Administrativo;Calbuco;Mañana;854315
+1854;Empleado_1854;Administrativo;Hornopirén;Noche;838248
+1855;Empleado_1855;Operario;Puerto Montt;Tarde;621977
+1856;Empleado_1856;Técnico;Hornopirén;Mañana;1831866
+1857;Empleado_1857;Técnico;Quellón;Tarde;1538839
+1858;Empleado_1858;Supervisor;Calbuco;Mañana;747608
+1859;Empleado_1859;Técnico;Chinquihue;Noche;628374
+1860;Empleado_1860;Operario;Puerto Montt;Noche;666172
+1861;Empleado_1861;Supervisor;Calbuco;Noche;905250
+1862;Empleado_1862;Operario;Calbuco;Mañana;1846284
+1863;Empleado_1863;Técnico;Hornopirén;Tarde;1614672
+1864;Empleado_1864;Administrativo;Puerto Montt;Tarde;1741474
+1865;Empleado_1865;Administrativo;Quellón;Mañana;1676780
+1866;Empleado_1866;Operario;Calbuco;Mañana;611246
+1867;Empleado_1867;Administrativo;Calbuco;Noche;545221
+1868;Empleado_1868;Operario;Calbuco;Noche;875489
+1869;Empleado_1869;Técnico;Quellón;Mañana;759017
+1870;Empleado_1870;Administrativo;Puerto Montt;Mañana;1544878
+1871;Empleado_1871;Administrativo;Quellón;Noche;1669728
+1872;Empleado_1872;Operario;Quellón;Noche;625217
+1873;Empleado_1873;Administrativo;Chinquihue;Noche;1194228
+1874;Empleado_1874;Supervisor;Hornopirén;Mañana;759228
+1875;Empleado_1875;Operario;Puerto Montt;Mañana;562796
+1876;Empleado_1876;Técnico;Hornopirén;Noche;1047472
+1877;Empleado_1877;Técnico;Puerto Montt;Tarde;757869
+1878;Empleado_1878;Supervisor;Hornopirén;Tarde;1467200
+1879;Empleado_1879;Operario;Puerto Montt;Tarde;1669712
+1880;Empleado_1880;Operario;Puerto Montt;Tarde;1479279
+1881;Empleado_1881;Operario;Puerto Montt;Tarde;855675
+1882;Empleado_1882;Administrativo;Chinquihue;Noche;864708
+1883;Empleado_1883;Operario;Calbuco;Noche;598647
+1884;Empleado_1884;Operario;Hornopirén;Mañana;1847728
+1885;Empleado_1885;Técnico;Puerto Montt;Mañana;746423
+1886;Empleado_1886;Administrativo;Puerto Montt;Tarde;1698885
+1887;Empleado_1887;Operario;Calbuco;Tarde;1725588
+1888;Empleado_1888;Operario;Puerto Montt;Mañana;1559474
+1889;Empleado_1889;Operario;Hornopirén;Noche;994041
+1890;Empleado_1890;Supervisor;Calbuco;Noche;1434927
+1891;Empleado_1891;Supervisor;Puerto Montt;Mañana;682987
+1892;Empleado_1892;Técnico;Puerto Montt;Noche;1197914
+1893;Empleado_1893;Técnico;Calbuco;Noche;1560270
+1894;Empleado_1894;Operario;Hornopirén;Tarde;1677967
+1895;Empleado_1895;Técnico;Hornopirén;Tarde;1259275
+1896;Empleado_1896;Técnico;Chinquihue;Mañana;1164003
+1897;Empleado_1897;Administrativo;Puerto Montt;Tarde;1737254
+1898;Empleado_1898;Técnico;Chinquihue;Noche;1053267
+1899;Empleado_1899;Operario;Puerto Montt;Tarde;1534413
+1900;Empleado_1900;Técnico;Hornopirén;Noche;1826580
+1901;Empleado_1901;Administrativo;Chinquihue;Noche;513236
+1902;Empleado_1902;Supervisor;Quellón;Mañana;1185835
+1903;Empleado_1903;Administrativo;Quellón;Mañana;566946
+1904;Empleado_1904;Supervisor;Chinquihue;Mañana;1671248
+1905;Empleado_1905;Administrativo;Puerto Montt;Noche;1935420
+1906;Empleado_1906;Técnico;Hornopirén;Noche;757074
+1907;Empleado_1907;Supervisor;Calbuco;Mañana;773895
+1908;Empleado_1908;Administrativo;Chinquihue;Noche;1402001
+1909;Empleado_1909;Administrativo;Puerto Montt;Tarde;1258702
+1910;Empleado_1910;Administrativo;Chinquihue;Noche;1793018
+1911;Empleado_1911;Técnico;Chinquihue;Noche;1455267
+1912;Empleado_1912;Administrativo;Calbuco;Tarde;1110693
+1913;Empleado_1913;Administrativo;Quellón;Tarde;1152694
+1914;Empleado_1914;Administrativo;Chinquihue;Tarde;1872800
+1915;Empleado_1915;Operario;Calbuco;Noche;1115343
+1916;Empleado_1916;Operario;Quellón;Mañana;582688
+1917;Empleado_1917;Supervisor;Chinquihue;Mañana;1192389
+1918;Empleado_1918;Supervisor;Hornopirén;Mañana;1984934
+1919;Empleado_1919;Administrativo;Puerto Montt;Noche;653690
+1920;Empleado_1920;Técnico;Quellón;Noche;646476
+1921;Empleado_1921;Administrativo;Quellón;Tarde;636267
+1922;Empleado_1922;Supervisor;Calbuco;Tarde;1705708
+1923;Empleado_1923;Técnico;Hornopirén;Mañana;518832
+1924;Empleado_1924;Supervisor;Puerto Montt;Mañana;1361038
+1925;Empleado_1925;Técnico;Hornopirén;Mañana;793181
+1926;Empleado_1926;Técnico;Hornopirén;Tarde;1094345
+1927;Empleado_1927;Técnico;Puerto Montt;Tarde;847531
+1928;Empleado_1928;Operario;Calbuco;Noche;1850087
+1929;Empleado_1929;Técnico;Quellón;Tarde;1579397
+1930;Empleado_1930;Técnico;Hornopirén;Tarde;1345243
+1931;Empleado_1931;Administrativo;Chinquihue;Noche;1815603
+1932;Empleado_1932;Técnico;Puerto Montt;Tarde;743970
+1933;Empleado_1933;Operario;Quellón;Tarde;576829
+1934;Empleado_1934;Operario;Chinquihue;Mañana;1392973
+1935;Empleado_1935;Técnico;Chinquihue;Tarde;810930
+1936;Empleado_1936;Supervisor;Hornopirén;Noche;1902122
+1937;Empleado_1937;Administrativo;Chinquihue;Mañana;1001313
+1938;Empleado_1938;Administrativo;Puerto Montt;Tarde;1881240
+1939;Empleado_1939;Técnico;Puerto Montt;Tarde;1408309
+1940;Empleado_1940;Supervisor;Quellón;Tarde;1150247
+1941;Empleado_1941;Administrativo;Hornopirén;Noche;1582790
+1942;Empleado_1942;Administrativo;Chinquihue;Noche;1483800
+1943;Empleado_1943;Administrativo;Puerto Montt;Tarde;569042
+1944;Empleado_1944;Técnico;Quellón;Tarde;1671484
+1945;Empleado_1945;Técnico;Puerto Montt;Tarde;1258030
+1946;Empleado_1946;Administrativo;Quellón;Tarde;1836979
+1947;Empleado_1947;Supervisor;Chinquihue;Mañana;1870152
+1948;Empleado_1948;Administrativo;Chinquihue;Tarde;1787354
+1949;Empleado_1949;Técnico;Hornopirén;Tarde;1072374
+1950;Empleado_1950;Técnico;Quellón;Noche;567021
+1951;Empleado_1951;Operario;Chinquihue;Mañana;1160942
+1952;Empleado_1952;Administrativo;Puerto Montt;Mañana;1080220
+1953;Empleado_1953;Técnico;Puerto Montt;Noche;1185238
+1954;Empleado_1954;Administrativo;Hornopirén;Tarde;1459467
+1955;Empleado_1955;Administrativo;Calbuco;Tarde;773903
+1956;Empleado_1956;Administrativo;Quellón;Noche;1923521
+1957;Empleado_1957;Técnico;Quellón;Noche;992533
+1958;Empleado_1958;Técnico;Puerto Montt;Noche;1573480
+1959;Empleado_1959;Operario;Calbuco;Tarde;1682223
+1960;Empleado_1960;Técnico;Hornopirén;Noche;1880788
+1961;Empleado_1961;Técnico;Puerto Montt;Tarde;1745168
+1962;Empleado_1962;Administrativo;Puerto Montt;Tarde;1726156
+1963;Empleado_1963;Administrativo;Puerto Montt;Tarde;994518
+1964;Empleado_1964;Supervisor;Quellón;Noche;961293
+1965;Empleado_1965;Supervisor;Calbuco;Tarde;817379
+1966;Empleado_1966;Supervisor;Quellón;Mañana;1864762
+1967;Empleado_1967;Administrativo;Calbuco;Tarde;1549480
+1968;Empleado_1968;Técnico;Puerto Montt;Tarde;532664
+1969;Empleado_1969;Administrativo;Hornopirén;Noche;1326916
+1970;Empleado_1970;Operario;Puerto Montt;Noche;1688704
+1971;Empleado_1971;Supervisor;Calbuco;Mañana;1982064
+1972;Empleado_1972;Técnico;Calbuco;Noche;858474
+1973;Empleado_1973;Operario;Chinquihue;Mañana;1390554
+1974;Empleado_1974;Supervisor;Puerto Montt;Noche;1493864
+1975;Empleado_1975;Técnico;Calbuco;Noche;851783
+1976;Empleado_1976;Técnico;Hornopirén;Mañana;1233797
+1977;Empleado_1977;Operario;Hornopirén;Mañana;1677004
+1978;Empleado_1978;Supervisor;Hornopirén;Noche;1655406
+1979;Empleado_1979;Administrativo;Calbuco;Mañana;966122
+1980;Empleado_1980;Supervisor;Puerto Montt;Noche;1511452
+1981;Empleado_1981;Técnico;Puerto Montt;Noche;934225
+1982;Empleado_1982;Operario;Hornopirén;Noche;1626011
+1983;Empleado_1983;Técnico;Chinquihue;Tarde;1874597
+1984;Empleado_1984;Operario;Quellón;Noche;1646817
+1985;Empleado_1985;Operario;Chinquihue;Tarde;1306091
+1986;Empleado_1986;Técnico;Quellón;Mañana;1070149
+1987;Empleado_1987;Operario;Quellón;Noche;1127237
+1988;Empleado_1988;Técnico;Chinquihue;Noche;1385003
+1989;Empleado_1989;Operario;Puerto Montt;Mañana;1490170
+1990;Empleado_1990;Técnico;Calbuco;Tarde;992748
+1991;Empleado_1991;Técnico;Calbuco;Tarde;1576873
+1992;Empleado_1992;Operario;Chinquihue;Tarde;725038
+1993;Empleado_1993;Operario;Hornopirén;Mañana;1659987
+1994;Empleado_1994;Supervisor;Quellón;Noche;805239
+1995;Empleado_1995;Técnico;Hornopirén;Noche;1463332
+1996;Empleado_1996;Administrativo;Hornopirén;Tarde;1487716
+1997;Empleado_1997;Supervisor;Puerto Montt;Tarde;1241770
+1998;Empleado_1998;Supervisor;Hornopirén;Tarde;955614
+1999;Empleado_1999;Administrativo;Chinquihue;Noche;1189027
+2000;Empleado_2000;Administrativo;Hornopirén;Mañana;1336687
+2001;Empleado_2001;Técnico;Quellón;Noche;1518081
+2002;Empleado_2002;Operario;Chinquihue;Noche;707333
+2003;Empleado_2003;Supervisor;Calbuco;Mañana;552751
+2004;Empleado_2004;Supervisor;Quellón;Noche;1707483
+2005;Empleado_2005;Operario;Chinquihue;Noche;560927
+2006;Empleado_2006;Supervisor;Chinquihue;Tarde;1017092
+2007;Empleado_2007;Técnico;Calbuco;Noche;1767147
+2008;Empleado_2008;Supervisor;Chinquihue;Tarde;1627799
+2009;Empleado_2009;Administrativo;Quellón;Mañana;680768
+2010;Empleado_2010;Técnico;Hornopirén;Tarde;699738
+2011;Empleado_2011;Operario;Chinquihue;Tarde;1228743
+2012;Empleado_2012;Operario;Hornopirén;Mañana;1483961
+2013;Empleado_2013;Técnico;Puerto Montt;Mañana;1723531
+2014;Empleado_2014;Supervisor;Chinquihue;Tarde;819875
+2015;Empleado_2015;Técnico;Puerto Montt;Tarde;565482
+2016;Empleado_2016;Supervisor;Quellón;Tarde;1563576
+2017;Empleado_2017;Técnico;Puerto Montt;Mañana;1217569
+2018;Empleado_2018;Operario;Quellón;Tarde;1125276
+2019;Empleado_2019;Supervisor;Chinquihue;Noche;1984430
+2020;Empleado_2020;Administrativo;Chinquihue;Mañana;812159
+2021;Empleado_2021;Administrativo;Quellón;Noche;1450502
+2022;Empleado_2022;Supervisor;Puerto Montt;Noche;1818526
+2023;Empleado_2023;Administrativo;Quellón;Tarde;527409
+2024;Empleado_2024;Supervisor;Calbuco;Tarde;965799
+2025;Empleado_2025;Supervisor;Calbuco;Noche;1273786
+2026;Empleado_2026;Supervisor;Puerto Montt;Tarde;1609408
+2027;Empleado_2027;Supervisor;Puerto Montt;Tarde;671410
+2028;Empleado_2028;Administrativo;Calbuco;Tarde;531743
+2029;Empleado_2029;Operario;Calbuco;Mañana;1859370
+2030;Empleado_2030;Técnico;Calbuco;Tarde;1647036
+2031;Empleado_2031;Técnico;Calbuco;Tarde;1464475
+2032;Empleado_2032;Supervisor;Hornopirén;Noche;1638649
+2033;Empleado_2033;Técnico;Puerto Montt;Tarde;1408912
+2034;Empleado_2034;Administrativo;Puerto Montt;Mañana;1617865
+2035;Empleado_2035;Operario;Puerto Montt;Tarde;1810693
+2036;Empleado_2036;Operario;Hornopirén;Noche;838884
+2037;Empleado_2037;Operario;Puerto Montt;Noche;1395566
+2038;Empleado_2038;Supervisor;Chinquihue;Noche;1781737
+2039;Empleado_2039;Operario;Quellón;Noche;606414
+2040;Empleado_2040;Supervisor;Hornopirén;Tarde;823965
+2041;Empleado_2041;Técnico;Calbuco;Noche;1019057
+2042;Empleado_2042;Operario;Puerto Montt;Mañana;1711021
+2043;Empleado_2043;Administrativo;Calbuco;Noche;1891128
+2044;Empleado_2044;Supervisor;Calbuco;Tarde;1476702
+2045;Empleado_2045;Administrativo;Puerto Montt;Noche;1178869
+2046;Empleado_2046;Operario;Chinquihue;Mañana;1961460
+2047;Empleado_2047;Supervisor;Hornopirén;Mañana;775943
+2048;Empleado_2048;Técnico;Hornopirén;Noche;1473259
+2049;Empleado_2049;Operario;Hornopirén;Tarde;534023
+2050;Empleado_2050;Operario;Puerto Montt;Tarde;1545052
+2051;Empleado_2051;Operario;Puerto Montt;Tarde;588198
+2052;Empleado_2052;Operario;Chinquihue;Mañana;1875962
+2053;Empleado_2053;Supervisor;Hornopirén;Noche;763266
+2054;Empleado_2054;Administrativo;Hornopirén;Tarde;1256543
+2055;Empleado_2055;Operario;Hornopirén;Mañana;500826
+2056;Empleado_2056;Supervisor;Hornopirén;Noche;1866203
+2057;Empleado_2057;Supervisor;Quellón;Tarde;852558
+2058;Empleado_2058;Administrativo;Calbuco;Noche;1632867
+2059;Empleado_2059;Técnico;Puerto Montt;Mañana;1038598
+2060;Empleado_2060;Administrativo;Calbuco;Noche;772876
+2061;Empleado_2061;Administrativo;Quellón;Noche;776879
+2062;Empleado_2062;Administrativo;Quellón;Tarde;1165224
+2063;Empleado_2063;Supervisor;Hornopirén;Noche;1758489
+2064;Empleado_2064;Supervisor;Puerto Montt;Noche;845782
+2065;Empleado_2065;Supervisor;Calbuco;Noche;1378170
+2066;Empleado_2066;Técnico;Calbuco;Mañana;507958
+2067;Empleado_2067;Técnico;Hornopirén;Noche;807420
+2068;Empleado_2068;Supervisor;Calbuco;Noche;1378247
+2069;Empleado_2069;Administrativo;Chinquihue;Noche;1178957
+2070;Empleado_2070;Técnico;Calbuco;Mañana;1356874
+2071;Empleado_2071;Supervisor;Puerto Montt;Noche;1276718
+2072;Empleado_2072;Técnico;Chinquihue;Mañana;1238212
+2073;Empleado_2073;Técnico;Hornopirén;Tarde;1448774
+2074;Empleado_2074;Supervisor;Chinquihue;Tarde;1548150
+2075;Empleado_2075;Técnico;Chinquihue;Tarde;1007961
+2076;Empleado_2076;Técnico;Chinquihue;Noche;1860066
+2077;Empleado_2077;Técnico;Hornopirén;Noche;1850531
+2078;Empleado_2078;Administrativo;Calbuco;Mañana;1718926
+2079;Empleado_2079;Supervisor;Hornopirén;Mañana;1645949
+2080;Empleado_2080;Supervisor;Calbuco;Mañana;875409
+2081;Empleado_2081;Técnico;Puerto Montt;Tarde;731824
+2082;Empleado_2082;Administrativo;Quellón;Tarde;672223
+2083;Empleado_2083;Operario;Chinquihue;Tarde;1081505
+2084;Empleado_2084;Supervisor;Calbuco;Mañana;854825
+2085;Empleado_2085;Supervisor;Quellón;Mañana;1405561
+2086;Empleado_2086;Técnico;Calbuco;Noche;1138285
+2087;Empleado_2087;Operario;Hornopirén;Noche;1204021
+2088;Empleado_2088;Administrativo;Calbuco;Noche;1239165
+2089;Empleado_2089;Administrativo;Chinquihue;Tarde;581958
+2090;Empleado_2090;Técnico;Calbuco;Tarde;1211050
+2091;Empleado_2091;Administrativo;Chinquihue;Tarde;750004
+2092;Empleado_2092;Operario;Calbuco;Tarde;1955027
+2093;Empleado_2093;Administrativo;Calbuco;Mañana;688972
+2094;Empleado_2094;Supervisor;Calbuco;Mañana;1937997
+2095;Empleado_2095;Técnico;Quellón;Tarde;565310
+2096;Empleado_2096;Supervisor;Puerto Montt;Tarde;591766
+2097;Empleado_2097;Administrativo;Calbuco;Noche;566570
+2098;Empleado_2098;Administrativo;Chinquihue;Mañana;1344002
+2099;Empleado_2099;Administrativo;Chinquihue;Noche;1822574
+2100;Empleado_2100;Administrativo;Calbuco;Noche;1781666
+2101;Empleado_2101;Técnico;Calbuco;Tarde;607560
+2102;Empleado_2102;Administrativo;Calbuco;Mañana;802522
+2103;Empleado_2103;Operario;Hornopirén;Noche;1118398
+2104;Empleado_2104;Operario;Puerto Montt;Tarde;1714315
+2105;Empleado_2105;Operario;Quellón;Tarde;1200661
+2106;Empleado_2106;Técnico;Quellón;Tarde;1103876
+2107;Empleado_2107;Técnico;Hornopirén;Noche;1480452
+2108;Empleado_2108;Operario;Hornopirén;Tarde;1174328
+2109;Empleado_2109;Operario;Quellón;Noche;1811713
+2110;Empleado_2110;Técnico;Puerto Montt;Noche;638201
+2111;Empleado_2111;Operario;Puerto Montt;Tarde;1082303
+2112;Empleado_2112;Operario;Chinquihue;Noche;1679579
+2113;Empleado_2113;Técnico;Chinquihue;Mañana;1289486
+2114;Empleado_2114;Operario;Hornopirén;Tarde;1444283
+2115;Empleado_2115;Administrativo;Hornopirén;Tarde;949638
+2116;Empleado_2116;Técnico;Calbuco;Noche;1093639
+2117;Empleado_2117;Supervisor;Quellón;Tarde;1048370
+2118;Empleado_2118;Supervisor;Chinquihue;Mañana;1652793
+2119;Empleado_2119;Operario;Chinquihue;Noche;536091
+2120;Empleado_2120;Supervisor;Calbuco;Noche;1169640
+2121;Empleado_2121;Operario;Puerto Montt;Tarde;672260
+2122;Empleado_2122;Operario;Calbuco;Tarde;1860356
+2123;Empleado_2123;Operario;Hornopirén;Noche;1340809
+2124;Empleado_2124;Técnico;Calbuco;Mañana;539762
+2125;Empleado_2125;Supervisor;Hornopirén;Mañana;1833758
+2126;Empleado_2126;Operario;Quellón;Tarde;1961286
+2127;Empleado_2127;Supervisor;Chinquihue;Noche;693850
+2128;Empleado_2128;Supervisor;Puerto Montt;Mañana;874173
+2129;Empleado_2129;Administrativo;Calbuco;Mañana;1422689
+2130;Empleado_2130;Operario;Calbuco;Noche;999601
+2131;Empleado_2131;Supervisor;Chinquihue;Mañana;1732790
+2132;Empleado_2132;Supervisor;Puerto Montt;Noche;1738806
+2133;Empleado_2133;Supervisor;Quellón;Mañana;904397
+2134;Empleado_2134;Administrativo;Hornopirén;Mañana;1142660
+2135;Empleado_2135;Operario;Puerto Montt;Mañana;1079308
+2136;Empleado_2136;Operario;Chinquihue;Tarde;1022454
+2137;Empleado_2137;Técnico;Calbuco;Tarde;787751
+2138;Empleado_2138;Administrativo;Chinquihue;Mañana;952487
+2139;Empleado_2139;Supervisor;Puerto Montt;Noche;1165913
+2140;Empleado_2140;Supervisor;Hornopirén;Mañana;651023
+2141;Empleado_2141;Supervisor;Quellón;Noche;504170
+2142;Empleado_2142;Operario;Puerto Montt;Tarde;787553
+2143;Empleado_2143;Técnico;Hornopirén;Tarde;630089
+2144;Empleado_2144;Técnico;Calbuco;Mañana;1318065
+2145;Empleado_2145;Operario;Calbuco;Noche;839899
+2146;Empleado_2146;Técnico;Calbuco;Mañana;1348305
+2147;Empleado_2147;Supervisor;Puerto Montt;Tarde;709169
+2148;Empleado_2148;Técnico;Chinquihue;Tarde;1509765
+2149;Empleado_2149;Técnico;Puerto Montt;Noche;590046
+2150;Empleado_2150;Técnico;Hornopirén;Noche;1253049
+2151;Empleado_2151;Operario;Puerto Montt;Mañana;609339
+2152;Empleado_2152;Supervisor;Chinquihue;Tarde;742326
+2153;Empleado_2153;Operario;Puerto Montt;Noche;851283
+2154;Empleado_2154;Operario;Puerto Montt;Mañana;1111052
+2155;Empleado_2155;Supervisor;Quellón;Noche;1552376
+2156;Empleado_2156;Técnico;Hornopirén;Noche;694030
+2157;Empleado_2157;Administrativo;Quellón;Tarde;1056306
+2158;Empleado_2158;Operario;Calbuco;Tarde;500392
+2159;Empleado_2159;Operario;Quellón;Mañana;1110483
+2160;Empleado_2160;Técnico;Calbuco;Tarde;671699
+2161;Empleado_2161;Supervisor;Calbuco;Mañana;580620
+2162;Empleado_2162;Supervisor;Calbuco;Tarde;1267766
+2163;Empleado_2163;Operario;Puerto Montt;Noche;1890913
+2164;Empleado_2164;Supervisor;Puerto Montt;Mañana;638545
+2165;Empleado_2165;Supervisor;Puerto Montt;Noche;1292510
+2166;Empleado_2166;Supervisor;Chinquihue;Mañana;1532276
+2167;Empleado_2167;Técnico;Hornopirén;Noche;1434846
+2168;Empleado_2168;Administrativo;Chinquihue;Noche;1332278
+2169;Empleado_2169;Supervisor;Quellón;Noche;956707
+2170;Empleado_2170;Operario;Calbuco;Noche;847660
+2171;Empleado_2171;Técnico;Puerto Montt;Tarde;954541
+2172;Empleado_2172;Administrativo;Chinquihue;Noche;1686332
+2173;Empleado_2173;Técnico;Quellón;Tarde;622766
+2174;Empleado_2174;Supervisor;Puerto Montt;Noche;1741440
+2175;Empleado_2175;Técnico;Calbuco;Tarde;512033
+2176;Empleado_2176;Administrativo;Quellón;Noche;510443
+2177;Empleado_2177;Administrativo;Puerto Montt;Tarde;1182101
+2178;Empleado_2178;Supervisor;Calbuco;Noche;1014576
+2179;Empleado_2179;Operario;Puerto Montt;Noche;1489327
+2180;Empleado_2180;Supervisor;Chinquihue;Tarde;1709904
+2181;Empleado_2181;Supervisor;Puerto Montt;Mañana;1091087
+2182;Empleado_2182;Operario;Quellón;Mañana;543410
+2183;Empleado_2183;Supervisor;Chinquihue;Mañana;802220
+2184;Empleado_2184;Técnico;Quellón;Mañana;1541596
+2185;Empleado_2185;Operario;Quellón;Noche;657775
+2186;Empleado_2186;Administrativo;Calbuco;Tarde;1458578
+2187;Empleado_2187;Supervisor;Calbuco;Noche;1989978
+2188;Empleado_2188;Supervisor;Chinquihue;Noche;1034978
+2189;Empleado_2189;Técnico;Chinquihue;Noche;971999
+2190;Empleado_2190;Técnico;Quellón;Noche;683290
+2191;Empleado_2191;Supervisor;Puerto Montt;Noche;1206321
+2192;Empleado_2192;Operario;Quellón;Mañana;659713
+2193;Empleado_2193;Operario;Puerto Montt;Mañana;1164928
+2194;Empleado_2194;Supervisor;Puerto Montt;Noche;1174113
+2195;Empleado_2195;Técnico;Chinquihue;Tarde;557507
+2196;Empleado_2196;Técnico;Puerto Montt;Noche;508904
+2197;Empleado_2197;Operario;Puerto Montt;Tarde;1750404
+2198;Empleado_2198;Administrativo;Puerto Montt;Noche;1317853
+2199;Empleado_2199;Supervisor;Calbuco;Noche;1134405
+2200;Empleado_2200;Operario;Hornopirén;Tarde;1163053
+2201;Empleado_2201;Operario;Puerto Montt;Noche;1991971
+2202;Empleado_2202;Supervisor;Puerto Montt;Mañana;1530283
+2203;Empleado_2203;Operario;Chinquihue;Tarde;1061708
+2204;Empleado_2204;Operario;Quellón;Mañana;1588497
+2205;Empleado_2205;Técnico;Quellón;Tarde;706287
+2206;Empleado_2206;Operario;Calbuco;Mañana;877735
+2207;Empleado_2207;Administrativo;Calbuco;Tarde;786117
+2208;Empleado_2208;Administrativo;Calbuco;Tarde;979838
+2209;Empleado_2209;Supervisor;Quellón;Mañana;984810
+2210;Empleado_2210;Operario;Chinquihue;Tarde;1799195
+2211;Empleado_2211;Técnico;Calbuco;Mañana;1546376
+2212;Empleado_2212;Técnico;Chinquihue;Mañana;1526583
+2213;Empleado_2213;Operario;Calbuco;Tarde;1283924
+2214;Empleado_2214;Administrativo;Quellón;Tarde;1308835
+2215;Empleado_2215;Técnico;Puerto Montt;Mañana;934209
+2216;Empleado_2216;Operario;Quellón;Mañana;1338534
+2217;Empleado_2217;Técnico;Quellón;Mañana;596166
+2218;Empleado_2218;Supervisor;Quellón;Tarde;898184
+2219;Empleado_2219;Operario;Quellón;Tarde;777927
+2220;Empleado_2220;Administrativo;Chinquihue;Noche;1729775
+2221;Empleado_2221;Supervisor;Chinquihue;Tarde;996799
+2222;Empleado_2222;Técnico;Quellón;Mañana;1110174
+2223;Empleado_2223;Operario;Puerto Montt;Noche;1396414
+2224;Empleado_2224;Operario;Chinquihue;Mañana;684075
+2225;Empleado_2225;Operario;Calbuco;Noche;610898
+2226;Empleado_2226;Administrativo;Quellón;Noche;1164016
+2227;Empleado_2227;Operario;Chinquihue;Tarde;776636
+2228;Empleado_2228;Operario;Puerto Montt;Noche;1393295
+2229;Empleado_2229;Técnico;Quellón;Mañana;1535449
+2230;Empleado_2230;Administrativo;Calbuco;Tarde;1057713
+2231;Empleado_2231;Técnico;Hornopirén;Mañana;1467995
+2232;Empleado_2232;Administrativo;Puerto Montt;Mañana;913148
+2233;Empleado_2233;Supervisor;Chinquihue;Tarde;1409947
+2234;Empleado_2234;Administrativo;Chinquihue;Mañana;1932189
+2235;Empleado_2235;Operario;Quellón;Mañana;1130547
+2236;Empleado_2236;Administrativo;Quellón;Tarde;760737
+2237;Empleado_2237;Supervisor;Quellón;Mañana;598915
+2238;Empleado_2238;Administrativo;Puerto Montt;Noche;1513145
+2239;Empleado_2239;Supervisor;Chinquihue;Mañana;1139718
+2240;Empleado_2240;Administrativo;Quellón;Mañana;730179
+2241;Empleado_2241;Técnico;Puerto Montt;Mañana;1325618
+2242;Empleado_2242;Operario;Hornopirén;Tarde;1339534
+2243;Empleado_2243;Técnico;Calbuco;Noche;1743230
+2244;Empleado_2244;Técnico;Hornopirén;Tarde;970965
+2245;Empleado_2245;Operario;Quellón;Mañana;1371743
+2246;Empleado_2246;Técnico;Chinquihue;Mañana;1403911
+2247;Empleado_2247;Técnico;Hornopirén;Tarde;1194067
+2248;Empleado_2248;Supervisor;Chinquihue;Mañana;1968459
+2249;Empleado_2249;Supervisor;Calbuco;Noche;1444017
+2250;Empleado_2250;Administrativo;Puerto Montt;Mañana;1325247
+2251;Empleado_2251;Supervisor;Chinquihue;Tarde;638130
+2252;Empleado_2252;Administrativo;Puerto Montt;Noche;1443843
+2253;Empleado_2253;Operario;Calbuco;Tarde;1104089
+2254;Empleado_2254;Supervisor;Chinquihue;Mañana;1023761
+2255;Empleado_2255;Operario;Hornopirén;Tarde;1375399
+2256;Empleado_2256;Operario;Puerto Montt;Tarde;678096
+2257;Empleado_2257;Supervisor;Calbuco;Tarde;1925095
+2258;Empleado_2258;Supervisor;Hornopirén;Noche;1746304
+2259;Empleado_2259;Técnico;Hornopirén;Tarde;799672
+2260;Empleado_2260;Administrativo;Puerto Montt;Tarde;847428
+2261;Empleado_2261;Supervisor;Calbuco;Tarde;1897854
+2262;Empleado_2262;Supervisor;Puerto Montt;Noche;1549325
+2263;Empleado_2263;Supervisor;Hornopirén;Tarde;599065
+2264;Empleado_2264;Técnico;Puerto Montt;Mañana;905794
+2265;Empleado_2265;Administrativo;Quellón;Noche;1685701
+2266;Empleado_2266;Supervisor;Puerto Montt;Noche;1079901
+2267;Empleado_2267;Supervisor;Puerto Montt;Mañana;851444
+2268;Empleado_2268;Técnico;Calbuco;Mañana;1072685
+2269;Empleado_2269;Administrativo;Calbuco;Mañana;1329292
+2270;Empleado_2270;Administrativo;Chinquihue;Noche;1423000
+2271;Empleado_2271;Supervisor;Chinquihue;Noche;1361054
+2272;Empleado_2272;Supervisor;Puerto Montt;Noche;1518714
+2273;Empleado_2273;Operario;Puerto Montt;Mañana;1259513
+2274;Empleado_2274;Supervisor;Calbuco;Tarde;1490274
+2275;Empleado_2275;Operario;Puerto Montt;Noche;725056
+2276;Empleado_2276;Administrativo;Puerto Montt;Noche;1650412
+2277;Empleado_2277;Supervisor;Hornopirén;Tarde;563230
+2278;Empleado_2278;Administrativo;Calbuco;Noche;1044055
+2279;Empleado_2279;Administrativo;Hornopirén;Mañana;1074403
+2280;Empleado_2280;Supervisor;Calbuco;Mañana;628765
+2281;Empleado_2281;Administrativo;Puerto Montt;Noche;1394903
+2282;Empleado_2282;Supervisor;Chinquihue;Mañana;1146921
+2283;Empleado_2283;Supervisor;Calbuco;Mañana;1993217
+2284;Empleado_2284;Administrativo;Calbuco;Tarde;1626276
+2285;Empleado_2285;Administrativo;Calbuco;Tarde;1217776
+2286;Empleado_2286;Supervisor;Quellón;Noche;1669278
+2287;Empleado_2287;Supervisor;Hornopirén;Mañana;1158433
+2288;Empleado_2288;Técnico;Quellón;Tarde;1175046
+2289;Empleado_2289;Administrativo;Puerto Montt;Tarde;1629431
+2290;Empleado_2290;Supervisor;Quellón;Tarde;1639111
+2291;Empleado_2291;Administrativo;Puerto Montt;Mañana;1817997
+2292;Empleado_2292;Operario;Calbuco;Mañana;853005
+2293;Empleado_2293;Operario;Calbuco;Mañana;810757
+2294;Empleado_2294;Administrativo;Calbuco;Mañana;1706782
+2295;Empleado_2295;Administrativo;Chinquihue;Noche;878758
+2296;Empleado_2296;Técnico;Puerto Montt;Tarde;1463774
+2297;Empleado_2297;Administrativo;Chinquihue;Noche;1854517
+2298;Empleado_2298;Administrativo;Quellón;Noche;1981559
+2299;Empleado_2299;Supervisor;Chinquihue;Tarde;1518318
+2300;Empleado_2300;Supervisor;Chinquihue;Noche;1161877
+2301;Empleado_2301;Administrativo;Quellón;Noche;1416193
+2302;Empleado_2302;Técnico;Puerto Montt;Mañana;757108
+2303;Empleado_2303;Técnico;Hornopirén;Mañana;827759
+2304;Empleado_2304;Supervisor;Quellón;Mañana;1566602
+2305;Empleado_2305;Operario;Hornopirén;Noche;568583
+2306;Empleado_2306;Operario;Hornopirén;Mañana;864418
+2307;Empleado_2307;Técnico;Chinquihue;Tarde;1784101
+2308;Empleado_2308;Administrativo;Quellón;Tarde;1389716
+2309;Empleado_2309;Operario;Puerto Montt;Mañana;1327435
+2310;Empleado_2310;Técnico;Calbuco;Noche;1304819
+2311;Empleado_2311;Administrativo;Calbuco;Mañana;806402
+2312;Empleado_2312;Operario;Calbuco;Mañana;1326385
+2313;Empleado_2313;Técnico;Hornopirén;Noche;1575328
+2314;Empleado_2314;Operario;Hornopirén;Mañana;1052414
+2315;Empleado_2315;Técnico;Hornopirén;Noche;1125741
+2316;Empleado_2316;Supervisor;Hornopirén;Tarde;796361
+2317;Empleado_2317;Operario;Calbuco;Noche;1029359
+2318;Empleado_2318;Administrativo;Quellón;Noche;570476
+2319;Empleado_2319;Administrativo;Hornopirén;Noche;1277308
+2320;Empleado_2320;Supervisor;Puerto Montt;Mañana;1099753
+2321;Empleado_2321;Administrativo;Hornopirén;Noche;1961287
+2322;Empleado_2322;Supervisor;Hornopirén;Noche;1980125
+2323;Empleado_2323;Técnico;Hornopirén;Tarde;562963
+2324;Empleado_2324;Supervisor;Chinquihue;Noche;1035057
+2325;Empleado_2325;Operario;Quellón;Noche;855360
+2326;Empleado_2326;Administrativo;Chinquihue;Mañana;704188
+2327;Empleado_2327;Administrativo;Calbuco;Tarde;1530340
+2328;Empleado_2328;Operario;Hornopirén;Tarde;947528
+2329;Empleado_2329;Administrativo;Quellón;Mañana;840888
+2330;Empleado_2330;Técnico;Calbuco;Mañana;1776310
+2331;Empleado_2331;Operario;Chinquihue;Noche;1780639
+2332;Empleado_2332;Técnico;Quellón;Mañana;1167024
+2333;Empleado_2333;Operario;Calbuco;Mañana;687284
+2334;Empleado_2334;Técnico;Quellón;Mañana;1935320
+2335;Empleado_2335;Supervisor;Quellón;Noche;1443421
+2336;Empleado_2336;Operario;Hornopirén;Mañana;503984
+2337;Empleado_2337;Operario;Chinquihue;Mañana;726214
+2338;Empleado_2338;Supervisor;Chinquihue;Mañana;1047094
+2339;Empleado_2339;Técnico;Calbuco;Noche;1438736
+2340;Empleado_2340;Administrativo;Chinquihue;Noche;771169
+2341;Empleado_2341;Técnico;Chinquihue;Mañana;522487
+2342;Empleado_2342;Administrativo;Quellón;Noche;1195623
+2343;Empleado_2343;Administrativo;Calbuco;Noche;1257759
+2344;Empleado_2344;Técnico;Calbuco;Mañana;1746631
+2345;Empleado_2345;Supervisor;Hornopirén;Noche;1439443
+2346;Empleado_2346;Supervisor;Calbuco;Noche;644793
+2347;Empleado_2347;Administrativo;Puerto Montt;Noche;961181
+2348;Empleado_2348;Supervisor;Calbuco;Noche;775267
+2349;Empleado_2349;Operario;Calbuco;Mañana;1134806
+2350;Empleado_2350;Supervisor;Calbuco;Noche;1642068
+2351;Empleado_2351;Administrativo;Puerto Montt;Noche;1066239
+2352;Empleado_2352;Administrativo;Puerto Montt;Mañana;1050137
+2353;Empleado_2353;Administrativo;Puerto Montt;Noche;1042869
+2354;Empleado_2354;Supervisor;Hornopirén;Mañana;1187134
+2355;Empleado_2355;Técnico;Chinquihue;Mañana;876585
+2356;Empleado_2356;Administrativo;Calbuco;Mañana;1991082
+2357;Empleado_2357;Técnico;Quellón;Tarde;1224033
+2358;Empleado_2358;Administrativo;Puerto Montt;Noche;1037789
+2359;Empleado_2359;Operario;Calbuco;Tarde;1547664
+2360;Empleado_2360;Administrativo;Puerto Montt;Mañana;1591002
+2361;Empleado_2361;Supervisor;Hornopirén;Tarde;1670025
+2362;Empleado_2362;Administrativo;Hornopirén;Noche;1966540
+2363;Empleado_2363;Administrativo;Calbuco;Mañana;1150268
+2364;Empleado_2364;Supervisor;Puerto Montt;Mañana;1548024
+2365;Empleado_2365;Supervisor;Puerto Montt;Mañana;1386180
+2366;Empleado_2366;Administrativo;Calbuco;Mañana;1189739
+2367;Empleado_2367;Técnico;Quellón;Mañana;1532538
+2368;Empleado_2368;Supervisor;Hornopirén;Noche;1495494
+2369;Empleado_2369;Técnico;Quellón;Tarde;1410616
+2370;Empleado_2370;Operario;Hornopirén;Tarde;1566261
+2371;Empleado_2371;Administrativo;Hornopirén;Tarde;745341
+2372;Empleado_2372;Supervisor;Hornopirén;Tarde;777363
+2373;Empleado_2373;Administrativo;Calbuco;Noche;989576
+2374;Empleado_2374;Técnico;Calbuco;Tarde;1631663
+2375;Empleado_2375;Supervisor;Chinquihue;Noche;1728514
+2376;Empleado_2376;Técnico;Calbuco;Tarde;595124
+2377;Empleado_2377;Supervisor;Puerto Montt;Tarde;1103722
+2378;Empleado_2378;Técnico;Hornopirén;Noche;871279
+2379;Empleado_2379;Administrativo;Puerto Montt;Noche;1795565
+2380;Empleado_2380;Administrativo;Puerto Montt;Noche;1704326
+2381;Empleado_2381;Supervisor;Hornopirén;Noche;1184351
+2382;Empleado_2382;Operario;Chinquihue;Noche;1588958
+2383;Empleado_2383;Supervisor;Puerto Montt;Tarde;1125676
+2384;Empleado_2384;Operario;Puerto Montt;Mañana;1521564
+2385;Empleado_2385;Administrativo;Chinquihue;Noche;861550
+2386;Empleado_2386;Supervisor;Chinquihue;Mañana;1982488
+2387;Empleado_2387;Administrativo;Calbuco;Tarde;1089916
+2388;Empleado_2388;Operario;Puerto Montt;Mañana;1815538
+2389;Empleado_2389;Supervisor;Quellón;Tarde;1993996
+2390;Empleado_2390;Operario;Calbuco;Noche;1691107
+2391;Empleado_2391;Operario;Quellón;Mañana;763958
+2392;Empleado_2392;Supervisor;Hornopirén;Mañana;1671849
+2393;Empleado_2393;Técnico;Chinquihue;Tarde;1753130
+2394;Empleado_2394;Técnico;Calbuco;Noche;928687
+2395;Empleado_2395;Supervisor;Puerto Montt;Noche;644904
+2396;Empleado_2396;Operario;Quellón;Mañana;1819803
+2397;Empleado_2397;Administrativo;Calbuco;Noche;997343
+2398;Empleado_2398;Técnico;Hornopirén;Mañana;991110
+2399;Empleado_2399;Supervisor;Quellón;Mañana;1483983
+2400;Empleado_2400;Administrativo;Hornopirén;Tarde;992381
+2401;Empleado_2401;Operario;Quellón;Mañana;1551842
+2402;Empleado_2402;Operario;Quellón;Mañana;1485355
+2403;Empleado_2403;Supervisor;Hornopirén;Noche;706087
+2404;Empleado_2404;Técnico;Calbuco;Noche;1193228
+2405;Empleado_2405;Técnico;Hornopirén;Mañana;1927065
+2406;Empleado_2406;Administrativo;Calbuco;Tarde;1608871
+2407;Empleado_2407;Administrativo;Quellón;Mañana;1769542
+2408;Empleado_2408;Operario;Hornopirén;Noche;1756690
+2409;Empleado_2409;Administrativo;Quellón;Mañana;1764363
+2410;Empleado_2410;Supervisor;Calbuco;Tarde;870733
+2411;Empleado_2411;Operario;Hornopirén;Noche;1951242
+2412;Empleado_2412;Operario;Puerto Montt;Mañana;792364
+2413;Empleado_2413;Operario;Quellón;Mañana;560063
+2414;Empleado_2414;Técnico;Calbuco;Noche;773762
+2415;Empleado_2415;Administrativo;Puerto Montt;Tarde;1810994
+2416;Empleado_2416;Operario;Hornopirén;Tarde;1200392
+2417;Empleado_2417;Técnico;Chinquihue;Mañana;1632730
+2418;Empleado_2418;Operario;Quellón;Tarde;1321753
+2419;Empleado_2419;Operario;Quellón;Mañana;1001280
+2420;Empleado_2420;Técnico;Hornopirén;Mañana;1831913
+2421;Empleado_2421;Técnico;Quellón;Mañana;1861840
+2422;Empleado_2422;Administrativo;Puerto Montt;Mañana;1050579
+2423;Empleado_2423;Supervisor;Puerto Montt;Mañana;1391840
+2424;Empleado_2424;Operario;Calbuco;Noche;1342246
+2425;Empleado_2425;Técnico;Calbuco;Mañana;910610
+2426;Empleado_2426;Operario;Calbuco;Noche;514924
+2427;Empleado_2427;Técnico;Chinquihue;Noche;1170444
+2428;Empleado_2428;Operario;Hornopirén;Mañana;1771041
+2429;Empleado_2429;Administrativo;Quellón;Mañana;1419657
+2430;Empleado_2430;Técnico;Puerto Montt;Mañana;1350063
+2431;Empleado_2431;Operario;Quellón;Noche;619418
+2432;Empleado_2432;Administrativo;Puerto Montt;Tarde;859839
+2433;Empleado_2433;Supervisor;Quellón;Tarde;1548305
+2434;Empleado_2434;Operario;Puerto Montt;Tarde;540417
+2435;Empleado_2435;Operario;Chinquihue;Tarde;707672
+2436;Empleado_2436;Operario;Hornopirén;Noche;1034077
+2437;Empleado_2437;Técnico;Puerto Montt;Tarde;716910
+2438;Empleado_2438;Técnico;Quellón;Mañana;1909778
+2439;Empleado_2439;Administrativo;Chinquihue;Mañana;1275408
+2440;Empleado_2440;Supervisor;Hornopirén;Mañana;858341
+2441;Empleado_2441;Operario;Hornopirén;Mañana;1197814
+2442;Empleado_2442;Administrativo;Quellón;Mañana;924956
+2443;Empleado_2443;Técnico;Chinquihue;Tarde;1859951
+2444;Empleado_2444;Administrativo;Calbuco;Noche;1925457
+2445;Empleado_2445;Operario;Chinquihue;Mañana;572283
+2446;Empleado_2446;Administrativo;Chinquihue;Tarde;1929526
+2447;Empleado_2447;Operario;Hornopirén;Noche;1020719
+2448;Empleado_2448;Supervisor;Puerto Montt;Tarde;1292270
+2449;Empleado_2449;Administrativo;Hornopirén;Mañana;802310
+2450;Empleado_2450;Operario;Puerto Montt;Noche;784750
+2451;Empleado_2451;Administrativo;Chinquihue;Tarde;742375
+2452;Empleado_2452;Supervisor;Puerto Montt;Tarde;1962607
+2453;Empleado_2453;Técnico;Hornopirén;Noche;1754559
+2454;Empleado_2454;Técnico;Calbuco;Noche;510070
+2455;Empleado_2455;Administrativo;Puerto Montt;Tarde;947522
+2456;Empleado_2456;Operario;Quellón;Mañana;571724
+2457;Empleado_2457;Supervisor;Puerto Montt;Mañana;1922697
+2458;Empleado_2458;Administrativo;Chinquihue;Noche;922381
+2459;Empleado_2459;Técnico;Calbuco;Noche;932428
+2460;Empleado_2460;Supervisor;Calbuco;Tarde;530858
+2461;Empleado_2461;Supervisor;Puerto Montt;Mañana;1200366
+2462;Empleado_2462;Supervisor;Hornopirén;Noche;720549
+2463;Empleado_2463;Operario;Hornopirén;Noche;1193020
+2464;Empleado_2464;Operario;Quellón;Mañana;665908
+2465;Empleado_2465;Técnico;Calbuco;Noche;1705793
+2466;Empleado_2466;Administrativo;Chinquihue;Mañana;1378743
+2467;Empleado_2467;Técnico;Chinquihue;Mañana;1832013
+2468;Empleado_2468;Técnico;Quellón;Noche;667947
+2469;Empleado_2469;Supervisor;Calbuco;Noche;1118825
+2470;Empleado_2470;Administrativo;Quellón;Tarde;1394900
+2471;Empleado_2471;Técnico;Puerto Montt;Noche;1618836
+2472;Empleado_2472;Técnico;Chinquihue;Tarde;666163
+2473;Empleado_2473;Técnico;Quellón;Noche;639188
+2474;Empleado_2474;Técnico;Calbuco;Noche;1859498
+2475;Empleado_2475;Supervisor;Quellón;Noche;1787670
+2476;Empleado_2476;Supervisor;Puerto Montt;Noche;1573187
+2477;Empleado_2477;Administrativo;Calbuco;Noche;1155548
+2478;Empleado_2478;Operario;Calbuco;Mañana;1998678
+2479;Empleado_2479;Supervisor;Calbuco;Noche;874039
+2480;Empleado_2480;Operario;Calbuco;Mañana;736343
+2481;Empleado_2481;Técnico;Puerto Montt;Mañana;898163
+2482;Empleado_2482;Supervisor;Calbuco;Tarde;543007
+2483;Empleado_2483;Operario;Puerto Montt;Tarde;581528
+2484;Empleado_2484;Técnico;Hornopirén;Mañana;1859650
+2485;Empleado_2485;Técnico;Hornopirén;Noche;1389687
+2486;Empleado_2486;Supervisor;Calbuco;Mañana;1111228
+2487;Empleado_2487;Supervisor;Quellón;Tarde;762629
+2488;Empleado_2488;Supervisor;Chinquihue;Noche;1271667
+2489;Empleado_2489;Operario;Chinquihue;Noche;774782
+2490;Empleado_2490;Técnico;Calbuco;Noche;1289264
+2491;Empleado_2491;Supervisor;Hornopirén;Mañana;872951
+2492;Empleado_2492;Supervisor;Chinquihue;Noche;1808728
+2493;Empleado_2493;Supervisor;Quellón;Noche;861483
+2494;Empleado_2494;Operario;Hornopirén;Mañana;1162323
+2495;Empleado_2495;Técnico;Puerto Montt;Mañana;770169
+2496;Empleado_2496;Técnico;Puerto Montt;Tarde;1927354
+2497;Empleado_2497;Técnico;Hornopirén;Tarde;1356254
+2498;Empleado_2498;Técnico;Hornopirén;Mañana;1620147
+2499;Empleado_2499;Supervisor;Calbuco;Tarde;1636638
+2500;Empleado_2500;Administrativo;Quellón;Noche;766108
+2501;Empleado_2501;Técnico;Quellón;Noche;1963660
+2502;Empleado_2502;Administrativo;Chinquihue;Mañana;882530
+2503;Empleado_2503;Técnico;Quellón;Mañana;624425
+2504;Empleado_2504;Técnico;Chinquihue;Noche;557939
+2505;Empleado_2505;Supervisor;Chinquihue;Noche;808609
+2506;Empleado_2506;Supervisor;Quellón;Tarde;875167
+2507;Empleado_2507;Operario;Chinquihue;Noche;588089
+2508;Empleado_2508;Técnico;Quellón;Noche;1494024
+2509;Empleado_2509;Operario;Chinquihue;Tarde;853174
+2510;Empleado_2510;Operario;Quellón;Mañana;1687312
+2511;Empleado_2511;Supervisor;Hornopirén;Mañana;1134679
+2512;Empleado_2512;Técnico;Puerto Montt;Tarde;1087744
+2513;Empleado_2513;Supervisor;Calbuco;Mañana;898746
+2514;Empleado_2514;Supervisor;Quellón;Noche;671070
+2515;Empleado_2515;Operario;Quellón;Noche;1580884
+2516;Empleado_2516;Administrativo;Hornopirén;Mañana;1958049
+2517;Empleado_2517;Técnico;Quellón;Noche;1938449
+2518;Empleado_2518;Técnico;Chinquihue;Noche;1162145
+2519;Empleado_2519;Técnico;Chinquihue;Noche;773982
+2520;Empleado_2520;Técnico;Quellón;Mañana;502099
+2521;Empleado_2521;Técnico;Chinquihue;Noche;1586547
+2522;Empleado_2522;Operario;Hornopirén;Noche;537315
+2523;Empleado_2523;Administrativo;Puerto Montt;Noche;1899686
+2524;Empleado_2524;Supervisor;Puerto Montt;Tarde;711846
+2525;Empleado_2525;Supervisor;Puerto Montt;Noche;1474983
+2526;Empleado_2526;Técnico;Quellón;Noche;703570
+2527;Empleado_2527;Supervisor;Calbuco;Tarde;1948693
+2528;Empleado_2528;Supervisor;Quellón;Tarde;782900
+2529;Empleado_2529;Operario;Hornopirén;Tarde;693970
+2530;Empleado_2530;Operario;Quellón;Noche;1961389
+2531;Empleado_2531;Técnico;Calbuco;Tarde;562023
+2532;Empleado_2532;Técnico;Puerto Montt;Mañana;941081
+2533;Empleado_2533;Administrativo;Puerto Montt;Noche;1209267
+2534;Empleado_2534;Técnico;Quellón;Mañana;1874989
+2535;Empleado_2535;Operario;Calbuco;Noche;1477823
+2536;Empleado_2536;Administrativo;Puerto Montt;Mañana;1868634
+2537;Empleado_2537;Operario;Puerto Montt;Tarde;1637747
+2538;Empleado_2538;Técnico;Chinquihue;Mañana;715263
+2539;Empleado_2539;Técnico;Calbuco;Mañana;929910
+2540;Empleado_2540;Operario;Puerto Montt;Tarde;563338
+2541;Empleado_2541;Administrativo;Puerto Montt;Mañana;813027
+2542;Empleado_2542;Operario;Puerto Montt;Tarde;1524006
+2543;Empleado_2543;Operario;Puerto Montt;Mañana;1040828
+2544;Empleado_2544;Operario;Calbuco;Noche;535549
+2545;Empleado_2545;Operario;Hornopirén;Tarde;1777095
+2546;Empleado_2546;Administrativo;Hornopirén;Noche;709115
+2547;Empleado_2547;Administrativo;Chinquihue;Mañana;1673809
+2548;Empleado_2548;Administrativo;Puerto Montt;Tarde;1113615
+2549;Empleado_2549;Técnico;Hornopirén;Noche;1212331
+2550;Empleado_2550;Técnico;Chinquihue;Tarde;575869
+2551;Empleado_2551;Técnico;Quellón;Noche;1187478
+2552;Empleado_2552;Operario;Chinquihue;Mañana;1807831
+2553;Empleado_2553;Supervisor;Quellón;Tarde;943145
+2554;Empleado_2554;Operario;Quellón;Mañana;722717
+2555;Empleado_2555;Técnico;Puerto Montt;Tarde;1991387
+2556;Empleado_2556;Supervisor;Chinquihue;Mañana;1178587
+2557;Empleado_2557;Administrativo;Calbuco;Tarde;694307
+2558;Empleado_2558;Supervisor;Hornopirén;Noche;843817
+2559;Empleado_2559;Técnico;Quellón;Mañana;1086661
+2560;Empleado_2560;Administrativo;Quellón;Mañana;577519
+2561;Empleado_2561;Supervisor;Chinquihue;Mañana;1501542
+2562;Empleado_2562;Técnico;Hornopirén;Noche;622745
+2563;Empleado_2563;Administrativo;Calbuco;Noche;1184191
+2564;Empleado_2564;Operario;Puerto Montt;Mañana;1501430
+2565;Empleado_2565;Operario;Quellón;Noche;1176312
+2566;Empleado_2566;Operario;Puerto Montt;Noche;1743327
+2567;Empleado_2567;Administrativo;Chinquihue;Noche;1879592
+2568;Empleado_2568;Administrativo;Quellón;Noche;1605570
+2569;Empleado_2569;Supervisor;Hornopirén;Tarde;706345
+2570;Empleado_2570;Supervisor;Chinquihue;Noche;548549
+2571;Empleado_2571;Técnico;Chinquihue;Noche;853927
+2572;Empleado_2572;Administrativo;Quellón;Tarde;1535325
+2573;Empleado_2573;Operario;Hornopirén;Noche;994823
+2574;Empleado_2574;Técnico;Chinquihue;Tarde;558708
+2575;Empleado_2575;Técnico;Quellón;Noche;1781090
+2576;Empleado_2576;Operario;Quellón;Noche;1252453
+2577;Empleado_2577;Técnico;Quellón;Mañana;1187483
+2578;Empleado_2578;Técnico;Calbuco;Mañana;1349835
+2579;Empleado_2579;Técnico;Puerto Montt;Tarde;1537304
+2580;Empleado_2580;Supervisor;Chinquihue;Mañana;1255303
+2581;Empleado_2581;Supervisor;Puerto Montt;Noche;1634667
+2582;Empleado_2582;Supervisor;Quellón;Mañana;940318
+2583;Empleado_2583;Operario;Quellón;Noche;1939985
+2584;Empleado_2584;Operario;Calbuco;Noche;1188147
+2585;Empleado_2585;Operario;Puerto Montt;Mañana;1438189
+2586;Empleado_2586;Técnico;Puerto Montt;Mañana;1207689
+2587;Empleado_2587;Técnico;Puerto Montt;Noche;1691237
+2588;Empleado_2588;Supervisor;Quellón;Tarde;1831338
+2589;Empleado_2589;Técnico;Puerto Montt;Mañana;1485179
+2590;Empleado_2590;Operario;Quellón;Tarde;1961967
+2591;Empleado_2591;Técnico;Quellón;Tarde;1493422
+2592;Empleado_2592;Operario;Hornopirén;Noche;880719
+2593;Empleado_2593;Supervisor;Chinquihue;Mañana;1389791
+2594;Empleado_2594;Supervisor;Quellón;Tarde;582898
+2595;Empleado_2595;Operario;Quellón;Mañana;858042
+2596;Empleado_2596;Operario;Chinquihue;Noche;1748664
+2597;Empleado_2597;Operario;Quellón;Mañana;1432019
+2598;Empleado_2598;Administrativo;Calbuco;Tarde;808992
+2599;Empleado_2599;Operario;Hornopirén;Noche;913927
+2600;Empleado_2600;Administrativo;Quellón;Noche;1127144
+2601;Empleado_2601;Técnico;Calbuco;Noche;1780004
+2602;Empleado_2602;Administrativo;Calbuco;Mañana;861254
+2603;Empleado_2603;Técnico;Quellón;Tarde;1759200
+2604;Empleado_2604;Operario;Chinquihue;Noche;1031129
+2605;Empleado_2605;Operario;Quellón;Tarde;1058610
+2606;Empleado_2606;Operario;Calbuco;Mañana;1334581
+2607;Empleado_2607;Supervisor;Quellón;Noche;1109023
+2608;Empleado_2608;Técnico;Puerto Montt;Mañana;522627
+2609;Empleado_2609;Supervisor;Chinquihue;Noche;1803790
+2610;Empleado_2610;Administrativo;Hornopirén;Noche;1882209
+2611;Empleado_2611;Técnico;Calbuco;Mañana;715770
+2612;Empleado_2612;Técnico;Chinquihue;Noche;1180385
+2613;Empleado_2613;Operario;Chinquihue;Tarde;642974
+2614;Empleado_2614;Supervisor;Puerto Montt;Mañana;1993286
+2615;Empleado_2615;Supervisor;Quellón;Mañana;985203
+2616;Empleado_2616;Supervisor;Chinquihue;Mañana;746594
+2617;Empleado_2617;Técnico;Calbuco;Noche;1941390
+2618;Empleado_2618;Técnico;Calbuco;Tarde;861440
+2619;Empleado_2619;Supervisor;Chinquihue;Tarde;953489
+2620;Empleado_2620;Técnico;Quellón;Tarde;1605741
+2621;Empleado_2621;Administrativo;Quellón;Noche;1223678
+2622;Empleado_2622;Administrativo;Quellón;Mañana;642887
+2623;Empleado_2623;Supervisor;Quellón;Noche;1726657
+2624;Empleado_2624;Administrativo;Quellón;Tarde;1003688
+2625;Empleado_2625;Administrativo;Hornopirén;Mañana;1005326
+2626;Empleado_2626;Administrativo;Calbuco;Noche;1103868
+2627;Empleado_2627;Administrativo;Calbuco;Tarde;1926180
+2628;Empleado_2628;Técnico;Chinquihue;Tarde;1012457
+2629;Empleado_2629;Operario;Quellón;Mañana;584891
+2630;Empleado_2630;Operario;Chinquihue;Noche;1094443
+2631;Empleado_2631;Operario;Chinquihue;Tarde;1599599
+2632;Empleado_2632;Administrativo;Hornopirén;Tarde;1397499
+2633;Empleado_2633;Operario;Quellón;Mañana;1566729
+2634;Empleado_2634;Técnico;Puerto Montt;Noche;1775278
+2635;Empleado_2635;Supervisor;Puerto Montt;Mañana;531030
+2636;Empleado_2636;Operario;Puerto Montt;Tarde;1405853
+2637;Empleado_2637;Administrativo;Quellón;Noche;1170882
+2638;Empleado_2638;Operario;Puerto Montt;Tarde;1474788
+2639;Empleado_2639;Administrativo;Hornopirén;Mañana;1166055
+2640;Empleado_2640;Operario;Chinquihue;Mañana;1295954
+2641;Empleado_2641;Técnico;Puerto Montt;Noche;1191383
+2642;Empleado_2642;Operario;Hornopirén;Noche;759682
+2643;Empleado_2643;Operario;Quellón;Mañana;1270510
+2644;Empleado_2644;Administrativo;Calbuco;Mañana;1419038
+2645;Empleado_2645;Administrativo;Hornopirén;Tarde;1445593
+2646;Empleado_2646;Técnico;Chinquihue;Tarde;540138
+2647;Empleado_2647;Técnico;Puerto Montt;Mañana;1796880
+2648;Empleado_2648;Supervisor;Calbuco;Noche;720829
+2649;Empleado_2649;Supervisor;Hornopirén;Tarde;1964920
+2650;Empleado_2650;Operario;Hornopirén;Mañana;1868369
+2651;Empleado_2651;Supervisor;Quellón;Noche;1669989
+2652;Empleado_2652;Administrativo;Calbuco;Noche;1786885
+2653;Empleado_2653;Administrativo;Quellón;Noche;1699292
+2654;Empleado_2654;Técnico;Puerto Montt;Mañana;1430085
+2655;Empleado_2655;Técnico;Chinquihue;Mañana;708727
+2656;Empleado_2656;Supervisor;Hornopirén;Mañana;1669637
+2657;Empleado_2657;Operario;Calbuco;Mañana;824818
+2658;Empleado_2658;Supervisor;Hornopirén;Mañana;1113514
+2659;Empleado_2659;Técnico;Calbuco;Noche;985792
+2660;Empleado_2660;Supervisor;Chinquihue;Mañana;836761
+2661;Empleado_2661;Técnico;Puerto Montt;Noche;963876
+2662;Empleado_2662;Administrativo;Chinquihue;Tarde;1749878
+2663;Empleado_2663;Supervisor;Hornopirén;Noche;930194
+2664;Empleado_2664;Operario;Hornopirén;Noche;1015967
+2665;Empleado_2665;Operario;Quellón;Mañana;769395
+2666;Empleado_2666;Administrativo;Hornopirén;Noche;1699593
+2667;Empleado_2667;Operario;Hornopirén;Noche;610416
+2668;Empleado_2668;Supervisor;Chinquihue;Mañana;935981
+2669;Empleado_2669;Operario;Calbuco;Noche;1943312
+2670;Empleado_2670;Técnico;Hornopirén;Tarde;1928988
+2671;Empleado_2671;Administrativo;Puerto Montt;Mañana;1144526
+2672;Empleado_2672;Supervisor;Calbuco;Mañana;1840503
+2673;Empleado_2673;Supervisor;Hornopirén;Noche;1571330
+2674;Empleado_2674;Administrativo;Hornopirén;Tarde;1827353
+2675;Empleado_2675;Técnico;Chinquihue;Tarde;1722623
+2676;Empleado_2676;Operario;Puerto Montt;Mañana;1574844
+2677;Empleado_2677;Técnico;Chinquihue;Tarde;939890
+2678;Empleado_2678;Supervisor;Calbuco;Noche;522660
+2679;Empleado_2679;Supervisor;Calbuco;Noche;1584981
+2680;Empleado_2680;Operario;Quellón;Tarde;1250151
+2681;Empleado_2681;Supervisor;Calbuco;Noche;1984310
+2682;Empleado_2682;Operario;Hornopirén;Tarde;1601127
+2683;Empleado_2683;Operario;Puerto Montt;Noche;780033
+2684;Empleado_2684;Administrativo;Quellón;Tarde;1980994
+2685;Empleado_2685;Técnico;Puerto Montt;Tarde;1713724
+2686;Empleado_2686;Supervisor;Hornopirén;Tarde;613711
+2687;Empleado_2687;Operario;Puerto Montt;Noche;1049328
+2688;Empleado_2688;Supervisor;Hornopirén;Noche;1588827
+2689;Empleado_2689;Técnico;Quellón;Noche;1691040
+2690;Empleado_2690;Operario;Hornopirén;Noche;1731447
+2691;Empleado_2691;Administrativo;Chinquihue;Mañana;1712767
+2692;Empleado_2692;Supervisor;Quellón;Noche;502890
+2693;Empleado_2693;Supervisor;Calbuco;Tarde;1510763
+2694;Empleado_2694;Supervisor;Calbuco;Noche;1447224
+2695;Empleado_2695;Administrativo;Quellón;Mañana;670255
+2696;Empleado_2696;Operario;Puerto Montt;Mañana;573681
+2697;Empleado_2697;Administrativo;Hornopirén;Noche;1976569
+2698;Empleado_2698;Técnico;Calbuco;Noche;902336
+2699;Empleado_2699;Administrativo;Puerto Montt;Tarde;572066
+2700;Empleado_2700;Supervisor;Chinquihue;Mañana;509627
+2701;Empleado_2701;Operario;Calbuco;Noche;1381039
+2702;Empleado_2702;Operario;Puerto Montt;Mañana;754642
+2703;Empleado_2703;Administrativo;Hornopirén;Mañana;1911629
+2704;Empleado_2704;Administrativo;Calbuco;Tarde;1075586
+2705;Empleado_2705;Administrativo;Quellón;Noche;800472
+2706;Empleado_2706;Técnico;Puerto Montt;Mañana;602902
+2707;Empleado_2707;Técnico;Chinquihue;Noche;855723
+2708;Empleado_2708;Técnico;Quellón;Tarde;1718680
+2709;Empleado_2709;Operario;Calbuco;Noche;665254
+2710;Empleado_2710;Administrativo;Chinquihue;Mañana;580740
+2711;Empleado_2711;Administrativo;Chinquihue;Mañana;1085604
+2712;Empleado_2712;Técnico;Calbuco;Noche;1214847
+2713;Empleado_2713;Administrativo;Hornopirén;Noche;976845
+2714;Empleado_2714;Supervisor;Hornopirén;Noche;1787852
+2715;Empleado_2715;Operario;Hornopirén;Tarde;1666488
+2716;Empleado_2716;Administrativo;Hornopirén;Noche;1425904
+2717;Empleado_2717;Técnico;Hornopirén;Mañana;1507698
+2718;Empleado_2718;Administrativo;Calbuco;Mañana;1292644
+2719;Empleado_2719;Supervisor;Calbuco;Tarde;1149498
+2720;Empleado_2720;Administrativo;Quellón;Tarde;596591
+2721;Empleado_2721;Supervisor;Chinquihue;Noche;1807405
+2722;Empleado_2722;Supervisor;Calbuco;Mañana;1478158
+2723;Empleado_2723;Administrativo;Quellón;Noche;1918042
+2724;Empleado_2724;Operario;Chinquihue;Noche;996284
+2725;Empleado_2725;Técnico;Calbuco;Mañana;505867
+2726;Empleado_2726;Operario;Puerto Montt;Tarde;1610925
+2727;Empleado_2727;Técnico;Chinquihue;Noche;1265966
+2728;Empleado_2728;Técnico;Hornopirén;Mañana;611768
+2729;Empleado_2729;Operario;Chinquihue;Noche;723640
+2730;Empleado_2730;Supervisor;Puerto Montt;Tarde;1839755
+2731;Empleado_2731;Supervisor;Puerto Montt;Tarde;510053
+2732;Empleado_2732;Técnico;Quellón;Tarde;1860073
+2733;Empleado_2733;Supervisor;Quellón;Tarde;622828
+2734;Empleado_2734;Operario;Calbuco;Mañana;729360
+2735;Empleado_2735;Administrativo;Hornopirén;Mañana;1931667
+2736;Empleado_2736;Supervisor;Puerto Montt;Mañana;755111
+2737;Empleado_2737;Supervisor;Hornopirén;Tarde;1049554
+2738;Empleado_2738;Administrativo;Chinquihue;Mañana;881311
+2739;Empleado_2739;Operario;Hornopirén;Mañana;1502846
+2740;Empleado_2740;Técnico;Calbuco;Tarde;956275
+2741;Empleado_2741;Administrativo;Chinquihue;Mañana;1633376
+2742;Empleado_2742;Técnico;Chinquihue;Tarde;1869995
+2743;Empleado_2743;Técnico;Calbuco;Tarde;936654
+2744;Empleado_2744;Supervisor;Puerto Montt;Tarde;617484
+2745;Empleado_2745;Técnico;Hornopirén;Mañana;866543
+2746;Empleado_2746;Operario;Quellón;Mañana;1927068
+2747;Empleado_2747;Técnico;Puerto Montt;Tarde;1814174
+2748;Empleado_2748;Técnico;Hornopirén;Mañana;1994927
+2749;Empleado_2749;Supervisor;Calbuco;Noche;514866
+2750;Empleado_2750;Operario;Quellón;Mañana;1807962
+2751;Empleado_2751;Administrativo;Calbuco;Tarde;1377251
+2752;Empleado_2752;Técnico;Calbuco;Noche;1882844
+2753;Empleado_2753;Administrativo;Quellón;Tarde;1239945
+2754;Empleado_2754;Administrativo;Hornopirén;Tarde;1884878
+2755;Empleado_2755;Administrativo;Hornopirén;Tarde;1142235
+2756;Empleado_2756;Operario;Puerto Montt;Mañana;1545443
+2757;Empleado_2757;Técnico;Quellón;Mañana;1286231
+2758;Empleado_2758;Administrativo;Chinquihue;Tarde;1835344
+2759;Empleado_2759;Supervisor;Calbuco;Tarde;1644682
+2760;Empleado_2760;Supervisor;Calbuco;Noche;691456
+2761;Empleado_2761;Administrativo;Hornopirén;Noche;946642
+2762;Empleado_2762;Supervisor;Chinquihue;Tarde;1730555
+2763;Empleado_2763;Técnico;Puerto Montt;Mañana;796701
+2764;Empleado_2764;Supervisor;Puerto Montt;Noche;616074
+2765;Empleado_2765;Administrativo;Calbuco;Noche;1680080
+2766;Empleado_2766;Técnico;Hornopirén;Noche;965039
+2767;Empleado_2767;Supervisor;Calbuco;Tarde;1327197
+2768;Empleado_2768;Operario;Quellón;Noche;815557
+2769;Empleado_2769;Supervisor;Chinquihue;Noche;731815
+2770;Empleado_2770;Técnico;Puerto Montt;Mañana;1458374
+2771;Empleado_2771;Técnico;Chinquihue;Tarde;1497716
+2772;Empleado_2772;Administrativo;Calbuco;Noche;1086434
+2773;Empleado_2773;Administrativo;Quellón;Noche;1789611
+2774;Empleado_2774;Supervisor;Puerto Montt;Tarde;1193422
+2775;Empleado_2775;Supervisor;Hornopirén;Mañana;1016125
+2776;Empleado_2776;Administrativo;Chinquihue;Noche;677991
+2777;Empleado_2777;Técnico;Chinquihue;Tarde;1804597
+2778;Empleado_2778;Técnico;Puerto Montt;Mañana;1217576
+2779;Empleado_2779;Técnico;Quellón;Noche;1540097
+2780;Empleado_2780;Operario;Puerto Montt;Tarde;1110175
+2781;Empleado_2781;Supervisor;Calbuco;Tarde;1983586
+2782;Empleado_2782;Supervisor;Hornopirén;Mañana;920590
+2783;Empleado_2783;Administrativo;Puerto Montt;Noche;1247989
+2784;Empleado_2784;Supervisor;Chinquihue;Noche;920289
+2785;Empleado_2785;Técnico;Chinquihue;Noche;1448718
+2786;Empleado_2786;Administrativo;Chinquihue;Mañana;686733
+2787;Empleado_2787;Técnico;Puerto Montt;Tarde;1001821
+2788;Empleado_2788;Operario;Calbuco;Tarde;969116
+2789;Empleado_2789;Supervisor;Quellón;Tarde;1305526
+2790;Empleado_2790;Administrativo;Puerto Montt;Mañana;1539360
+2791;Empleado_2791;Técnico;Chinquihue;Tarde;1372792
+2792;Empleado_2792;Técnico;Puerto Montt;Noche;1481724
+2793;Empleado_2793;Operario;Puerto Montt;Mañana;885349
+2794;Empleado_2794;Administrativo;Calbuco;Noche;1178198
+2795;Empleado_2795;Operario;Chinquihue;Tarde;1367121
+2796;Empleado_2796;Administrativo;Quellón;Tarde;760101
+2797;Empleado_2797;Supervisor;Puerto Montt;Noche;979851
+2798;Empleado_2798;Supervisor;Chinquihue;Noche;697981
+2799;Empleado_2799;Supervisor;Calbuco;Mañana;1394969
+2800;Empleado_2800;Administrativo;Hornopirén;Tarde;1149777
+2801;Empleado_2801;Técnico;Quellón;Noche;1360467
+2802;Empleado_2802;Supervisor;Puerto Montt;Tarde;1859366
+2803;Empleado_2803;Operario;Hornopirén;Tarde;1189052
+2804;Empleado_2804;Técnico;Hornopirén;Noche;1673869
+2805;Empleado_2805;Administrativo;Chinquihue;Mañana;1842617
+2806;Empleado_2806;Técnico;Hornopirén;Noche;1112632
+2807;Empleado_2807;Técnico;Chinquihue;Mañana;1398683
+2808;Empleado_2808;Técnico;Quellón;Tarde;692231
+2809;Empleado_2809;Supervisor;Hornopirén;Mañana;1227714
+2810;Empleado_2810;Supervisor;Calbuco;Noche;1314350
+2811;Empleado_2811;Supervisor;Puerto Montt;Tarde;765541
+2812;Empleado_2812;Operario;Puerto Montt;Tarde;1692804
+2813;Empleado_2813;Supervisor;Puerto Montt;Mañana;817857
+2814;Empleado_2814;Administrativo;Calbuco;Noche;1870494
+2815;Empleado_2815;Técnico;Puerto Montt;Mañana;1670165
+2816;Empleado_2816;Supervisor;Puerto Montt;Mañana;1328158
+2817;Empleado_2817;Administrativo;Hornopirén;Tarde;1351711
+2818;Empleado_2818;Supervisor;Hornopirén;Noche;1340537
+2819;Empleado_2819;Técnico;Puerto Montt;Noche;672465
+2820;Empleado_2820;Técnico;Chinquihue;Mañana;539197
+2821;Empleado_2821;Supervisor;Puerto Montt;Noche;871026
+2822;Empleado_2822;Técnico;Puerto Montt;Tarde;789729
+2823;Empleado_2823;Supervisor;Quellón;Noche;1544190
+2824;Empleado_2824;Operario;Chinquihue;Noche;899745
+2825;Empleado_2825;Supervisor;Hornopirén;Noche;1947183
+2826;Empleado_2826;Administrativo;Hornopirén;Noche;759458
+2827;Empleado_2827;Técnico;Chinquihue;Tarde;1867047
+2828;Empleado_2828;Administrativo;Quellón;Noche;883991
+2829;Empleado_2829;Supervisor;Puerto Montt;Mañana;1477438
+2830;Empleado_2830;Supervisor;Hornopirén;Tarde;1801884
+2831;Empleado_2831;Supervisor;Chinquihue;Noche;704110
+2832;Empleado_2832;Administrativo;Chinquihue;Mañana;1781090
+2833;Empleado_2833;Supervisor;Calbuco;Tarde;966622
+2834;Empleado_2834;Operario;Hornopirén;Mañana;869790
+2835;Empleado_2835;Operario;Quellón;Mañana;776273
+2836;Empleado_2836;Supervisor;Chinquihue;Noche;1169310
+2837;Empleado_2837;Supervisor;Quellón;Tarde;739257
+2838;Empleado_2838;Operario;Quellón;Tarde;627793
+2839;Empleado_2839;Técnico;Hornopirén;Mañana;583145
+2840;Empleado_2840;Administrativo;Calbuco;Noche;1368161
+2841;Empleado_2841;Técnico;Chinquihue;Tarde;1875572
+2842;Empleado_2842;Administrativo;Hornopirén;Tarde;1952483
+2843;Empleado_2843;Técnico;Hornopirén;Tarde;1894435
+2844;Empleado_2844;Técnico;Puerto Montt;Noche;603153
+2845;Empleado_2845;Técnico;Hornopirén;Mañana;608851
+2846;Empleado_2846;Técnico;Hornopirén;Tarde;1765617
+2847;Empleado_2847;Técnico;Chinquihue;Mañana;1099868
+2848;Empleado_2848;Técnico;Quellón;Mañana;1284113
+2849;Empleado_2849;Operario;Hornopirén;Tarde;814598
+2850;Empleado_2850;Administrativo;Quellón;Tarde;1779127
+2851;Empleado_2851;Operario;Hornopirén;Mañana;1925734
+2852;Empleado_2852;Supervisor;Calbuco;Tarde;929604
+2853;Empleado_2853;Administrativo;Chinquihue;Tarde;1807387
+2854;Empleado_2854;Supervisor;Calbuco;Noche;968804
+2855;Empleado_2855;Supervisor;Quellón;Mañana;710146
+2856;Empleado_2856;Supervisor;Hornopirén;Tarde;982736
+2857;Empleado_2857;Supervisor;Quellón;Noche;1591420
+2858;Empleado_2858;Administrativo;Quellón;Mañana;734481
+2859;Empleado_2859;Técnico;Puerto Montt;Mañana;1999790
+2860;Empleado_2860;Operario;Hornopirén;Tarde;1443598
+2861;Empleado_2861;Operario;Chinquihue;Tarde;1376002
+2862;Empleado_2862;Operario;Quellón;Mañana;1420376
+2863;Empleado_2863;Administrativo;Hornopirén;Mañana;1317832
+2864;Empleado_2864;Técnico;Hornopirén;Noche;1773771
+2865;Empleado_2865;Administrativo;Chinquihue;Mañana;634023
+2866;Empleado_2866;Administrativo;Calbuco;Noche;1543457
+2867;Empleado_2867;Administrativo;Calbuco;Noche;1208099
+2868;Empleado_2868;Supervisor;Hornopirén;Noche;1038023
+2869;Empleado_2869;Administrativo;Calbuco;Tarde;949476
+2870;Empleado_2870;Supervisor;Calbuco;Mañana;1927654
+2871;Empleado_2871;Técnico;Hornopirén;Noche;1394730
+2872;Empleado_2872;Supervisor;Quellón;Noche;1836779
+2873;Empleado_2873;Operario;Puerto Montt;Tarde;1888997
+2874;Empleado_2874;Operario;Chinquihue;Tarde;735017
+2875;Empleado_2875;Supervisor;Puerto Montt;Mañana;1038498
+2876;Empleado_2876;Operario;Chinquihue;Tarde;835167
+2877;Empleado_2877;Operario;Calbuco;Mañana;1969469
+2878;Empleado_2878;Administrativo;Puerto Montt;Tarde;694306
+2879;Empleado_2879;Administrativo;Puerto Montt;Mañana;1972974
+2880;Empleado_2880;Técnico;Chinquihue;Tarde;704185
+2881;Empleado_2881;Supervisor;Puerto Montt;Mañana;1386123
+2882;Empleado_2882;Operario;Puerto Montt;Noche;1037806
+2883;Empleado_2883;Técnico;Calbuco;Tarde;1973974
+2884;Empleado_2884;Supervisor;Quellón;Noche;1963476
+2885;Empleado_2885;Administrativo;Quellón;Mañana;893931
+2886;Empleado_2886;Técnico;Calbuco;Mañana;1770047
+2887;Empleado_2887;Administrativo;Calbuco;Tarde;812816
+2888;Empleado_2888;Supervisor;Hornopirén;Noche;1845406
+2889;Empleado_2889;Administrativo;Calbuco;Mañana;694253
+2890;Empleado_2890;Operario;Quellón;Tarde;1380735
+2891;Empleado_2891;Técnico;Quellón;Noche;717975
+2892;Empleado_2892;Operario;Calbuco;Mañana;959953
+2893;Empleado_2893;Administrativo;Puerto Montt;Noche;727194
+2894;Empleado_2894;Operario;Quellón;Noche;1608278
+2895;Empleado_2895;Administrativo;Calbuco;Mañana;1238964
+2896;Empleado_2896;Administrativo;Hornopirén;Tarde;1186201
+2897;Empleado_2897;Operario;Puerto Montt;Tarde;1327168
+2898;Empleado_2898;Técnico;Puerto Montt;Tarde;1164229
+2899;Empleado_2899;Administrativo;Chinquihue;Tarde;678333
+2900;Empleado_2900;Supervisor;Calbuco;Mañana;893836
+2901;Empleado_2901;Supervisor;Hornopirén;Tarde;1295534
+2902;Empleado_2902;Supervisor;Chinquihue;Noche;1093701
+2903;Empleado_2903;Supervisor;Hornopirén;Tarde;1828882
+2904;Empleado_2904;Operario;Chinquihue;Tarde;1756484
+2905;Empleado_2905;Técnico;Quellón;Tarde;626423
+2906;Empleado_2906;Operario;Quellón;Mañana;919709
+2907;Empleado_2907;Operario;Chinquihue;Tarde;1824880
+2908;Empleado_2908;Supervisor;Hornopirén;Mañana;968265
+2909;Empleado_2909;Administrativo;Chinquihue;Noche;1661115
+2910;Empleado_2910;Técnico;Puerto Montt;Tarde;1561084
+2911;Empleado_2911;Técnico;Quellón;Mañana;1544670
+2912;Empleado_2912;Administrativo;Quellón;Tarde;741946
+2913;Empleado_2913;Administrativo;Puerto Montt;Mañana;1303546
+2914;Empleado_2914;Operario;Hornopirén;Tarde;1013011
+2915;Empleado_2915;Operario;Calbuco;Noche;1865112
+2916;Empleado_2916;Técnico;Puerto Montt;Tarde;568537
+2917;Empleado_2917;Operario;Hornopirén;Noche;1711592
+2918;Empleado_2918;Supervisor;Chinquihue;Tarde;1216158
+2919;Empleado_2919;Supervisor;Quellón;Mañana;654900
+2920;Empleado_2920;Administrativo;Puerto Montt;Tarde;1534411
+2921;Empleado_2921;Técnico;Calbuco;Mañana;1497512
+2922;Empleado_2922;Administrativo;Puerto Montt;Mañana;1353557
+2923;Empleado_2923;Supervisor;Chinquihue;Tarde;1464021
+2924;Empleado_2924;Supervisor;Puerto Montt;Noche;624919
+2925;Empleado_2925;Operario;Quellón;Noche;1404102
+2926;Empleado_2926;Supervisor;Calbuco;Tarde;1432752
+2927;Empleado_2927;Técnico;Puerto Montt;Tarde;1818417
+2928;Empleado_2928;Supervisor;Calbuco;Tarde;1752829
+2929;Empleado_2929;Operario;Puerto Montt;Tarde;1966598
+2930;Empleado_2930;Técnico;Hornopirén;Noche;1810895
+2931;Empleado_2931;Operario;Hornopirén;Mañana;1619671
+2932;Empleado_2932;Supervisor;Quellón;Mañana;1057373
+2933;Empleado_2933;Administrativo;Calbuco;Mañana;1371174
+2934;Empleado_2934;Técnico;Puerto Montt;Mañana;978265
+2935;Empleado_2935;Supervisor;Hornopirén;Noche;1575208
+2936;Empleado_2936;Técnico;Chinquihue;Noche;1109764
+2937;Empleado_2937;Supervisor;Puerto Montt;Noche;1961315
+2938;Empleado_2938;Operario;Calbuco;Mañana;1959343
+2939;Empleado_2939;Supervisor;Quellón;Mañana;1509332
+2940;Empleado_2940;Técnico;Hornopirén;Tarde;1181856
+2941;Empleado_2941;Administrativo;Quellón;Mañana;1522971
+2942;Empleado_2942;Administrativo;Chinquihue;Tarde;1388183
+2943;Empleado_2943;Supervisor;Puerto Montt;Mañana;1950610
+2944;Empleado_2944;Técnico;Puerto Montt;Noche;1536108
+2945;Empleado_2945;Administrativo;Quellón;Mañana;1504908
+2946;Empleado_2946;Administrativo;Quellón;Mañana;1024735
+2947;Empleado_2947;Operario;Hornopirén;Mañana;1456861
+2948;Empleado_2948;Administrativo;Quellón;Tarde;1226562
+2949;Empleado_2949;Operario;Quellón;Noche;1184905
+2950;Empleado_2950;Operario;Quellón;Mañana;1134884
+2951;Empleado_2951;Administrativo;Puerto Montt;Mañana;1725314
+2952;Empleado_2952;Administrativo;Chinquihue;Noche;1356036
+2953;Empleado_2953;Administrativo;Hornopirén;Mañana;731505
+2954;Empleado_2954;Supervisor;Calbuco;Tarde;1321728
+2955;Empleado_2955;Técnico;Chinquihue;Tarde;1094418
+2956;Empleado_2956;Supervisor;Calbuco;Tarde;1694119
+2957;Empleado_2957;Supervisor;Chinquihue;Mañana;851853
+2958;Empleado_2958;Supervisor;Quellón;Tarde;1446896
+2959;Empleado_2959;Operario;Quellón;Noche;1142551
+2960;Empleado_2960;Supervisor;Quellón;Tarde;1390687
+2961;Empleado_2961;Administrativo;Puerto Montt;Mañana;1235071
+2962;Empleado_2962;Operario;Calbuco;Noche;600997
+2963;Empleado_2963;Supervisor;Quellón;Tarde;1746473
+2964;Empleado_2964;Técnico;Puerto Montt;Tarde;1653272
+2965;Empleado_2965;Administrativo;Puerto Montt;Noche;1273421
+2966;Empleado_2966;Operario;Hornopirén;Noche;639640
+2967;Empleado_2967;Técnico;Puerto Montt;Mañana;1949406
+2968;Empleado_2968;Operario;Puerto Montt;Noche;1451909
+2969;Empleado_2969;Operario;Quellón;Tarde;1401695
+2970;Empleado_2970;Técnico;Hornopirén;Tarde;906247
+2971;Empleado_2971;Operario;Hornopirén;Noche;1369025
+2972;Empleado_2972;Administrativo;Quellón;Noche;694313
+2973;Empleado_2973;Operario;Calbuco;Mañana;1462410
+2974;Empleado_2974;Administrativo;Quellón;Mañana;1508728
+2975;Empleado_2975;Operario;Quellón;Mañana;1550509
+2976;Empleado_2976;Supervisor;Puerto Montt;Tarde;1754358
+2977;Empleado_2977;Administrativo;Hornopirén;Tarde;1620450
+2978;Empleado_2978;Operario;Calbuco;Mañana;1244836
+2979;Empleado_2979;Administrativo;Chinquihue;Tarde;1805864
+2980;Empleado_2980;Operario;Chinquihue;Mañana;1483554
+2981;Empleado_2981;Técnico;Chinquihue;Noche;1358707
+2982;Empleado_2982;Administrativo;Calbuco;Noche;1213272
+2983;Empleado_2983;Técnico;Chinquihue;Tarde;1538766
+2984;Empleado_2984;Operario;Chinquihue;Noche;1653344
+2985;Empleado_2985;Operario;Calbuco;Tarde;1402526
+2986;Empleado_2986;Supervisor;Puerto Montt;Mañana;736524
+2987;Empleado_2987;Administrativo;Puerto Montt;Noche;578404
+2988;Empleado_2988;Técnico;Calbuco;Noche;696203
+2989;Empleado_2989;Administrativo;Puerto Montt;Mañana;968536
+2990;Empleado_2990;Operario;Hornopirén;Mañana;1247052
+2991;Empleado_2991;Técnico;Puerto Montt;Noche;1192269
+2992;Empleado_2992;Administrativo;Quellón;Mañana;968602
+2993;Empleado_2993;Operario;Puerto Montt;Noche;1257992
+2994;Empleado_2994;Operario;Chinquihue;Mañana;1153564
+2995;Empleado_2995;Administrativo;Puerto Montt;Tarde;906262
+2996;Empleado_2996;Administrativo;Quellón;Mañana;1896628
+2997;Empleado_2997;Operario;Hornopirén;Noche;1777344
+2998;Empleado_2998;Administrativo;Calbuco;Tarde;1485762
+2999;Empleado_2999;Administrativo;Hornopirén;Noche;1564064
+3000;Empleado_3000;Supervisor;Puerto Montt;Mañana;1639590
