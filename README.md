@@ -76,5 +76,20 @@ Python (pandas) ──► SQL Server (tablas + vistas) ──► Power BI (Direc
 
 ---
 
+## 5) Stack usado en el proyecto
+
+Power BI (DirectQuery, DAX, drill-through, tooltips, bookmarks).
+
+SQL Server (vistas, joins, normalización).
+
+Python (pandas, pyodbc/msal/sqlalchemy según setup).
+
+ODBC Driver 18 for SQL Server (sirve para insertar datos de Jupyter a Sql server)
+
+GitHub (código, documentación, versionado).
+
+---
+
 <img width="1990" height="1123" alt="Image" src="https://github.com/user-attachments/assets/09b5d912-ea19-49ea-908d-4a9fd042e2a5" />
+<img width="1560" height="1004" alt="Image" src="https://github.com/user-attachments/assets/4a293b85-a1bc-42e6-b70e-eaa123d424b1" />
 <img width="2400" height="1454" alt="Image" src="https://github.com/user-attachments/assets/5d50d051-8f02-416c-b5c8-d4d080dddd4e" />
