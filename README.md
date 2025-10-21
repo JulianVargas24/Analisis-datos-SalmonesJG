@@ -4,7 +4,7 @@
 > **ingesta Python → SQL Server** y visualización en **Power BI** usando **DirectQuery**
 > para reflejar datos **al instante**.
 
-[🎥 Demo corta (2–3 min)](TODO-link-video)
+[🎥 Demo: https://youtu.be/N6DEwUInFmM]
 
 ---
 
