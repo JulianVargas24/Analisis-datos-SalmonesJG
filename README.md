@@ -91,5 +91,8 @@ GitHub (código, documentación, versionado).
 ---
 
 <img width="1990" height="1123" alt="Image" src="https://github.com/user-attachments/assets/09b5d912-ea19-49ea-908d-4a9fd042e2a5" />
+<img width="1455" height="813" alt="Image" src="https://github.com/user-attachments/assets/acbfa982-0aac-4c9e-99bd-155e8fdd038d" />
+<img width="1456" height="814" alt="image" src="https://github.com/user-attachments/assets/405de552-bbcb-43fe-bedb-b72527f626a9" />
+<img width="1455" height="812" alt="image" src="https://github.com/user-attachments/assets/4d4427c2-51a2-4910-a526-ca7ba54e9e2e" />
 <img width="1560" height="1004" alt="Image" src="https://github.com/user-attachments/assets/4a293b85-a1bc-42e6-b70e-eaa123d424b1" />
 <img width="2400" height="1454" alt="Image" src="https://github.com/user-attachments/assets/5d50d051-8f02-416c-b5c8-d4d080dddd4e" />
